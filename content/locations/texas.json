@@ -1,0 +1,89 @@
+{
+  "slug": "texas",
+  "title": "Sell Mineral Rights in Texas",
+  "type": "state",
+  "group": "Permian, Eagle Ford, Haynesville TX, Barnett, Anadarko TX",
+  "primaryKeyword": "mineral rights texas",
+  "seo": {
+    "vol": 1300,
+    "cpc": 4.15
+  },
+  "metaTitle": "Sell Mineral Rights in Texas | Permian to Eagle Ford",
+  "metaDescription": "Texas mineral owners in the Permian, Eagle Ford, Haynesville, Barnett, or Anadarko: we start by figuring out which play is actually paying your check.",
+  "heroLead": "Ask the royalty desk about Texas mineral rights and the first question is always which Texas, because West Texas, South Texas, and East Texas don't have much in common besides the state line.",
+  "intro": [
+    "Texas is the biggest mineral rights state the royalty desk reviews, and it's really five or six different plays wearing one name. A Permian Basin owner in Midland or Reeves County is looking at a completely different well profile than an Eagle Ford owner in Karnes County or a Haynesville owner up near Harrison County. Before the royalty desk can support a number, the file needs to identify which play, which county, and ideally which operator you're dealing with.",
+    "That's not a stall tactic, it's just how Texas actually works. The state's size means a statewide answer is almost always the wrong answer for your specific tract."
+  ],
+  "sections": [
+    {
+      "heading": "Which Play Is Paying Your Check",
+      "paragraphs": [
+        "Your division order or lease should name the well, and from there county records tell us the play. If you're not sure, the mix of products on your statement is a decent clue, heavy oil with some gas points toward Permian or Eagle Ford, while a stream that's almost entirely gas with little liquid content often points toward Haynesville or Barnett.",
+        "Once we know the play, we pull well-level production rather than relying on general assumptions about how that basin performs, since individual wells vary widely even within the same formation."
+      ]
+    },
+    {
+      "heading": "Permian Basin Owners (West Texas)",
+      "paragraphs": [
+        "Midland, Reeves, Loving, Ward, and the surrounding counties sit in the most actively developed oil play in the country, with multi-bench horizontal drilling and, in many spots, ongoing permitting for additional wells on existing units. Permian interests generally carry the strongest near-term development potential of any Texas play we see, which is a real factor in pricing beyond just current production.",
+        "We check Railroad Commission permits for your specific unit as part of any Permian offer, since undrilled locations already permitted can matter as much as what's currently producing."
+      ]
+    },
+    {
+      "heading": "Eagle Ford Owners (South Texas)",
+      "paragraphs": [
+        "Karnes, DeWitt, La Salle, and neighboring counties made up one of the earliest major horizontal shale plays, and a lot of Eagle Ford wells are now well into their production life with established, if declining, output. Owners here are often deciding between holding a mature, steady-if-shrinking check or selling into an offer priced against that known decline trajectory.",
+        "We look closely at how far along the curve your specific well sits, since Eagle Ford wells span a wide range of ages and remaining life at this point in the play's history."
+      ]
+    },
+    {
+      "heading": "East Texas Haynesville and Legacy Barnett",
+      "paragraphs": [
+        "Harrison, Panola, and Shelby counties sit in the Texas side of the Haynesville, a dry gas play that's highly sensitive to natural gas pricing cycles, with activity ramping up and down depending on where gas prices sit. Further north, the Barnett Shale around Fort Worth was one of the original shale gas plays and is now almost entirely legacy production, older wells on long, flat declines with limited new drilling.",
+        "Anadarko Basin acreage in the Texas Panhandle carries its own mix of older conventional production and some newer horizontal activity, and we price it the same way, against the specific well rather than the play's reputation."
+      ]
+    },
+    {
+      "heading": "Texas Railroad Commission Records",
+      "paragraphs": [
+        "Texas keeps unusually thorough public well and production records through the Railroad Commission, which actually works in your favor when selling, since we can verify a well's history without relying entirely on your statements. That said, county-level title work still matters for confirming the actual chain of ownership on your tract.",
+        "We handle both pieces so you're not stuck gathering documents you may not have on hand."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do you know which play your Texas mineral rights are in?",
+      "answer": "Your division order or lease will typically name the well and county, which we can cross-reference against Railroad Commission records. If you're unsure, send us what you have and we'll identify the play before quoting."
+    },
+    {
+      "question": "Is Permian Basin acreage worth more than Eagle Ford or Haynesville?",
+      "answer": "Generally the Permian carries more near-term development potential given current drilling activity, but a mature, well-performing Eagle Ford or Haynesville interest can still be a strong asset. We price against your specific well's history and remaining potential rather than a blanket ranking of plays."
+    },
+    {
+      "question": "Your Barnett Shale check has been flat and small for years. Is it still worth selling?",
+      "answer": "Often yes, legacy Barnett wells that have settled into a long, flat decline can still have real value, priced against that steady, lower-volume tail rather than early-life production assumptions."
+    },
+    {
+      "question": "Do you check Railroad Commission records before making an offer?",
+      "answer": "Yes, Texas's public well and production data through the Railroad Commission is a standard part of how we verify a well's history and current status before pricing any Texas interest."
+    },
+    {
+      "question": "Can minerals in more than one Texas play be evaluated as one package?",
+      "answer": "Usually, yes. We evaluate each tract on its own production and location, then can put together a single offer covering multiple counties or plays if that's simpler for you."
+    },
+    {
+      "question": "What if you only have partial paperwork on your Texas mineral rights?",
+      "answer": "That's common, especially with older or inherited interests. Between Railroad Commission well records and county deed records, we can usually piece together enough to move forward even with incomplete files on your end."
+    }
+  ],
+  "status": "written",
+  "wordCount": 916,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-texas.jpg",
+    "alt": "Replacement Minerals in Texas location",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "slug": "oklahoma",
+  "title": "Sell Mineral Rights in Oklahoma",
+  "type": "state",
+  "group": "SCOOP/STACK, Anadarko, Arkoma, Osage",
+  "primaryKeyword": "mineral rights oklahoma",
+  "seo": {
+    "vol": 390,
+    "cpc": 10.66
+  },
+  "metaTitle": "Sell Mineral Rights in Oklahoma | SCOOP, STACK Buyer",
+  "metaDescription": "Oklahoma pooled-unit mineral owners in the SCOOP, STACK, Anadarko, Arkoma, or Osage: we start with your decimal interest and build the offer from there.",
+  "heroLead": "The first thing the royalty desk requests from an Oklahoma owner isn't the county, it's the decimal on the check, because that number is where the real conversation starts.",
+  "intro": [
+    "Oklahoma runs mostly on pooled spacing units, which means your royalty check almost never reflects a single well sitting on your own tract. Instead you're getting a decimal share, your net revenue interest, of everything produced from a larger unit that may cover 640 or 1,280 acres and include several wells. Understanding that decimal, and how it was calculated, is the starting point for any real conversation about what your interest is worth.",
+    "Owners sometimes assume their check was small because their well wasn't producing much, when the real answer was just a small decimal on a very productive unit. Getting that distinction right changes the entire offer."
+  ],
+  "sections": [
+    {
+      "heading": "Your Decimal Interest on an Oklahoma Pooled Unit",
+      "paragraphs": [
+        "Oklahoma spacing units are typically set by Corporation Commission order, and your net revenue interest is your mineral acreage divided by the total unit acreage, multiplied by your royalty rate. A tiny-looking decimal like 0.00195 isn't unusual on a 1,280-acre unit if your family holds a modest tract, and it doesn't mean the unit itself is underperforming.",
+        "We ask for a division order or recent check stub early specifically to see that decimal, since it tells us your share size independent of how the unit as a whole is producing."
+      ]
+    },
+    {
+      "heading": "SCOOP and STACK Owners",
+      "paragraphs": [
+        "The SCOOP and STACK plays across central Oklahoma have seen dense, multi-bench horizontal development for years now, often with several wells targeting different formations under the same surface acreage. If you're in one of these plays, it's worth checking whether there's permitted but undrilled activity on your unit, since additional wells can be added to an existing unit well after your first check arrives.",
+        "We look at Corporation Commission filings for exactly this before pricing, because a unit with active permitting behaves differently going forward than one that's fully developed and declining."
+      ]
+    },
+    {
+      "heading": "Osage County's Different Rules",
+      "paragraphs": [
+        "Osage County operates under a different regulatory structure than the rest of Oklahoma, with mineral rights held in trust for the Osage Nation and administered through federal processes rather than the state Corporation Commission. If your interest is in Osage County, the paperwork and approval process for a sale is genuinely different, and we handle it accordingly rather than treating it like a standard Oklahoma transaction.",
+        "This is one of the few places in our footprint where the process itself, beyond the geology, changes materially."
+      ]
+    },
+    {
+      "heading": "Arkoma Basin Coalbed Gas and Legacy Anadarko Wells",
+      "paragraphs": [
+        "Southeastern Oklahoma's Arkoma Basin has a long history of coalbed methane and conventional gas production, generally older and more slowly declining than the horizontal plays further west. The western Anadarko Basin similarly carries decades of legacy conventional production alongside newer horizontal activity in spots. Both tend to produce steadier, more predictable checks than a newly drilled SCOOP or STACK well still working through its early decline.",
+        "We price these the same careful way, against actual production history rather than assuming everything in the state behaves like the newer plays."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is your decimal interest so small if you own a decent amount of land?",
+      "answer": "Oklahoma spacing units can cover 640 to 1,280 acres or more, and your decimal reflects your mineral acreage as a fraction of the whole unit. A small decimal on a large, productive unit can still add up to a solid check."
+    },
+    {
+      "question": "Can more wells be added to your Oklahoma unit after you start getting checks?",
+      "answer": "Yes, especially in the SCOOP and STACK where operators often develop multiple benches over time. We check Corporation Commission permitting activity to see if that's likely before pricing an offer."
+    },
+    {
+      "question": "Is selling mineral rights in Osage County different from the rest of Oklahoma?",
+      "answer": "Yes. Osage County minerals are held in trust for the Osage Nation and involve a different approval process than standard state transactions. We handle Osage County sales with the appropriate additional steps built in."
+    },
+    {
+      "question": "Your Arkoma Basin check is small and hasn't changed in years. Is that a bad sign?",
+      "answer": "Not necessarily. Arkoma coalbed and conventional wells often settle into a long, flat, low-volume production tail, which shows up as a steady rather than declining check for extended periods."
+    },
+    {
+      "question": "How do you confirm your exact decimal interest before talking to a buyer?",
+      "answer": "Your division order will show it directly. If you don't have one on hand, a recent check stub usually lists it too, and if neither is available we can typically pull it from Corporation Commission and county records once we know the well or unit name."
+    },
+    {
+      "question": "Do you buy legacy Anadarko Basin conventional interests, or only newer SCOOP and STACK wells?",
+      "answer": "We buy both. Legacy Anadarko interests are priced against their own steady, mature production history rather than compared to newer horizontal wells, which behave very differently."
+    },
+    {
+      "question": "How quickly can an Oklahoma mineral sale close?",
+      "answer": "Once we have your division order and can confirm the decimal and title, most Oklahoma closings move fairly quickly, typically a matter of weeks rather than months, though older or more fractured title chains can take longer."
+    }
+  ],
+  "status": "written",
+  "wordCount": 886,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-oklahoma.jpg",
+    "alt": "Replacement Minerals in Oklahoma location",
+    "width": 1600,
+    "height": 1000
+  }
+}

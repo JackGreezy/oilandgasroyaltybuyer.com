@@ -1,0 +1,66 @@
+{
+  "slug": "divorce-mineral-division",
+  "title": "Mineral Rights in Divorce",
+  "type": "situation",
+  "note": "dividing or liquidating in settlement",
+  "status": "written",
+  "metaTitle": "Dividing Mineral Rights in a Divorce Settlement",
+  "metaDescription": "Mineral and royalty interests are hard to split evenly in a divorce. See how they're valued, why courts often push a sale, and what a buyer needs to close fast.",
+  "heroLead": "A royalty check is one of the messier assets to split in a divorce, because unlike a bank account it doesn't divide into two equal halves without help.",
+  "intro": [
+    "Oil & Gas Royalty Buyer brings operating-side experience to mineral transactions, and divorce files are often among the slowest to close. Not because the minerals were complicated geologically, but because two people who used to trust each other now had to agree on what a decline curve is worth. A house has comps. A car has a blue book. A royalty interest has a check history, a lease that may or may not get renewed, and a production curve that could be flat next year or gone.",
+    "Most attorneys handling the split have never read a division order. That's not a knock on them; it's just not their world. So the mineral interest sits in the settlement as a line item nobody wants to argue about, which usually means it gets undervalued, over-litigated, or punted to 'we'll figure it out later.' None of those outcomes serve either party."
+  ],
+  "sections": [
+    {
+      "heading": "Why minerals don't split cleanly",
+      "paragraphs": [
+        "A mineral or royalty interest is really a bundle: the right to bonus money if it gets leased again, the right to a share of production if a well is drilled, and in some states a say in who operates. Courts are used to splitting things fifty-fifty by dollar value, but minerals don't have a single dollar value. They have a range, driven by how many months of checks exist, what the decline curve looks like, and whether the county is still seeing new permits.",
+        "The common outcome is one of three paths: one spouse keeps the interest and buys out the other's share in cash, the interest is sold outright and the proceeds split, or the interest is co-owned after the divorce, which almost nobody wants long-term. Co-ownership between ex-spouses tends to generate a phone call every time a new lease offer or division order shows up, for years."
+      ]
+    },
+    {
+      "heading": "How a buyer looks at a settlement interest",
+      "paragraphs": [
+        "When the royalty desk evaluates a divorce-related interest, the first request is the same evidence requested from any owner: recent check stubs or the 1099 from the operator, and if there is one, the lease itself. Production history over the last twelve to twenty-four months usually provides more usable evidence than a generic appraisal report. If the interest is leased but not producing, the review looks at neighboring well activity and how active the operator has been permitting nearby.",
+        "Value on a producing interest is typically quoted as a range tied to trailing production and recent activity in the area, not a flat multiple pulled out of the air. If someone quotes you a number without asking for check history, that number isn't grounded in anything real."
+      ]
+    },
+    {
+      "heading": "Getting a sale to actually close during settlement",
+      "paragraphs": [
+        "If the settlement calls for a sale and split of proceeds, the timeline matters as much as the price. Courts want closure, and dragging a mineral sale out for months while paperwork gets sorted is exactly what neither spouse wants during an already difficult year. A straightforward cash sale with a clean deed avoids the interest lingering as an open item on both parties' returns.",
+        "One practical note: if the deed is still in both names, or the divorce decree hasn't been finalized yet, a buyer will want the decree language on record before funding, so the transfer can't be challenged later. Get that squared away with your attorney before you start shopping the interest, and the closing itself moves fast."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can one spouse sell the mineral interest without the other's consent during divorce proceedings?",
+      "answer": "Generally no, not while the interest is still jointly titled or under court jurisdiction as marital property. Any sale needs to follow whatever the settlement agreement or decree specifies, and a buyer will ask to see that language before closing."
+    },
+    {
+      "question": "How is a producing royalty interest valued for a divorce settlement?",
+      "answer": "Most valuations lean on trailing production history, current decline trend, and nearby drilling activity, expressed as a range rather than a fixed number. A formal appraisal can be ordered if the case is contested, but many settlements rely on recent check history and a market quote instead."
+    },
+    {
+      "question": "What if we can't agree on whether to sell or one of us keeps it?",
+      "answer": "That disagreement is common, and it's usually resolved by getting an independent market quote on the interest so both sides are negotiating from the same number, rather than one spouse's guess against the other's."
+    },
+    {
+      "question": "Does selling mineral rights during a divorce trigger separate tax treatment?",
+      "answer": "Sale proceeds are generally treated like any other capital asset sale, with basis and holding period questions specific to your situation. Talk to your CPA or attorney about how the sale interacts with the rest of the settlement before you sign anything."
+    },
+    {
+      "question": "What documents does a buyer need if the interest came out of a divorce?",
+      "answer": "A copy of the divorce decree or settlement agreement showing the division of the mineral interest, the current deed, and recent check stubs or a division order number are the basics. Having those ready before you contact a buyer usually shortens the process by weeks."
+    }
+  ],
+  "wordCount": 912,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-divorce-mineral-division-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Mineral Rights in Divorce mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

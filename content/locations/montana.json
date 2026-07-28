@@ -1,0 +1,78 @@
+{
+  "slug": "montana",
+  "title": "Sell Mineral Rights in Montana",
+  "type": "state",
+  "group": "Bakken edge, Powder River MT",
+  "primaryKeyword": "mineral rights montana",
+  "seo": {
+    "vol": 210,
+    "cpc": 10.76
+  },
+  "metaTitle": "Sell Mineral Rights in Montana | Royalty Check Buyer",
+  "metaDescription": "Montana mineral owners in Sheridan, Roosevelt, Richland, or the Powder River counties: get a cash offer read against your actual royalty statement, not a guess.",
+  "heroLead": "Years of reviewing Montana division orders show that two owners with the same acreage can have entirely different checks depending on which side of the state line they landed on.",
+  "intro": [
+    "Montana mineral owners fall into two camps and it matters which one you're in. Up in Sheridan, Roosevelt, and Richland counties you're on the flank of the Bakken, catching spillover from the North Dakota core but rarely the same intensity. Down in Powder River, Custer, and Rosebud counties you're more likely sitting on older coalbed methane gas or conventional oil that's been producing quietly for decades. Neither situation is bad. They're just different animals for pricing what a buyer will pay.",
+    "The review starts with the statement, not the map. A Montana check reveals more about spacing, operator behavior, and decline than any basin outline ever will."
+  ],
+  "sections": [
+    {
+      "heading": "Bakken Flank vs. Core",
+      "paragraphs": [
+        "If your acreage sits in eastern Sheridan or Roosevelt County, you're catching Bakken production but usually from wells drilled later in the play's development, often with wider spacing or thinner pay than what's common across the line in McKenzie County, North Dakota. That's not a knock on the interest, it just changes the math. Flank wells decline the same way core wells do, just from a lower starting point, so the value curve is compressed.",
+        "The royalty desk has evaluated flank interests where the owner assumed their check would behave like their cousin's in North Dakota and got frustrated when it didn't. Knowing which side of that line you're on before you talk numbers saves everybody time."
+      ]
+    },
+    {
+      "heading": "Reading a Split Interest on a Small Montana Tract",
+      "paragraphs": [
+        "A lot of Montana mineral ownership traces back to homestead-era severances, which means by the time it reaches you it's been divided among heirs multiple times over. Your decimal interest on the check might read something like 0.00312500, and that number alone tells an experienced buyer roughly what tract size and generation of split you're dealing with.",
+        "Before the royalty desk quotes anything, the file needs the actual decimal and the operator's name. Different operators in the same county can pay differently depending on their deduction practices, and that shows up in the net line before it shows up in anything the royalty desk could explain over the phone."
+      ]
+    },
+    {
+      "heading": "Powder River County Coalbed and Conventional Gas",
+      "paragraphs": [
+        "Powder River Basin coalbed methane in Montana never had the same volume of drilling as the Wyoming side, but there's a real base of older gas wells still on the books in Powder River, Custer, and Carter counties, plus scattered conventional oil going back to earlier development eras. Checks from this class of well tend to be small and steady rather than large and declining, which changes how the royalty desk evaluates a fair offer.",
+        "These are often the interests nobody in the family has looked at closely in years. A quick title and production pull usually tells us more than the owner expected, one way or the other."
+      ]
+    },
+    {
+      "heading": "What We Look At Before We Quote a Montana Interest",
+      "paragraphs": [
+        "We pull recent production history where it's public, cross-reference county assessor and clerk records for the legal description, and read your last several statements if you can send them. Montana counties vary in how digitized their records are, so older Sheridan and Roosevelt County filings sometimes take a courthouse call rather than an online pull.",
+        "Value on a Montana interest depends heavily on activity nearby, whether the well is still in its early decline or has flattened out, and whether there's any permitted offset activity that could change things. We'll walk you through what we found and how we got to a number before you decide anything."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does your mineral rights value depend on which county you are in?",
+      "answer": "Yes, quite a bit. Sheridan and Roosevelt County flank-Bakken interests are typically priced against a different production curve than Powder River or Custer County coalbed and conventional interests. We look at your specific well history rather than a statewide average."
+    },
+    {
+      "question": "Your Montana check has been the same for years, is that normal?",
+      "answer": "For older coalbed and conventional wells, yes, flat checks over long stretches are common and usually mean the well has settled into a stable decline. For Bakken-adjacent wells, a flat check after early years can also mean production has leveled off rather than continuing to fall."
+    },
+    {
+      "question": "Can the royalty desk help with an inherited fractional interest when the legal description is unknown?",
+      "answer": "Usually. Send us whatever you have, a check stub, a division order, an old lease, and we can typically trace it through county records from there. A missing legal description slows things down, it doesn't stop them."
+    },
+    {
+      "question": "Is Powder River County coalbed gas worth less than Bakken minerals?",
+      "answer": "Not necessarily less, just different. Coalbed wells tend to have longer, flatter production tails at lower volumes, while Bakken wells start higher and decline faster. Depending on where each is in its life, either can come out ahead on a present-value basis."
+    },
+    {
+      "question": "Do you buy Montana minerals that aren't currently producing?",
+      "answer": "We evaluate those too, though the offer reflects that there's no current cash flow to base a decline projection on. Nearby permitting activity and historical production on the tract still matter."
+    }
+  ],
+  "status": "written",
+  "wordCount": 896,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-montana.jpg",
+    "alt": "Replacement Minerals in Montana location",
+    "width": 1600,
+    "height": 1000
+  }
+}

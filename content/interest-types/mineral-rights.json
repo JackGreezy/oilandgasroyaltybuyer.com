@@ -1,0 +1,76 @@
+{
+  "slug": "mineral-rights",
+  "title": "Mineral Rights",
+  "type": "interest-type",
+  "status": "written",
+  "metaTitle": "What Owning Mineral Rights Actually Includes",
+  "metaDescription": "Mineral rights are more than royalty checks. Here's the full bundle of rights an owner holds, how it differs from royalty-only interests, and what selling means.",
+  "heroLead": "Owning the full mineral estate is a different thing from owning a royalty check, and a lot of owners don't realize how much more is actually in the bundle until someone asks them to sign a lease.",
+  "intro": [
+    "When people say 'mineral rights,' they usually mean the whole package: the right to explore for and produce oil, gas, and other minerals beneath a tract of land, along with everything that comes attached to that right. It's a separate legal estate from the surface, and it's often been split apart from surface ownership generations ago, which is why plenty of landowners are surprised to learn they don't actually control what's under their own property, or conversely, that they own minerals under land they've never set foot on.",
+    "Understanding what the full mineral estate includes matters because it's more than a royalty stream. It's a set of decision-making rights that determine whether and how that royalty stream ever gets created in the first place."
+  ],
+  "sections": [
+    {
+      "heading": "The bundle of rights inside mineral ownership",
+      "paragraphs": [
+        "A full mineral owner typically holds several distinct sticks in the bundle: the executive right to negotiate and sign leases, the right to bonus payments when a lease is signed, the right to delay rentals if drilling doesn't start right away, and the royalty interest itself once production begins. Some or all of these can be separated and owned by different parties, which is where terms like non-participating royalty and overriding royalty come from.",
+        "A mineral owner who holds the full bundle is the one making the actual decisions, choosing whether to lease at all, negotiating the bonus and royalty rate, and deciding which operator to work with. That control is worth something distinct from the royalty income it eventually produces."
+      ]
+    },
+    {
+      "heading": "How this differs from a royalty-only interest",
+      "paragraphs": [
+        "Someone who owns only a royalty interest, without the executive right, gets paid a share of production but has no say in whether a lease happens, what the terms are, or which company operates the well. A full mineral owner controls those decisions and captures the value that comes with them, bonus payments in particular, which a royalty-only owner never sees.",
+        "This distinction matters most when land hasn't been leased yet. A full mineral owner has real leverage in that negotiation. A royalty-only owner is simply waiting to be told what was decided."
+      ]
+    },
+    {
+      "heading": "Selling the full mineral estate versus part of it",
+      "paragraphs": [
+        "When you sell mineral rights outright, you're transferring the entire bundle, executive rights, bonus potential, and royalty, to the buyer. Some owners instead sell just a portion of their mineral interest, or convert to a royalty-only sale after already leasing, keeping a smaller piece of the upside while getting cash for the rest. Either structure is common, and which one fits depends on whether you want to retain any future decision-making role in the property.",
+        "Before selling, it's worth confirming exactly what's currently severed and titled in your name, since deeds decades old sometimes reserved a royalty interest even while transferring the rest of the mineral estate, and that reservation changes what you're actually able to sell."
+      ]
+    },
+    {
+      "heading": "What to have ready before a sale conversation",
+      "paragraphs": [
+        "Whether you're selling the full estate or a portion, a buyer will want to see the current deed, any active lease, and recent check stubs if the property is producing. If it isn't producing yet, information on nearby drilling activity and any prior lease history still helps establish a reasonable value range.",
+        "Gathering these documents ahead of time, rather than scrambling once an offer is on the table, is the single biggest thing that speeds up a fair, well-informed sale process."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the difference between mineral rights and royalty interests?",
+      "answer": "Mineral rights are the full bundle, including the executive right to lease, bonus payments, and royalty. A royalty interest is just the right to a share of production, without any say in leasing decisions."
+    },
+    {
+      "question": "Can you own mineral rights without owning the surface land above them?",
+      "answer": "Yes, mineral and surface estates are frequently severed and owned separately, sometimes for generations, and each can be bought, sold, or leased independently of the other."
+    },
+    {
+      "question": "How do you find out exactly what mineral rights you own?",
+      "answer": "Your county's deed records show the chain of title for the mineral estate, and a title search or landman can confirm exactly what's severed, reserved, or currently in your name if the history is unclear."
+    },
+    {
+      "question": "Do you have to sell all your mineral rights, or can you sell part?",
+      "answer": "You can typically sell any portion of your interest, a fraction of your acreage, a share of the royalty, or the entire estate, depending on what fits your situation and what a buyer is willing to structure."
+    },
+    {
+      "question": "What happens to your mineral rights if you never lease them?",
+      "answer": "They remain yours indefinitely with no obligation to lease. Some owners hold unleased minerals for years or decades without any activity, which is common in areas that haven't yet seen nearby development."
+    },
+    {
+      "question": "Who decides which company operates a well on your mineral acreage?",
+      "answer": "If you hold the executive right, that decision is yours to negotiate as part of the leasing process. If you only hold a royalty-type interest without executive rights, that decision belongs to whoever holds the executive right on the tract instead."
+    }
+  ],
+  "wordCount": 909,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-mineral-rights-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "_": "This voice belongs only to oilandgasroyaltybuyer.com in Williston. It is an institutional royalty-desk voice informed by retired Williston Basin production-engineering experience with check detail, division orders, decimal changes, workovers, downtime, deductions, price differentials, and operator transitions. It explains the buyer's underwriting side plainly without pretending that a rule of thumb is a valuation. It never uses singular first-person blog voice. Never copy this voice into another domain, a shared pack, or a reusable template.",
+  "taxonomy_titles": {
+    "situations": "Royalty Owner Situations",
+    "locations": "Royalty Buying by State",
+    "basins": "Oil and Gas Basins",
+    "interest-types": "Mineral and Royalty Interests",
+    "resources": "Royalty Owner Guides",
+    "investing": "How Buyers Underwrite Royalties",
+    "exchange-1031": "Mineral 1031 Exchange Guides"
+  },
+  "scrub": [
+    ["lead.generation", "owner inquiry"],
+    ["\\bguarantee(d|s)?\\b", "document"],
+    ["\\bhighest offer\\b", "supported offer"],
+    ["\\bbest price\\b", "reviewed sale terms"],
+    ["\\binstant valuation\\b", "preliminary royalty review"],
+    ["\\bno risk\\b", "no obligation to sell"],
+    ["\\baward-winning\\b", "statement-focused"],
+    ["\\bsince 19\\d\\d\\b", "with oil and gas operating experience"],
+    ["Northrop Grumman", "Oil & Gas Royalty Buyer"],
+    ["\\bNorthrop\\b", "the royalty desk"],
+    ["spacecraft", "royalty interest"],
+    ["satellite", "producing well"],
+    ["orbital", "production"],
+    ["mission", "review"],
+    ["payload", "royalty file"],
+    ["warfighter", "royalty owner"]
+  ],
+  "heroes": [
+    ["Oil & Gas Royalty Buyer for Williston and the Bakken", "Start with the check detail, division order, lease, county, and operator. Those records show more than a royalty multiple ever will."],
+    ["Read the Royalty Statement Before Pricing the Acres", "The payor, owner decimal, sales volume, realized price, taxes, deductions, and adjustment lines reveal what the current check actually represents."],
+    ["Separate Existing Cash Flow From the Drilling Case", "A buyer should show which value comes from producing wells and which comes from permits, spacing, offsets, inventory, timing, and decline assumptions."],
+    ["Stress-Test the Decimal, Not Just the Commodity Price", "Title fractions, unit allocation, royalty burdens, post-production costs, downtime, and ownership changes can move value before oil or gas prices do."],
+    ["Carry the Same Interest From Review Through Closing", "The offer, title schedule, conveyance, settlement amount, effective date, and payor notice should all describe the same royalty interest."]
+  ],
+  "copy": {
+    "home_title": "Oil & Gas Royalty Buyer in Williston, ND",
+    "home_meta": "A Williston oil and gas royalty buyer explaining check detail, owner decimals, decline, operator history, basin activity, title review, offer terms, and closing in plain language.",
+    "home_hero_title": "Oil & Gas Royalty Buyer for Williston and the Bakken",
+    "home_intro_title": "Start With the Check Detail, Not a Rule of Thumb",
+    "home_intro": "A royalty check is the end of a long chain: title, lease burden, unit allocation, well performance, sales volume, realized pricing, taxes, deductions, and adjustments. We begin with that chain before discussing a cash offer.",
+    "home_situations_title": "What Changed in the Ownership File?",
+    "home_situations": "Inheritance, probate, trusts, family fractions, an unsolicited offer, a quiet check, or a payor change each creates a different review path. The first job is to identify what changed and which document proves it.",
+    "home_investing_title": "How a Buyer Stress-Tests the Cash Flow",
+    "home_investing_tail": "Assumptions Belong in the Open.",
+    "home_investing": "Existing production, decline, price differentials, deductions, downtime, workovers, operator pace, undeveloped locations, timing, and discounting should remain separate inputs instead of disappearing inside one multiple.",
+    "home_interests_title": "Know Which Decimal You Are Selling",
+    "home_interests": "Fee minerals, royalty interests, NPRIs, overrides, and working interests do not carry the same rights, burdens, or liabilities. The deed, lease, division order, and statement should agree on the interest before a buyer prices it.",
+    "home_locations_title": "County Records and Operator Data Belong Together",
+    "home_locations": "A state label is only the beginning. The useful file ties recorded title to the legal description, unit, wells, payor account, regulator records, lease burdens, and the owner's current statement.",
+    "home_locations_line1": "Bakken Check Detail",
+    "home_locations_line2": "Belongs in the Valuation.",
+    "home_basins_title": "Read the Well.",
+    "home_basins_tail": "Then Read the Basin.",
+    "home_basins": "Basin activity can frame drilling probability, inventory, takeaway, differentials, and operator behavior. It cannot replace the production and title facts attached to the actual interest.",
+    "home_resources_title": "Statement-Reading Guides for Royalty Owners",
+    "home_resources": "Use these guides to identify the payor, decimal, product, volume, price, deductions, taxes, suspense, adjustments, and documents worth gathering before a sale decision.",
+    "home_exchange_title": "Keep Tax Timing Separate From Reservoir Assumptions",
+    "home_exchange": "A possible 1031 exchange adds intermediary and deadline coordination. It does not turn a buyer's production case into tax advice or remove the need for an exact sale schedule.",
+    "home_about_title": "A Buyer-Side Explanation Without the Sales Fog",
+    "home_about": "Oil & Gas Royalty Buyer explains what a buyer is reading, what remains assumed, what can change the cash flow, which offer terms matter after the headline number, and what has to match at closing.",
+    "hero_cta": "Request a Royalty Review",
+    "index_tagline": "A practical guide to {title}: connect the recorded interest to check detail, wells, operator history, production behavior, buyer assumptions, offer terms, and closing documents.",
+    "detail_cta_title": "Want a statement-led review of this royalty interest?",
+    "faq_heading": "Questions a Royalty Owner Should Ask",
+    "about_title": "How We Read an Oil and Gas Royalty File",
+    "about_p1": "Oil & Gas Royalty Buyer is built around the way an operator reads a revenue problem: identify the tract and interest, trace the decimal, reconcile the statement, locate the wells and units, separate existing production from future development, label every assumption, and carry the same interest through title and closing.",
+    "about_p2": "The objective is not to make uncertainty disappear. It is to show where the current cash flow comes from, which facts support a buyer's model, what remains unresolved, and how offer terms can change the amount that finally closes.",
+    "contact_title": "Request a Royalty Review",
+    "contact_intro": "Send the county and state, operator or payor, owner decimal, recent check detail, well or unit names, lease or division order if available, and the question that prompted the review. We will start with the evidence already in hand.",
+    "contact_section_title": "Bring the Statement and the Question",
+    "footer_tagline": "A Williston royalty desk for owners who want the check detail, decimal, wells, basin assumptions, offer terms, title schedule, and closing math explained together.",
+    "privacy": "Oil & Gas Royalty Buyer uses submitted contact, ownership, property, production, statement, lease, title, operator, payor, well, unit, offer, and timing information only to answer an inquiry and evaluate a potential royalty transaction. We do not sell submitted personal information. Do not submit bank credentials, government identification numbers, or original documents through this website.",
+    "terms": "This website provides general educational and transaction information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, or exchange advice. Production histories, decline cases, development assumptions, commodity prices, ownership decimals, deductions, title findings, offers, and closing amounts can change. Consult your own qualified professionals before signing a mineral or royalty conveyance.",
+    "nf_title": "That Royalty File Is Not in This Index",
+    "nf_body": "Return to owner situations, interest types, producing basins, state guides, statement-reading resources, buyer-underwriting articles, exchange guides, or the royalty review page.",
+    "nf_cta": "Return to Oil & Gas Royalty Buyer"
+  },
+  "form_fields": [
+    ["firstName", "text", "First name", true],
+    ["lastName", "text", "Last name", true],
+    ["emailAddress", "email", "Email address", true],
+    ["phoneNumber", "tel", "Phone number", true],
+    ["propertyLocation", "text", "County, state, and legal description if known", true],
+    ["statementClues", "text", "Operator, payor, owner decimal, well, unit, or recent check clues", false],
+    ["propertyDetails", "textarea", "What changed, what you are considering, and what you want the review to explain", true]
+  ],
+  "about_blocks": [
+    ["Identify the Royalty Account Before Modeling It", "The working file begins with the record owner, payor account, county, legal description, lease, unit, well names, products, owner decimal, and the months represented by the latest payment. If a statement combines wells or products, each line remains traceable rather than being rolled into one unexplained monthly number."],
+    ["Reconcile the Decimal Against the Ownership Story", "A division order decimal is an important clue, not a substitute for title. We compare it with the owner's deed or inheritance path, lease royalty, tract fraction, unit allocation, depth or formation limits, reservations, and any recent payor correspondence. A mismatch becomes an open question instead of a convenient assumption."],
+    ["Read Revenue, Deductions, and Adjustments Line by Line", "Gross sales volume, realized price, severance and ad valorem taxes, gathering, compression, processing, transportation, marketing, prior-period adjustments, suspense releases, and recoupments can all change the check. The review separates recurring economics from one-time noise so a temporary spike or shortfall does not control the conversation."],
+    ["Separate Producing Value From Undeveloped Possibility", "Existing wells have production histories, downtime, workovers, operating decisions, decline behavior, and remaining uncertainty. Future locations depend on spacing, permits, operator inventory, capital allocation, offset results, service constraints, commodity outlook, and timing. The buyer's model should keep those two value sources visible."],
+    ["Compare Offer Terms With the Same Care as the Price", "A headline amount belongs beside the interest description, included depths, effective date, title standard, adjustment formula, diligence period, financing condition, deposit, deed warranties, closing date, revenue treatment, and rights reserved by the owner. Those terms determine whether the quoted number describes the same transaction the owner expects."],
+    ["Close the Interest That Was Actually Reviewed", "The final purchase agreement, title schedule, conveyance exhibit, settlement calculation, signer authority, funding condition, recording package, operator or payor notice, and post-closing revenue handoff should match. We keep the operating facts and closing documents connected so a last-minute legal-description or decimal change is not hidden inside paperwork."]
+  ],
+  "taxonomy_enrichment": {
+    "situations": [
+      ["Find the Event That Changed the File", "{name} is easier to evaluate when the triggering event is explicit. That may be a death, probate filing, trust change, family transfer, new division order, suspended payment, operator acquisition, unsolicited offer, tax need, or a check that no longer resembles the prior months. The review records the date, people, entities, tracts, wells, payors, documents, and unanswered questions attached to that event."],
+      ["Keep Ownership Questions Separate From Production Questions", "For {name}, a title issue can affect who owns the payment while a production issue affects how much the wells generate. A buyer should not use weak production to guess at title, or a title gap to dismiss a well history. We track deed and authority evidence on one side and statements, wells, volumes, prices, deductions, downtime, and operator activity on the other."],
+      ["Match the Timeline to the Owner's Real Decision", "The owner dealing with {name} may be considering a full sale, a partial sale, a retained fraction, a request for more information, or no transaction at all. The review should show which documents are available now, which can be obtained from county or regulatory records, what requires professional title or tax advice, how long an offer remains open, and which facts could change before closing."]
+    ],
+    "interest-types": [
+      ["Name the Economic Right Before Applying a Multiple", "{name} can describe a different combination of ownership, executive rights, lease participation, royalty burden, development control, liability, depth, formation, and duration. A buyer needs the deed, lease, assignments, reservations, division order, payor statement, and unit context to decide which cash flows and future rights are actually included."],
+      ["Trace the Decimal From Tract to Check", "For {name}, the owner decimal should be explainable as a chain: ownership fraction, net acreage or tract share, lease royalty or overriding burden, unit allocation, product, and payor setup. The result on a division order may be correct, stale, provisional, or limited to one well. We label which step is documented and which remains assumed."],
+      ["Write Included and Retained Rights Into the Offer", "A proposal for {name} should identify counties, tracts, legal descriptions, wells, units, depths, formations, fractions, and reservations. It should also say whether current receivables, suspense, post-effective-date revenue, audit rights, claims, surface rights, or operating liabilities transfer. The conveyance cannot safely rely on a broader marketing label."]
+    ],
+    "basins": [
+      ["Use Basin Context Without Losing the Tract", "{name} provides useful context for target formations, operator behavior, spacing, takeaway, price differentials, service capacity, offset results, and development tempo. The subject royalty still depends on its own legal description, lease, unit, wells, decimal, burdens, production history, and title. A basin story is not a tract schedule."],
+      ["Separate the Existing Well Deck From Future Inventory", "A buyer looking at {name} should show what value is assigned to current production, proved behind-pipe or workover possibilities, permitted locations, and broader undeveloped inventory. Each layer carries different timing, decline, capital, operator, commodity, and execution assumptions. Combining every layer into one per-acre number hides the source of disagreement."],
+      ["Account for Realized Pricing and Operating Friction", "Royalty cash flow in {name} can reflect oil or gas quality, gathering, processing, compression, transportation, marketing, taxes, flaring or curtailment, seasonal access, workovers, shut-ins, ownership changes, and operator accounting adjustments. The review compares the owner's actual statement history with the buyer's modeled net revenue instead of assuming benchmark price reaches the check unchanged."]
+    ],
+    "locations": [
+      ["Build the File From the County Outward", "A review of {name} begins with the county, legal description, record owner, deed chain, probate or trust instruments, lease, assignments, pooling or unit records, division orders, operator and payor accounts, regulator well data, and recent check detail. Statewide production headlines can guide questions, but they do not identify the interest being conveyed."],
+      ["Match State Rules to the Actual Instrument", "For {name}, recording practice, marital or community-property questions, probate, acknowledgments, transfer documents, regulatory terminology, tax treatment, and operator notice procedures may differ. Those items belong with the owner's attorney, accountant, title professional, and closing team. The buyer's file should flag them early enough that a local requirement does not surface after price and timing are already assumed."],
+      ["Keep the Payor Trail Current Through Closing", "The royalty account for {name} may change because of operator acquisitions, payor changes, new wells, revised units, division order updates, suspense, curative work, or a different effective date. The review records which statements and contacts are current, how revenue is handled between signing and closing, and who sends the post-closing ownership or payment notice."]
+    ],
+    "resources": [
+      ["Turn the Guide Into a Royalty-File Check", "{name} should lead to a concrete action: identify a statement field, request a deed or lease, compare a decimal, locate a well, confirm the payor, list a deduction, date an adjustment, label an offer term, or ask the right professional a focused question. A guide is useful when it improves the working file."],
+      ["Use the Statement as Evidence, Not a Complete Title Opinion", "The check detail connected to {name} shows what a payor currently recognizes and how revenue was calculated for particular wells and months. It may not show every tract, depth, reservation, executive right, unpaid period, or title issue. We use it to frame the next document request without presenting payor accounting as a complete ownership conclusion."],
+      ["Preserve the Date and Source of Every Number", "Production, prices, deductions, decimals, permit status, operator plans, and offers change. For {name}, the file should record the source, date, unit, product, well, period, and whether a figure is gross, net, owner-specific, historical, projected, or estimated. That makes later revisions understandable instead of looking like unexplained valuation swings."]
+    ],
+    "investing": [
+      ["Build the Producing Case From the Revenue Deck", "For {name}, the buyer should begin with well-level sales volumes, products, realized prices, taxes, deductions, owner decimals, downtime, adjustments, and the dates covered by the statement history. Gross regulatory production and net owner revenue are not interchangeable. The bridge between them should show unit allocation, lease burden, product mix, post-production costs, and the owner's actual payor setup. A dated reconciliation also keeps a suspense release or prior-period correction from masquerading as ordinary monthly cash flow."],
+      ["Model Decline Without Pretending It Is Mechanical", "A decline curve for {name} is an informed estimate, not a clock. Completion design, choke strategy, pressure behavior, offset interference, artificial lift, workovers, curtailment, operating practices, data gaps, and changing ownership of the asset can alter the path. The buyer's case should state the history used, forecast start date, decline form, terminal behavior, downtime allowance, and sensitivity range."],
+      ["Keep Future Development in a Separate Layer", "{name} may include value for permits, spacing, offset results, undeveloped benches, refracs, recompletions, or operator inventory. Each opportunity needs a formation, location count or probability, working-interest or royalty basis, capital and service context, timing, production shape, price deck, burden, and discount rate. Undeveloped upside should not quietly inflate the producing cash flow or be described as certain."],
+      ["Stress-Test Price, Differential, and Deductions Independently", "A useful review of {name} changes benchmark oil or gas price, basin differential, product mix, gathering, compression, processing, transportation, marketing, taxes, and other deductions in separate cases. A buyer may be optimistic on commodity price but conservative on netback, or the reverse. Showing those variables individually makes the offer easier to compare with the owner's recent statements."],
+      ["Discount the Cash Flow and the Execution Risk", "The analysis for {name} should identify the forecast periods, discount convention, terminal treatment, title reserve, data uncertainty, operator concentration, development timing, commodity sensitivity, and closing adjustments. The output is a buyer's underwriting case, not an appraisal or investment recommendation. The owner should be able to see which facts are observed, which are modeled, and which could change the final amount."]
+    ],
+    "exchange-1031": [
+      ["Confirm the Exchange Question Before Reshaping the Sale", "For {name}, the owner should ask a qualified intermediary, attorney, and tax adviser whether the relinquished interest, replacement property, taxpayer, vesting, timing, related parties, debt, and proposed structure fit the owner's situation. A mineral buyer can supply accurate transaction facts and dates, but should not promise exchange qualification or choose the owner's tax elections. That advice boundary should remain visible in emails, calendars, draft agreements, and settlement instructions from the first review forward. The file should also record who is responsible for each decision, when that decision is due, and which document carries it into closing."],
+      ["Keep the Royalty Underwriting File Intact", "A possible exchange does not change the need to identify the counties, tracts, interests, wells, depths, formations, fractions, effective date, title standard, adjustment mechanics, and retained rights in {name}. The buyer's production and development assumptions should remain documented even when closing timing or proceeds routing receives extra attention."],
+      ["Coordinate the Intermediary Before Funds Move", "The working file for {name} should identify the current owner, proposed seller, purchasing entity, qualified intermediary, escrow or closing agent, legal and tax advisers, assignment language, notice requirements, consideration estimate, expected adjustments, and intended proceeds path. Those parties and documents should be confirmed before the mineral sale closes or funds are released."],
+      ["Run One Calendar for the Sale and One for the Exchange", "{name} can involve offer expiration, purchase-agreement signing, title review, curative work, adjustment deadlines, deed execution, mineral closing, intermediary assignment, the 45-day identification period, and the 180-day acquisition period. Putting every event on one page helps the owner see where buyer diligence, title work, replacement-property decisions, and adviser approvals can collide."],
+      ["Maintain a Non-Exchange Closing Path", "The owner considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to work as a mineral sale. A backup path should not be interpreted as tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague."]
+    ]
+  }
+}

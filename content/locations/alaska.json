@@ -1,0 +1,78 @@
+{
+  "slug": "alaska",
+  "title": "Sell Mineral Rights in Alaska",
+  "type": "state",
+  "group": "North Slope royalty owners",
+  "primaryKeyword": "mineral rights alaska",
+  "seo": {
+    "vol": 90,
+    "cpc": null
+  },
+  "metaTitle": "Sell Alaska Mineral & Royalty Interests | Buyer",
+  "metaDescription": "Alaska royalty ownership is unusual, ANCSA corporations, state land leases, North Slope allocation. Get a straight read on your interest and a cash offer.",
+  "heroLead": "North Slope royalty ownership rarely looks like the small private-mineral-owner situation you'll read about in Texas or Oklahoma, and any buyer you talk to should say that upfront.",
+  "intro": [
+    "Alaska is the odd state in this business. Very little North Slope production sits under privately owned minerals the way it does in the Lower 48. Most of the acreage is state land leased under Alaska's own royalty framework, and a meaningful share of what is privately held runs through Alaska Native corporations formed under the 1971 land settlement, not individual family mineral deeds.",
+    "That said, private and inherited interests do exist, particularly overriding royalty interests, net profits interests tied to older Cook Inlet production, and small non-operating positions some owners picked up decades ago. If you are holding one of those and getting a check, the questions worth asking are different than in a typical Lower 48 shale state."
+  ],
+  "sections": [
+    {
+      "heading": "Figure Out What Kind of Interest You Actually Hold",
+      "paragraphs": [
+        "Before anything else, we need to know whether your paperwork describes a fee mineral interest, an overriding royalty carved out of someone else's lease, or a net profits interest. Alaska has all three floating around from decades of Cook Inlet and legacy North Slope deals, and each one is valued differently because each one sits in a different spot in the payment waterfall.",
+        "If your statement comes from a Cook Inlet operator rather than a North Slope one, that is worth noting too. Cook Inlet is older, smaller, and declining at a different pace than the giant North Slope fields, and offers reflect that basin difference."
+      ]
+    },
+    {
+      "heading": "Why North Slope Checks Can Look Unusually Stable",
+      "paragraphs": [
+        "The major North Slope fields have been producing for decades with disciplined reservoir management, so decline rates on legacy production tend to be gentler than a typical shale well's. That stability is part of what makes a long-held override or net profits position worth pricing carefully rather than guessing at.",
+        "It also means the decision to sell is less about racing a cliff and more about weighing a steady but shrinking payment against a lump sum you can use, invest, or pass on now instead of over another decade or two of gradual decline."
+      ]
+    },
+    {
+      "heading": "ANCSA and Corporate Land Complicate a Straight Sale",
+      "paragraphs": [
+        "If your interest traces back to an Alaska Native corporation or a settlement trust rather than a personal mineral deed, transferring it is not a standard courthouse recording the way it is in most states. There are additional restrictions and, in some cases, shareholder or trust approvals involved, and we tell owners this directly rather than promising a quick deed transfer that Alaska law does not actually allow for that category of interest.",
+        "For interests that are freely transferable, private overrides and net profits interests, the process looks much closer to a normal sale: verify the interest, review recent statements, and put together a mineral deed or assignment specific to that interest type."
+      ]
+    },
+    {
+      "heading": "What We Need From You to Get Started",
+      "paragraphs": [
+        "Send the most recent division order or check stub you have, along with anything identifying the field, whether it says Prudhoe Bay, Kuparuk, or a Cook Inlet unit name. That single piece of information tells us more about how to value your interest than almost anything else you could provide.",
+        "From there we tell you plainly whether your interest is the kind we can move on quickly or whether it involves a corporate or trust layer that needs its own review before any number gets discussed. We would rather spend an extra week confirming what category your interest falls into than rush you into paperwork that a title company later flags as unworkable."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you sell mineral rights you inherited through an Alaska Native corporation?",
+      "answer": "It depends on the specific corporate or trust structure involved. Some ANCSA-related interests carry transfer restrictions that a standard mineral deed cannot get around, so we review the underlying documents before telling you what is actually possible."
+    },
+    {
+      "question": "Why is your Alaska royalty check labeled as an override, not a straight royalty?",
+      "answer": "Many Alaska private interests were created as overriding royalty interests carved out of an operator's working interest in older Cook Inlet deals, rather than as a fee mineral interest tied to the land itself. The label on your statement usually tells you which kind you hold."
+    },
+    {
+      "question": "Is North Slope production declining like Lower 48 shale wells?",
+      "answer": "Not at the same pace. Major North Slope fields have been managed for decades of sustained output, so the decline curve is generally slower and steadier than what you would see on a typical shale well within its first few years."
+    },
+    {
+      "question": "Do you need to be an Alaska resident to sell?",
+      "answer": "No. Ownership and residency are separate questions. Plenty of owners we work with inherited an Alaska interest while living somewhere else entirely, and that has no bearing on whether the interest can be sold."
+    },
+    {
+      "question": "Why did you get a Permanent Fund Dividend but no separate mineral check?",
+      "answer": "The Permanent Fund Dividend is a state distribution funded broadly by Alaska's oil revenue and has nothing to do with owning a private mineral or royalty interest. If you hold an actual interest, it should generate its own separate statement from an operator, not a state agency."
+    }
+  ],
+  "status": "written",
+  "wordCount": 903,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-alaska.jpg",
+    "alt": "Sell Mineral Rights in Alaska location",
+    "width": 1600,
+    "height": 1000
+  }
+}

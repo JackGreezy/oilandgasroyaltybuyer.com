@@ -1,0 +1,70 @@
+{
+  "slug": "out-of-state-owners",
+  "title": "Out-of-State Owners",
+  "type": "situation",
+  "note": "absentee owners managing from afar",
+  "status": "written",
+  "metaTitle": "Managing or Selling Mineral Rights From Out of State",
+  "metaDescription": "Owning minerals in a county you've never lived in makes even simple questions hard to answer. Here's what absentee owners deal with, and how selling works remotely.",
+  "heroLead": "The royalty desk has worked with owners in Florida who inherited a quarter-mile of Oklahoma minerals from a grandparent they barely remember, and the distance is exactly what makes everything harder to manage.",
+  "intro": [
+    "Owning mineral rights hundreds or thousands of miles from where the land sits is common, especially with inherited interests, and it comes with a specific set of frustrations. You can't drive out and look at the well pad. You don't know the county clerk, don't have a local landman you trust, and every letter that shows up from an unfamiliar company name feels like it could be either an opportunity or a scam. Most out-of-state owners contacting the royalty desk aren't confused about wanting to keep or sell, they're confused about who to even trust for accurate information.",
+    "The distance itself doesn't change the underlying value of the interest. It just makes every step of managing or selling it slower and more prone to mistakes if you're not careful about verifying who you're dealing with."
+  ],
+  "sections": [
+    {
+      "heading": "The practical problems distance creates",
+      "paragraphs": [
+        "Address changes are the biggest one. If you move and forget to update every operator paying you, checks stop or go into suspense, sometimes for years before anyone notices. Multiply that by owners who inherited from someone who moved multiple times over their life, and it's easy to have interests floating in unclaimed property in a state you've never visited.",
+        "Tax time is another friction point. Producing minerals often generate state income tax filing obligations in the state where the minerals sit, separate from your home state return, which surprises a lot of absentee owners the first year a well starts producing."
+      ]
+    },
+    {
+      "heading": "Verifying who's actually paying you and who's contacting you",
+      "paragraphs": [
+        "If you receive a check, the operator's name should match what's on your division order, and if it doesn't, or if a check amount changes with no explanation, call the operator's owner relations line directly using a number you look up independently, not one printed on an unsolicited letter. Real operators and legitimate buyers are used to owners double-checking, and a company that discourages you from verifying independently is a red flag.",
+        "It's also worth knowing that county records for most active basins are searchable online now, so you can pull your own deed history and confirm decimal interests without needing to travel or hire someone locally just to look something up. Many operators also offer online owner portals now where you can view statements and update your own address directly, which cuts out a lot of the mail-based back and forth that used to be the only option for absentee owners."
+      ]
+    },
+    {
+      "heading": "Selling a mineral interest without ever visiting the county",
+      "paragraphs": [
+        "A remote sale works the same way a local one does: the buyer reviews your check history or division order, quotes a number based on production and area activity, and once you agree, the paperwork, deed and closing documents, is handled by mail or overnight courier with a notary near you rather than one near the well. You don't need to travel to the county the minerals sit in at any point in the process.",
+        "The main thing to watch for as an out-of-state owner is making sure the deed description matches exactly what county records show, since a mismatched legal description is the most common reason a remote closing gets delayed."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you need to travel to the state where your minerals are located to sell them?",
+      "answer": "No, mineral sales are routinely closed entirely by mail with a local notary handling your signature, without either party needing to travel to the county where the acreage sits."
+    },
+    {
+      "question": "How do you update your address with an operator you have moved away from?",
+      "answer": "Contact the operator's owner relations department directly, usually reachable by phone or a form on their website, and provide your decimal interest or well name along with your new address in writing so there's a record of the update."
+    },
+    {
+      "question": "Will you owe income tax in a state you don't live in because of your minerals?",
+      "answer": "Often yes, states with active oil and gas production typically require nonresident owners to file a state return on royalty income earned there. Talk to your CPA about your specific filing obligations before tax season."
+    },
+    {
+      "question": "How do you know if a letter you received about your minerals is legitimate?",
+      "answer": "Verify independently, call your operator's owner relations line using a number you find yourself rather than one on the letter, and compare the sender's name against what's listed on your division order or most recent check stub."
+    },
+    {
+      "question": "Is it harder to get a fair offer as an out-of-state owner?",
+      "answer": "Not inherently, since production data and county activity records are available remotely, but out-of-state owners are more likely to be targeted with lowball offers precisely because a buyer assumes they can't easily verify local activity themselves."
+    },
+    {
+      "question": "What's the best way to keep track of an out-of-state interest over time?",
+      "answer": "Keep a simple folder, digital or physical, with your division order, recent check stubs, and the operator's contact information for each interest you hold. Reviewing it once a year, even briefly, catches address issues or missed payments long before they turn into years of suspended funds."
+    }
+  ],
+  "wordCount": 895,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-out-of-state-owners-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Out-of-State Owners mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "probate-and-estate-minerals",
+  "title": "Minerals in Probate & Estates",
+  "type": "situation",
+  "note": "executor/estate sale mechanics",
+  "status": "written",
+  "metaTitle": "Handling Mineral Rights as an Estate Executor",
+  "metaDescription": "Mineral interests are one of the more confusing assets an executor has to deal with. Here's where they fit in an estate, and how to sell one to close probate.",
+  "heroLead": "Executors handle bank accounts and houses all the time, but a mineral interest with an unfamiliar decimal number on a division order is usually the first one they've ever seen.",
+  "intro": [
+    "If you're the executor or administrator of an estate that includes mineral rights, you're carrying two responsibilities at once: getting an accurate value for the estate's inventory and tax filings, and eventually distributing or liquidating the asset for the beneficiaries. Both of those are harder with minerals than with a bank account, because value isn't a static number on a statement, it moves with production trends and lease activity.",
+    "The good news is that estates deal with mineral interests often enough that the process is well established, even if it's new to you personally. It usually comes down to inventory, valuation, and a decision about whether to distribute the interest to heirs or sell it and distribute cash."
+  ],
+  "sections": [
+    {
+      "heading": "Where minerals sit in the estate inventory",
+      "paragraphs": [
+        "Mineral and royalty interests get listed in the estate inventory like any other asset, valued as of the date of death for both probate and any estate tax purposes. That date-of-death value matters later too, since it typically sets the beneficiaries' stepped-up basis for future capital gains if the interest is eventually sold.",
+        "Getting that valuation right sometimes means pulling a formal appraisal, especially for larger estates, but for smaller interests a documented market quote based on production history around the date of death is often sufficient. Talk to the estate's attorney or CPA about what your specific jurisdiction requires."
+      ]
+    },
+    {
+      "heading": "An executor's options for the interest",
+      "paragraphs": [
+        "Depending on the will's instructions and the beneficiaries' wishes, an executor generally has authority to either distribute the mineral interest in kind to the heirs, splitting the decimal interest among them, or sell the interest and distribute the cash proceeds instead. Selling is often preferred when there are multiple beneficiaries who don't all want to co-own a fractional interest going forward, or when the estate needs liquidity to cover debts, taxes, or final expenses.",
+        "If the will doesn't specifically address the mineral interest, most states allow an executor with general sale authority to sell estate assets, including minerals, as long as it's in the beneficiaries' interest and properly documented."
+      ]
+    },
+    {
+      "heading": "Selling to close the estate",
+      "paragraphs": [
+        "A mineral sale during probate works like any other, with the added step that the buyer will want to see the letters testamentary or letters of administration proving you have legal authority to sign on the estate's behalf. Have that document ready along with recent check stubs or a division order before you start getting quotes, since it shortens the process significantly.",
+        "Executors are often working against a deadline, whether that's a court date to close probate or pressure from beneficiaries wanting resolution, so a straightforward cash sale with a clean, fast closing tends to serve the estate better than a drawn-out negotiation. Getting more than one quote before signing anything also gives you something concrete to point to if a beneficiary later questions whether the executor got a fair price for the estate."
+      ]
+    },
+    {
+      "heading": "Coordinating with beneficiaries along the way",
+      "paragraphs": [
+        "Even where formal consent isn't legally required, keeping beneficiaries informed before a mineral sale closes tends to prevent disputes later. A short written update explaining the offer received, the production history it's based on, and the reasoning for selling rather than distributing in kind goes a long way toward avoiding a challenge after the fact.",
+        "If beneficiaries disagree about whether to sell, that disagreement is worth resolving before closing rather than after, since an executor who moves forward over a beneficiary's clear objection is taking on more risk of a later challenge to the sale."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can an executor sell mineral rights without all beneficiaries agreeing?",
+      "answer": "In many cases yes, if the will grants general sale authority or the court has approved the sale, but requirements vary by state and by the specific will's language. Confirm your authority with the estate's attorney before proceeding."
+    },
+    {
+      "question": "How is a mineral interest valued for estate tax purposes?",
+      "answer": "Typically at fair market value as of the date of death, based on production history and market activity at that time, similar to how any other income-producing asset is valued for an estate."
+    },
+    {
+      "question": "What documents does a buyer need from an estate to close a sale?",
+      "answer": "Letters testamentary or letters of administration showing your authority to act for the estate, a copy of the deed or division order for the interest, and recent check stubs or a 1099 if the interest is producing."
+    },
+    {
+      "question": "Is it better to sell mineral rights during probate or distribute them to heirs first?",
+      "answer": "It depends on the family's wishes. Selling during probate closes the estate cleanly with one transaction, while distributing in kind lets heirs decide individually later, though that often means more owners on record and more paperwork going forward."
+    },
+    {
+      "question": "Does selling estate minerals affect the beneficiaries' tax basis?",
+      "answer": "Beneficiaries generally receive a stepped-up basis equal to the date-of-death value, which affects any gain if the interest is later sold. Talk to your CPA or attorney about how this applies before the estate closes."
+    },
+    {
+      "question": "What if the estate includes mineral rights nobody knew about until probate started?",
+      "answer": "This happens more often than you'd expect, usually surfacing through an old 1099 in the decedent's tax records or a title search on real property they owned. Once found, it gets added to the inventory and handled the same as any other estate asset the executor discovers along the way."
+    }
+  ],
+  "wordCount": 948,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-probate-and-estate-minerals-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Minerals in Probate & Estates mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

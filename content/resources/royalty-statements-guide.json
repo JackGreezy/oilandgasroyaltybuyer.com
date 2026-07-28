@@ -1,0 +1,68 @@
+{
+  "slug": "royalty-statements-guide",
+  "title": "Reading Your Royalty Statements",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How to Read an Oil & Gas Royalty Statement",
+  "metaDescription": "A line-by-line breakdown of your royalty check stub - decimal interest, deductions, price, and volume - from someone who used to run the wells behind it.",
+  "heroLead": "Most owners fold their check stub into an envelope without reading it. That stub is the single best piece of evidence you own for what your minerals are actually worth.",
+  "intro": [
+    "Oil & Gas Royalty Buyer brings operating-side experience from watching division order analysts build the run tickets that eventually turn into your monthly stub. Operators don't design these statements to confuse you on purpose - they design them for their own accounting systems, and clarity for the royalty owner is an afterthought. That's why most owners stop reading past the check amount.",
+    "This guide walks the stub the way the royalty desk would walk it with a landman friend who just inherited a quarter-interest and has no idea what any of it means. We'll go column by column, then talk about what the numbers tell you when you're deciding whether to hold or sell."
+  ],
+  "sections": [
+    {
+      "heading": "The decimal interest line",
+      "paragraphs": [
+        "Near the top of most stubs you'll see a long decimal - something like 0.00234567. That's your decimal interest in the well, and it's the single most important number on the page. It's the product of your net mineral acres, divided by the spacing unit acreage, multiplied by your royalty fraction from the lease (typically 1/8 to 1/4, sometimes higher on newer leases), multiplied again by the well's participation factor if it's part of a pooled unit.",
+        "If that decimal changes month to month without explanation, ask why. A legitimate reason is a new well coming online in the unit, which dilutes everyone's decimal. An illegitimate reason is a title problem the operator hasn't told you about. Either way, a shifting decimal is worth a phone call to the division order department, not a shrug."
+      ]
+    },
+    {
+      "heading": "Production volume and price",
+      "paragraphs": [
+        "The stub reports your allocated share of oil (barrels), gas (mcf), and sometimes natural gas liquids, alongside the price the operator says it sold each unit for that month. Gas prices in particular can look strange - they're often reported net of a residue/NGL split and can trail spot prices you see quoted in the news by a month or more because of how gas gets marketed downstream.",
+        "Watch the trend across several months more than any single month. A well that's six months past first production and already declining 5-8% a month is behaving normally. A well that drops off a cliff, or one where volumes stop being reported at all with no shut-in notice, deserves a call."
+      ]
+    },
+    {
+      "heading": "Deductions - the line owners skip",
+      "paragraphs": [
+        "This is where most confusion lives. Depending on your state and your specific lease language, the operator may deduct post-production costs before calculating your royalty: gathering, compression, dehydration, transportation, and marketing. Some leases are written 'cost-free' to the royalty owner, which means these deductions shouldn't appear at all - if they do anyway, that's worth raising with the operator or an attorney who handles royalty disputes.",
+        "Other leases allow proportionate deduction of these costs, which is standard and not itself a red flag. What is worth watching is a deduction line that grows faster than production volume does, or a new deduction category that appears without any letter or notice explaining it."
+      ]
+    },
+    {
+      "heading": "What the stub tells a buyer",
+      "paragraphs": [
+        "When we look at a package of minerals, the last twelve to twenty-four months of statements are the primary document we work from, more than any appraisal report. We're reading decline rate, deduction consistency, and whether the operator is a company known for prompt, clean accounting or one known for late payments and unexplained adjustments.",
+        "A clean run of statements with a gently declining but stable curve supports a stronger offer than a choppy history full of suspended payments or restated prior months. If your file has both, gather it before you talk to anyone about selling - it changes what a fair number looks like, and it lets you check any offer you receive against the actual production behind it rather than a guess."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why did your royalty check drop even though gas prices went up?",
+      "answer": "Two common reasons: your well's production is naturally declining (normal for almost every well after its first year or two), or post-production deductions increased. Compare the volume line alongside the price line, month over month, before assuming something's wrong."
+    },
+    {
+      "question": "What does 'suspense' mean on a statement or letter?",
+      "answer": "Suspense means the operator is withholding your payment, usually because of a title issue - an unresolved heirship, a missing signature, or a probate that hasn't cleared. Funds in suspense are still owed to you; you need to clear the title issue with the operator's division order department to release them."
+    },
+    {
+      "question": "Should you hire someone to audit your statements?",
+      "answer": "For small fractional interests it's rarely worth the cost. For larger interests, or if you suspect the deductions don't match your lease language, a royalty owner's attorney or a landman who does audit work can review the lease against the statements - that's a paid, specialized service, separate from what we do."
+    },
+    {
+      "question": "Do you need your statements to make an offer?",
+      "answer": "Yes, if you have them. Recent statements let us evaluate the actual production behind your interest rather than working from county averages, and that typically supports a more accurate number than an offer based on legal description alone."
+    }
+  ],
+  "wordCount": 903,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-royalty-statements-guide-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Reading Your Royalty Statements mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

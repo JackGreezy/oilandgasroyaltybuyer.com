@@ -1,0 +1,77 @@
+{
+  "slug": "documents-checklist",
+  "title": "Documents You Need to Sell",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "Mineral Rights Sale Documents Checklist",
+  "metaDescription": "The paperwork that actually speeds up a mineral rights sale - deed, statements, division orders - and what to do if you're missing pieces.",
+  "heroLead": "You don't need a filing cabinet to sell your minerals, but the handful of documents you do have will decide how fast this moves.",
+  "intro": [
+    "Every closing the royalty desk has handled, on either side of the table, moves at the speed of the paperwork. Owners who show up with a deed, a recent statement, and a clear sense of who else is on title close in weeks. Owners starting from nothing - an old letter, a vague memory of 'grandpa's minerals in Texas' - can still get there, it just takes longer and usually means a trip to the courthouse.",
+    "Here's what actually matters, roughly in order of how much it speeds things up."
+  ],
+  "sections": [
+    {
+      "heading": "The deed or the instrument that created your interest",
+      "paragraphs": [
+        "This is the single most useful document you can produce - the mineral deed, reservation, or the will/probate order that passed the interest to you. It establishes the legal description of the tract and confirms your fractional share. If you don't have a copy, the county clerk or recorder in the county where the minerals sit can usually provide one, often for a small fee, sometimes searchable online.",
+        "If your interest came through inheritance and was never formally probated or recorded in your name, that's the piece that needs attention first - a title company or attorney can tell you what's required in your state, whether that's a simple affidavit of heirship or a full probate."
+      ]
+    },
+    {
+      "heading": "Recent royalty statements",
+      "paragraphs": [
+        "If you're receiving checks, your last twelve to twenty-four months of statements tell a buyer exactly what production looks like on your specific interest, rather than a county-wide estimate. This is the document that most directly supports a stronger, more defensible offer, so it's worth digging out even a few months if that's all you have.",
+        "No statements at all usually means either a non-producing interest or a title issue holding your payments in suspense - worth figuring out which, since the second one is fixable and unlocks money that's already owed to you."
+      ]
+    },
+    {
+      "heading": "Division orders and operator correspondence",
+      "paragraphs": [
+        "Division orders confirm your decimal interest directly from the operator's own records, which is useful cross-reference alongside the deed. Any letters from operators about suspense, pooling, or unit changes are worth keeping too - they often explain gaps or changes in your payment history that would otherwise look unexplained."
+      ]
+    },
+    {
+      "heading": "If you're starting with almost nothing",
+      "paragraphs": [
+        "It's more common than you'd think - an owner knows minerals exist somewhere from a family story but has no paperwork. In that case, the county clerk's real property and oil-and-gas records in the relevant county are the starting point, and many are searchable online now. We can also often run a records search once we know the county and a rough legal description, as part of evaluating whether an interest exists and what shape it's in before you spend money chasing paperwork yourself.",
+        "A rough starting point is often enough: a state, a county, a family name, and roughly when the interest would have been created (a will, a divorce settlement, an old family sale). County indexes are typically organized by grantor and grantee name, so even a partial name search can surface the original instrument."
+      ]
+    },
+    {
+      "heading": "A note on identification documents",
+      "paragraphs": [
+        "At closing you'll typically need standard identification - a driver's license or similar government ID - to notarize the deed, along with your current mailing address and, if you want funds wired, your banking information provided directly and securely at that stage rather than upfront. None of this is needed to get an initial evaluation; it only comes into play once you're ready to close."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if you can't find the original deed?",
+      "answer": "The county clerk or recorder's office in the county where the minerals are located keeps public records of recorded deeds. A record search there, sometimes done online now, will usually turn up the instrument even if your personal copy is lost."
+    },
+    {
+      "question": "Do you need a survey or title search before you sell?",
+      "answer": "Not typically from you. A buyer usually orders their own title search or opinion as part of due diligence before closing. Your job is to provide what you have; the buyer's title work fills the gaps."
+    },
+    {
+      "question": "What paperwork is needed when an inherited interest remains in a relative's name?",
+      "answer": "Generally a probate order, affidavit of heirship, or similar document recognized in your state that shows the chain of title from the original owner to you. Requirements vary by state, so this is worth a quick call to a local attorney or the county clerk if you're unsure."
+    },
+    {
+      "question": "Can you still sell if you only have partial paperwork?",
+      "answer": "Often yes. We regularly work through incomplete files, pulling county records to fill gaps. It may take a bit longer, but missing paperwork on its own rarely stops a sale from happening."
+    },
+    {
+      "question": "Do you need to gather everything before you contact a buyer?",
+      "answer": "No. Send what you have and describe what you don't. A serious buyer can often begin evaluating with partial information and help identify exactly which missing piece matters most for your specific file."
+    }
+  ],
+  "wordCount": 877,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-documents-checklist-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Documents You Need to Sell mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

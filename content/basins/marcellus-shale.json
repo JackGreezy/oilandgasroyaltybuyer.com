@@ -1,0 +1,74 @@
+{
+  "slug": "marcellus-shale",
+  "title": "Marcellus Shale Mineral Rights",
+  "type": "basin",
+  "group": "PA/WV",
+  "primaryKeyword": "marcellus shale mineral rights",
+  "seo": {
+    "vol": 10,
+    "cpc": 7.32
+  },
+  "metaTitle": "Marcellus Shale Mineral Rights & Royalty Buyer",
+  "metaDescription": "Own Marcellus Shale gas minerals in Pennsylvania, West Virginia, or Ohio? We read your statement — deductions, dry vs. wet gas window, lease vintage — and offer.",
+  "heroLead": "The Marcellus is the biggest gas play in the country by reserves, and it's also the play where lease vintage matters more to your check than almost anywhere else.",
+  "intro": [
+    "The Marcellus Shale runs across a huge stretch of Appalachia — Pennsylvania, West Virginia, eastern Ohio, and a corner of New York, though New York has banned high-volume hydraulic fracturing so production there hasn't followed. It's a dry gas play across most of its footprint, with a wetter, liquids-rich window in southwestern Pennsylvania and parts of West Virginia. The scale of development here, especially in northeast and southwest Pennsylvania, is matched by few other gas basins in the world.",
+    "What makes the Marcellus distinctive for owners is how much lease terms vary by when you signed. Early 2008-2010 leases, signed before landowners and their lawyers understood post-production cost issues, often look very different on the deduction line than leases signed a few years later once that education caught up."
+  ],
+  "sections": [
+    {
+      "heading": "Lease vintage and your deduction line",
+      "paragraphs": [
+        "If you or a family member leased in the earliest Marcellus rush, roughly 2008 through 2010, there's a real chance your lease has broad post-production cost language that lets the operator deduct gathering, compression, dehydration, and transportation costs fairly liberally before calculating your royalty. Leases signed a few years later, once mineral owners and their attorneys had seen how those deductions played out, often include tighter language — sometimes 'no deduction' or netback clauses that cap what can come off before your percentage applies.",
+        "This is one of the first things worth checking if your Marcellus check seems low relative to the volumes on your statement: pull your actual lease and compare the deduction language against what's actually being taken. It's a common enough issue in this basin that operators and owners have litigated it repeatedly in Pennsylvania and West Virginia courts."
+      ]
+    },
+    {
+      "heading": "Dry gas core versus the liquids-rich window",
+      "paragraphs": [
+        "Most of the Marcellus footprint is dry gas, meaning your revenue is essentially all gas price, with no separate NGL cushion when prices are weak. The liquids-rich window in southwest Pennsylvania and adjacent West Virginia counties produces meaningful ethane, propane, and other natural gas liquids alongside the gas, which shows up as separate revenue lines and can provide more price stability when gas alone is soft.",
+        "Knowing which side of that line your interest falls on changes how you should read a weak-gas-price month on your statement — a dry gas interest will feel that directly, while a liquids-rich interest has more cushion."
+      ]
+    },
+    {
+      "heading": "Pipeline capacity and price realization",
+      "paragraphs": [
+        "Appalachian gas famously traded at a discount to Henry Hub for years because pipeline takeaway capacity out of the region lagged behind how fast production grew. That gap has narrowed as more pipeline infrastructure has come online, but it hasn't disappeared everywhere, and your realized price depends heavily on which sales point and pipeline your specific gas moves through. Two owners in neighboring counties can see meaningfully different net prices if their gas reaches different markets.",
+        "If your statement shows a price consistently well below the headline Henry Hub number you see quoted in the news, that basis differential — not necessarily an error — is often the explanation, though it's still worth confirming the differential matches what your operator has disclosed elsewhere."
+      ]
+    },
+    {
+      "heading": "Ownership across PA/WV Marcellus country",
+      "paragraphs": [
+        "A lot of Marcellus minerals trace back to Appalachian farm and forest land held by families for generations, leased during the initial boom by landmen working county by county. We also see more complex ownership here than in a lot of newer western plays, since Pennsylvania and West Virginia have a long history of severed mineral estates going back to 19th and early 20th century coal and timber transactions, sometimes leaving gas rights separated from surface ownership by a hundred years or more.",
+        "Selling appeals to owners dealing with an unfavorable early lease they can't renegotiate, heirs managing interests split many ways across generations, or owners who'd simply rather have a lump sum than continue tracking Appalachian gas basis pricing for years to come."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why is your Marcellus royalty lower than you expected given your production volume?",
+      "answer": "It's often tied to lease vintage — early Marcellus leases from around 2008-2010 commonly allowed broader post-production cost deductions than leases signed a few years later. Comparing your actual lease language against what's being deducted is the first step."
+    },
+    {
+      "question": "What's the difference between dry gas and liquids-rich Marcellus production?",
+      "answer": "Most of the Marcellus is dry gas, meaning revenue tracks gas price alone. The liquids-rich window in southwest Pennsylvania and nearby West Virginia produces meaningful natural gas liquids alongside gas, giving those interests an extra revenue stream and more price cushion."
+    },
+    {
+      "question": "Why is your gas price lower than the Henry Hub price you see quoted?",
+      "answer": "Appalachian gas has historically traded at a discount due to pipeline takeaway constraints, and your realized price depends on which sales point your gas moves through. That basis differential is normal, though it's worth confirming it matches what your operator discloses."
+    },
+    {
+      "question": "Can gas rights still be sold when the minerals were separated from the surface long ago?",
+      "answer": "Yes. Severed mineral estates going back to old coal or timber transactions are common across Pennsylvania and West Virginia, and a clear severance history doesn't prevent you from selling the mineral or royalty interest you hold."
+    }
+  ],
+  "status": "written",
+  "wordCount": 922,
+  "image": {
+    "src": "/images/basins/mineral-rights-basins-marcellus-shale-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Marcellus Shale Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

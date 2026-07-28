@@ -1,0 +1,86 @@
+{
+  "slug": "pennsylvania",
+  "title": "Sell Mineral Rights in Pennsylvania",
+  "type": "state",
+  "group": "Marcellus",
+  "primaryKeyword": "mineral rights pennsylvania",
+  "seo": {
+    "vol": 110,
+    "cpc": 7.56
+  },
+  "metaTitle": "Sell Mineral Rights in Pennsylvania | Marcellus Buyer",
+  "metaDescription": "Pennsylvania Marcellus mineral owners: if post-production deductions have been eating your gas check, we'll price an offer against your net line, not the headline price.",
+  "heroLead": "Nearly every Pennsylvania owner who contacts the royalty desk has the same complaint before they even say hello: the price of gas went up and their check didn't.",
+  "intro": [
+    "Pennsylvania Marcellus checks carry more deduction line items than almost any other state the royalty desk reviews, and that's not an accident. A lot of Pennsylvania leases, especially older ones signed during the play's early boom years, gave operators broad room to deduct gathering, compression, processing, and transportation costs before calculating your royalty. That means the wellhead price you read about in the news and the net price on your statement can be two very different numbers.",
+    "Before the royalty desk quotes a Pennsylvania interest, the file needs the deduction detail on your statement, beyond the bottom-line total. That's where the real story is."
+  ],
+  "sections": [
+    {
+      "heading": "Why Your Check Looks Smaller Than the Price You Read About",
+      "paragraphs": [
+        "Post-production costs in Pennsylvania are typically netted out before your royalty is calculated, covering the gas's trip from the wellhead through gathering lines, compression, processing, and pipeline transportation to market. Depending on your lease language, some or all of these costs land on your side of the ledger rather than the operator's, and they can take a real bite out of an otherwise strong gas price.",
+        "We read the deduction breakdown on your statement as part of any offer, since a lease that shifts heavy post-production costs onto the royalty owner changes the effective net price meaningfully, and that matters for what the interest is worth going forward."
+      ]
+    },
+    {
+      "heading": "Marcellus vs Utica Depth Rights",
+      "paragraphs": [
+        "In parts of northeastern and southwestern Pennsylvania, the Marcellus isn't the only formation with development potential, the deeper Utica shale sits below it and in some cases has separate leasing and drilling activity. Whether your original lease or deed covers just the Marcellus or all formations down to a stated depth matters if there's ever additional development below your current producing zone.",
+        "We check depth language on older leases specifically because Pennsylvania has more of this layered-formation activity than most states we cover."
+      ]
+    },
+    {
+      "heading": "Northeast vs Southwest Pennsylvania",
+      "paragraphs": [
+        "The northeast counties, Susquehanna, Bradford, Wyoming, tend to produce dry gas with strong volumes but no liquids premium. The southwest, around Washington and Greene counties, sits closer to a wetter window with some natural gas liquids content, which can add value to the stream. Knowing which region your acreage sits in shapes what a realistic offer looks like from the start.",
+        "Well density and operator activity also differ meaningfully between the two regions, which factors into how we think about remaining development potential."
+      ]
+    },
+    {
+      "heading": "Leases Signed But Never Developed",
+      "paragraphs": [
+        "A fair number of Pennsylvania owners signed leases during the boom years of the late 2000s and early 2010s that were never actually drilled, and those leases have since expired, renewed, or in some cases sit in a murky status the owner isn't sure about. If that's your situation, your minerals may be unleased right now even though you remember signing something years ago.",
+        "We check current lease status through county records before assuming anything about what rights you're actually selling."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why did the price of gas go up but your Pennsylvania royalty check didn't?",
+      "answer": "Most likely post-production cost deductions. Many Pennsylvania leases allow operators to deduct gathering, compression, processing, and transportation costs before calculating your royalty, which can offset a rising wellhead price. We review your deduction detail as part of any offer."
+    },
+    {
+      "question": "Does your lease cover the Utica shale below the Marcellus?",
+      "answer": "It depends on the depth language in your specific lease or deed. Some Pennsylvania leases are limited to the Marcellus formation while others extend to all formations to a stated depth. We check this since it affects future development potential."
+    },
+    {
+      "question": "Is your Pennsylvania interest still under lease if it was never drilled?",
+      "answer": "Not necessarily. Leases signed but never developed during the early Marcellus boom have in many cases expired or moved to a different status. We verify current lease standing through county records before pricing a sale."
+    },
+    {
+      "question": "Are northeast Pennsylvania and southwest Pennsylvania Marcellus wells valued differently?",
+      "answer": "Generally yes. Northeast counties tend toward higher-volume dry gas while southwest counties see some natural gas liquids content, and well density differs by region. We price against your specific well's production and location rather than a statewide figure."
+    },
+    {
+      "question": "Can you still sell if your lease has a long list of post-production deductions?",
+      "answer": "Yes. Heavy deductions lower your net price but don't stop a sale, they just factor into what a fair offer looks like. We build the deduction structure into the pricing rather than treating your net check as the whole story."
+    },
+    {
+      "question": "What paperwork do you need for a Pennsylvania mineral rights sale?",
+      "answer": "A recent statement, your lease if you have it, and any deed showing how you acquired the interest. If pieces are missing, county recorder records in your township usually fill the gaps."
+    },
+    {
+      "question": "Is a Marcellus well still worth selling once it's several years past peak?",
+      "answer": "Often yes, a mature well that's settled into a longer, flatter decline can still carry real value, priced against that steadier remaining production rather than early-life volumes. We look at your specific well's history before deciding what a fair number looks like."
+    }
+  ],
+  "status": "written",
+  "wordCount": 891,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-pennsylvania.jpg",
+    "alt": "Replacement Minerals in Pennsylvania location",
+    "width": 1600,
+    "height": 1000
+  }
+}

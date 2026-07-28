@@ -1,0 +1,86 @@
+{
+  "slug": "ohio",
+  "title": "Sell Mineral Rights in Ohio",
+  "type": "state",
+  "group": "Utica",
+  "primaryKeyword": "mineral rights ohio",
+  "seo": {
+    "vol": 260,
+    "cpc": 3.68
+  },
+  "metaTitle": "Sell Mineral Rights in Ohio | Utica Shale Buyer",
+  "metaDescription": "Ohio Utica mineral owners in Belmont, Monroe, or Carroll County: get an offer priced to your check's actual liquids content and pooling order, not a flat rate.",
+  "heroLead": "Two Ohio owners can hold the same acreage size in adjoining counties and get paid completely differently depending on which window their rock sits in.",
+  "intro": [
+    "Ohio's Utica play runs through a fairly narrow band of eastern counties, and where you sit within that band matters more than almost anything else about your interest. Belmont and Monroe counties tend to sit in the wet gas and condensate window, which usually means a richer, more valuable stream than pure dry gas. Carroll and parts of Harrison County were early development hotspots and carry some of the longest production histories in the play.",
+    "The royalty desk asks about the county and production window first, because the answer changes the entire pricing conversation."
+  ],
+  "sections": [
+    {
+      "heading": "Ohio's Utica Windows",
+      "paragraphs": [
+        "The Utica shale isn't uniform across eastern Ohio. Moving from west to east and north to south, the rock shifts from dry gas to a wet gas and condensate window to, in a few spots, an oil-richer window. Wet gas and condensate production typically brings a higher-value stream than dry gas alone, since natural gas liquids get priced and sold separately and usually command more.",
+        "If you're not sure which window your acreage sits in, your statement usually gives it away, a mix of gas, NGL, and condensate line items points to wet gas, while a check that's essentially all gas volume points to a dry gas well."
+      ]
+    },
+    {
+      "heading": "Belmont and Monroe County Owners",
+      "paragraphs": [
+        "These two counties have seen some of the most productive Utica wells in the state, often with strong initial production and a meaningful liquids component. Owners here tend to have more leverage in an offer conversation simply because the underlying production supports it, but the specific well's age and current rate still drive the number more than the county name does.",
+        "We pull well-level production data where available rather than pricing off a county average, since two wells a few miles apart in the same county can perform very differently."
+      ]
+    },
+    {
+      "heading": "Ohio's Mandatory Pooling Process",
+      "paragraphs": [
+        "Ohio allows operators to bring unleased or non-consenting mineral owners into a drilling unit through the state's mandatory pooling process, administered through the Chief of the Division of Oil and Gas Resources Management. If your interest was pooled this way rather than under a privately negotiated lease, the royalty terms come from that order rather than a lease you signed, and they're worth reviewing closely.",
+        "We check for this as part of any title review since it changes what documents govern your interest and what royalty rate actually applies."
+      ]
+    },
+    {
+      "heading": "What Slows an Ohio Closing",
+      "paragraphs": [
+        "Eastern Ohio mineral ownership frequently traces back through multiple generations of family farmland, and severed mineral interests here sometimes go back far enough that tracking the chain of title takes real courthouse work in the county recorder's office. That's routine for us, but it's worth knowing upfront that an Ohio closing can take a bit longer than a state with more recently established ownership records.",
+        "We start the title work immediately after you accept an offer so it doesn't sit as a bottleneck later."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does it matter if your Ohio well produces wet gas or dry gas?",
+      "answer": "Yes, meaningfully. Wet gas and condensate wells generally produce a higher-value combined stream than dry gas alone because natural gas liquids are sold separately and typically bring more per unit than gas."
+    },
+    {
+      "question": "What is Ohio mandatory pooling and does it affect what you own?",
+      "answer": "It's a state process that can bring unleased mineral owners into a drilling unit under an order rather than a private lease. It doesn't take away ownership, but it does set the royalty terms that apply, which we review as part of any offer."
+    },
+    {
+      "question": "Why does your Belmont County check look different from your cousin's in Carroll County?",
+      "answer": "Different wells, different vintages, and possibly different windows of the Utica formation. Even within the same play, well-level production and liquids content vary enough that county alone doesn't predict your check."
+    },
+    {
+      "question": "How long does an Ohio mineral rights closing typically take?",
+      "answer": "It depends on how clean the title chain is. Ohio interests with older, multi-generation severances can take longer to research than more recently established ownership, though we begin title work right away to keep things moving."
+    },
+    {
+      "question": "Are Carroll County wells still worth buying given how long they've produced?",
+      "answer": "Often yes. Carroll County was an early Utica hotspot, and many of those wells have settled into a steady, well-understood production tail. A long, documented history can actually make pricing more straightforward than a newer, still-declining well elsewhere in the play."
+    },
+    {
+      "question": "What if your Ohio mineral rights were leased decades ago under a coal-era deed?",
+      "answer": "That's common in eastern Ohio, where oil and gas rights were sometimes bundled with older coal severances. We read the specific deed language to confirm what was actually conveyed before pricing a sale."
+    },
+    {
+      "question": "Do you buy Ohio interests that are still leased but not yet drilled?",
+      "answer": "Yes, we evaluate those, though the offer reflects that there's no current production yet. Nearby permitting activity, the operator's development pace in your county, and how much time is left on the lease term all factor into the number."
+    }
+  ],
+  "status": "written",
+  "wordCount": 888,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-ohio.jpg",
+    "alt": "Replacement Minerals in Ohio location",
+    "width": 1600,
+    "height": 1000
+  }
+}

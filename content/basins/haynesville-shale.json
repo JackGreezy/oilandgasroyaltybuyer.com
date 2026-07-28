@@ -1,0 +1,74 @@
+{
+  "slug": "haynesville-shale",
+  "title": "Haynesville Shale Mineral Rights",
+  "type": "basin",
+  "group": "TX/LA",
+  "primaryKeyword": "haynesville shale mineral rights",
+  "seo": {
+    "vol": 30,
+    "cpc": 8.84
+  },
+  "metaTitle": "Haynesville Shale Mineral Rights & Royalty Buyer",
+  "metaDescription": "Own Haynesville Shale gas minerals in northwest Louisiana or East Texas? Deep, high-pressure gas with LNG-driven demand. We read your statement and make an offer.",
+  "heroLead": "The Haynesville is deep, hot, and under enormous pressure, and every one of those words shows up somewhere on your royalty statement whether you know it or not.",
+  "intro": [
+    "The Haynesville Shale runs across northwest Louisiana and into East Texas, roughly centered on the Shreveport area and extending through parishes and counties like Caddo, Bossier, DeSoto, and Panola. It's a dry gas play, but an unusual one — the Haynesville sits deep, commonly 10,000 to 14,000 feet, under high pressure and high temperature, which makes wells expensive to drill and complete but capable of very strong initial production rates once completed.",
+    "What's kept the Haynesville relevant in a way a lot of older gas plays haven't is proximity to Gulf Coast LNG export terminals. Demand tied to LNG has given operators here a reason to keep drilling through gas price cycles that would have shut down activity in a less strategically located basin."
+  ],
+  "sections": [
+    {
+      "heading": "Deep, high-pressure wells and their decline",
+      "paragraphs": [
+        "A strong Haynesville well can post an eye-catching initial production rate, but high-pressure wells like these also tend to decline sharply in the first year as that pressure bleeds off — often faster in percentage terms than a shallower gas well would. Owners behind a newly completed Haynesville well should expect the biggest checks in year one, with a real step down after that as the well settles toward its longer-term rate.",
+        "Because completion costs run high in this basin given the depth and pressures involved, operators are more selective about where and when they drill compared to a shallow, cheap-to-complete play — meaning Haynesville development activity tracks gas prices and LNG demand more closely than almost any other gas basin in the country. When gas prices and export demand are strong, expect active drilling nearby; when they're weak, expect a pause, not necessarily abandonment."
+      ]
+    },
+    {
+      "heading": "LNG demand and what it means for your interest",
+      "paragraphs": [
+        "The buildout of LNG export capacity along the Gulf Coast has given Haynesville gas a demand outlet that older gas plays without that pipeline access don't have, which is part of why operators have continued investing in this basin even through periods of soft domestic gas pricing. For a mineral owner, that translates to a somewhat steadier long-term demand picture for your gas than you'd see in a purely domestic-demand basin, though your realized price still depends on regional basis pricing at your specific delivery point.",
+        "This is a basin where checking whether your operator has committed acreage to a specific LNG-linked gas sales agreement, versus selling into the general spot market, can meaningfully affect your price realization — it's a fair question to ask when reviewing your statement."
+      ]
+    },
+    {
+      "heading": "Reading a Louisiana or East Texas Haynesville statement",
+      "paragraphs": [
+        "Gathering, compression, and dehydration deductions are standard and can run higher in dollar terms than in a shallower gas play, simply because deep, high-pressure gas requires more processing before it's sales-quality. Louisiana assesses severance tax on gas production that should appear as its own line, distinct from post-production deductions — confirm the rate matches current published figures for your parish.",
+        "If your interest sits in Texas rather than Louisiana, Texas severance tax rules and rates differ, so don't assume a statement format that looked normal on one side of the state line will look identical on the other."
+      ]
+    },
+    {
+      "heading": "Ownership situations across the Haynesville trend",
+      "paragraphs": [
+        "A lot of Haynesville minerals trace back to timber and farm land in northwest Louisiana and East Texas that families have held for generations, often leased in the initial 2008-2010 boom and again in more recent leasing rounds as operators expanded their positions. We talk to owners who leased early, watched activity slow when gas prices fell in the mid-2010s, and are now seeing renewed drilling nearby as LNG demand has picked activity back up.",
+        "Selling appeals to owners who want to lock in value tied to this renewed activity now, rather than ride out another multi-year cycle of gas price swings, as well as heirs consolidating interests spread across several parishes or counties into one clean payment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Why did your Haynesville well's check drop so much after the first year?",
+      "answer": "Deep, high-pressure Haynesville wells tend to decline sharply in year one as that initial pressure bleeds off, so a significant drop after the first twelve months is a normal part of the well's production curve, not necessarily a problem."
+    },
+    {
+      "question": "Does LNG export demand actually affect your royalty check?",
+      "answer": "It can, both by supporting more consistent drilling activity in the basin and by influencing the regional gas price your operator realizes at your specific delivery point. It's worth asking whether your gas is sold under an LNG-linked contract or into the general spot market."
+    },
+    {
+      "question": "Why is your Haynesville deduction line higher than you expected?",
+      "answer": "Deep, high-pressure gas typically requires more gathering, compression, and dehydration before it's sales-ready, which tends to push deduction dollars higher than in a shallower gas play even at a comparable percentage of revenue."
+    },
+    {
+      "question": "Is the Haynesville still an active drilling area?",
+      "answer": "Activity tracks gas prices and LNG demand closely, so it cycles between active and quiet periods more visibly than some other basins. Checking recent permits and nearby drilling near your specific parish or county gives the clearest current picture."
+    }
+  ],
+  "status": "written",
+  "wordCount": 899,
+  "image": {
+    "src": "/images/basins/mineral-rights-basins-haynesville-shale-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Haynesville Shale Mineral Rights mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "unsolicited-offer-received",
+  "title": "Got an Unsolicited Offer?",
+  "type": "situation",
+  "note": "benchmarking mailbox offers",
+  "status": "written",
+  "metaTitle": "Got an Unsolicited Offer for Your Mineral Rights?",
+  "metaDescription": "A letter shows up offering to buy your minerals out of nowhere. Before you sign or ignore it, here's how to read the offer and check if it's actually fair.",
+  "heroLead": "An envelope shows up offering to buy minerals you'd nearly forgotten you owned, and the honest question isn't whether to trust it, it's whether the number inside is even in the right neighborhood.",
+  "intro": [
+    "Mailbox offers on mineral interests are a real business, not automatically a scam, but the number on the page is written by someone who wants to buy low, same as any other buyer would. That's not sinister, it's just the incentive built into the letter. The problem is most owners have no way to check that number against anything, since they don't have another royalty check to compare it to and don't know what similar interests nearby have sold for.",
+    "The royalty desk has reviewed plenty of these letters for owners over the years, and the pattern is consistent: some are close to fair market value, some are well below it, and almost none of them explain how the number was calculated. That last part is what you should be asking about before you do anything else."
+  ],
+  "sections": [
+    {
+      "heading": "Why buyers mail these offers in the first place",
+      "paragraphs": [
+        "Companies that send unsolicited mineral offers are usually working from county deed records, cross-referenced against operator production data, targeting owners in areas with active drilling. They're playing a numbers game, sending out volume with the expectation that some percentage of recipients will accept without shopping the offer around. That's a legitimate business model, but it means the first number offered is rarely the best number available.",
+        "It also means the letter often arrives with real urgency language, deadlines, 'this offer expires,' pressure to respond quickly, designed to keep you from comparing it against anything else before deciding."
+      ]
+    },
+    {
+      "heading": "Reading the offer for what it actually pays",
+      "paragraphs": [
+        "Look for what the offer is actually based on: does it reference your specific well or lease, your decimal interest, and recent production, or is it a generic form letter with blanks filled in? An offer grounded in your actual production history is worth taking seriously. A generic offer with no specifics is a starting point at best, not a real valuation.",
+        "Also check whether the offer covers all of your interest or just a portion, since some letters are deliberately vague about exactly what's being purchased until you call in, at which point the terms can shift."
+      ]
+    },
+    {
+      "heading": "Getting a real number to compare it against",
+      "paragraphs": [
+        "The only way to know if an unsolicited offer is fair is to get at least one independent quote based on your actual check history or division order. That quote should reference the same production data the original offer claims to be based on, which lets you compare apples to apples instead of guessing. If a second buyer's number lands meaningfully higher on the same underlying production, you've learned something real about the first offer.",
+        "There's no obligation to respond to an unsolicited letter on any particular timeline, regardless of what the deadline language says. Taking a week or two to get a second opinion costs you nothing and tells you exactly what you're dealing with."
+      ]
+    },
+    {
+      "heading": "What to do if the offer turns out to be fair",
+      "paragraphs": [
+        "Not every unsolicited offer is a lowball. Some buyers mail competitive numbers precisely because they know owners are increasingly likely to shop the offer around, and a fair first offer saves everyone time. If a second quote comes back close to the original number, that's a reasonably strong sign the first offer was already priced fairly.",
+        "Either way, read the actual purchase and sale agreement carefully before signing, checking exactly what interest, well, and county it covers, since the specifics in the contract matter more than anything printed in the original letter."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is it safe to respond to an unsolicited offer for your mineral rights?",
+      "answer": "Generally yes, responding to ask questions doesn't obligate you to sell. Just verify the company's identity independently before sharing sensitive information, and don't sign anything until you understand exactly what interest and terms are being offered."
+    },
+    {
+      "question": "Why would a buyer offer less than your minerals are actually worth?",
+      "answer": "Volume-mailed offers are priced to be profitable for the buyer across many owners, and the initial number is rarely their best offer. Getting a second quote based on your specific production history is the way to find out if you're leaving money on the table."
+    },
+    {
+      "question": "Do you have to respond by the deadline printed on the letter?",
+      "answer": "No, deadline language in these letters is a sales tactic, not a legal requirement. You're free to take the time you need to get a second opinion before responding either way."
+    },
+    {
+      "question": "What should you ask the company that sent the offer?",
+      "answer": "Ask exactly what interest they're offering to buy, what production data or well the number is based on, and whether the offer covers all or part of your interest. Vague answers to specific questions are worth noting."
+    },
+    {
+      "question": "Can you negotiate an unsolicited offer instead of just accepting or rejecting it?",
+      "answer": "Yes, the first number in the letter is a starting point, not a final price, and most buyers expect some negotiation, especially once you've shown you've gotten a comparison quote elsewhere."
+    },
+    {
+      "question": "Should you be worried if you get several unsolicited offers for the same interest?",
+      "answer": "Not necessarily, receiving multiple letters usually just means several buyers are working the same county's deed records. It's actually useful, since you can compare the numbers directly instead of trying to benchmark a single offer against nothing."
+    }
+  ],
+  "wordCount": 935,
+  "image": {
+    "src": "/images/situations/mineral-rights-situations-unsolicited-offer-received-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Got an Unsolicited Offer? mineral rights",
+    "width": 1600,
+    "height": 1000
+  }
+}

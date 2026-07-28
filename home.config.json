@@ -1,0 +1,30 @@
+{
+  "domain": "oilandgasroyaltybuyer.com",
+  "clone_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/oilandgasroyaltybuyer.com",
+  "content_dir": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/oilandgasroyaltybuyer.com",
+  "reference": "https://www.northropgrumman.com/",
+  "refhost": "northropgrumman-com",
+  "biz": "Oil & Gas Royalty Buyer",
+  "businessName": "Oil & Gas Royalty Buyer",
+  "wordmark_l1": "Oil & Gas",
+  "wordmark_l2": "Royalty Buyer",
+  "city": "Williston",
+  "state": "North Dakota",
+  "region": "Williston, the Bakken, and producing regions nationwide",
+  "phone": "701-555-1014",
+  "email": "royalties@oilandgasroyaltybuyer.com",
+  "address": "22 E Broadway, Williston, ND 58801",
+  "vertical": "mineral-rights",
+  "suppress_footer_media": true,
+  "hero_image": "/ours/locations/sell-mineral-rights-north-dakota.jpg",
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/mineral-rights/oilandgasroyaltybuyer.com/site-voice.json",
+  "nav": [
+    ["Situations", "/situations"],
+    ["Interests", "/interest-types"],
+    ["Basins", "/basins"],
+    ["Resources", "/resources"],
+    ["About", "/about"],
+    ["Contact", "/contact"]
+  ],
+  "cta": ["Request a Royalty Review", "/contact"]
+}

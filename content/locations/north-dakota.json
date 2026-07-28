@@ -1,0 +1,82 @@
+{
+  "slug": "north-dakota",
+  "title": "Sell Mineral Rights in North Dakota",
+  "type": "state",
+  "group": "Bakken/Three Forks",
+  "primaryKeyword": "mineral rights north dakota",
+  "seo": {
+    "vol": 260,
+    "cpc": 9.7
+  },
+  "metaTitle": "Sell Mineral Rights in North Dakota | Bakken Buyer",
+  "metaDescription": "North Dakota Bakken and Three Forks mineral owners: if your royalty check has been sliding for a while, we'll price an offer against where the decline actually sits.",
+  "heroLead": "Bakken owners regularly ask the same question in different words: is the royalty check dropping because something's wrong, or is this just what a Bakken well does after year three.",
+  "intro": [
+    "North Dakota mineral owners are almost always Bakken and Three Forks owners, and if there's one thing to understand about this play it's that decline is the whole story. A Bakken well can produce more oil in its first eighteen months than most conventional wells produce in a decade, and then it settles into a much slower, longer tail. Your check today indicates roughly where the well sits on that curve, and that's the single biggest factor in what it's worth to sell.",
+    "The royalty desk reads royalty statements every day, and a North Dakota statement with a steep early decline followed by flattening is a completely different conversation than one still in year one of a sharp drop."
+  ],
+  "sections": [
+    {
+      "heading": "Reading a Declining Bakken Check",
+      "paragraphs": [
+        "A well in its first two years typically shows the steepest month-over-month drop, sometimes losing more than half its output within the first year alone. That's normal Bakken behavior, not a sign of a problem well. Once production flattens into its long tail, usually somewhere past year three or four, the remaining decline slows considerably and the well can keep paying at a modest, more predictable level for a long time.",
+        "When we quote an interest, we're trying to figure out where your well sits on that curve right now, because an offer priced off an early, still-declining check and one priced off a well that's already flattened out are two very different numbers."
+      ]
+    },
+    {
+      "heading": "Core McKenzie and Mountrail County vs Outlying Counties",
+      "paragraphs": [
+        "McKenzie, Mountrail, Williams, and Dunn counties sit in the thickest, most productive part of the Bakken and Three Forks, with the densest well spacing and the most multi-well pad development. Owners further out toward Divide, Burke, or McLean counties are often on somewhat thinner pay with less aggressive development, which shows up in both the size of the check and how much further drilling activity is likely.",
+        "Neither position is bad, but a core-county interest generally carries more near-term development upside, which is part of what we weigh alongside current production."
+      ]
+    },
+    {
+      "heading": "Three Forks Behind Pipe",
+      "paragraphs": [
+        "A number of North Dakota units have Bakken production actively flowing while a Three Forks well on the same spacing unit is permitted or drilled but not yet turned to sales, sometimes called behind pipe. If that's the case on your tract, it's worth knowing before you sell, since it represents real future production that isn't reflected in your current check at all.",
+        "We check state well records for exactly this kind of activity as part of any review, because it can materially change what a fair offer looks like."
+      ]
+    },
+    {
+      "heading": "Force-Pooled Owners",
+      "paragraphs": [
+        "North Dakota's forced pooling process brings unleased owners into a spacing unit under Industrial Commission order rather than a negotiated lease, and the royalty terms that come with it can differ from what a neighbor negotiated privately. If you were force-pooled, we look at the order itself to understand exactly what royalty and cost terms apply to your interest before pricing an offer.",
+        "This comes up more often than people expect in North Dakota, particularly with older, smaller, or harder-to-locate mineral owners who never got leased the conventional way."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Your Bakken check has been shrinking every month. Should you sell now?",
+      "answer": "Depends where you are in the decline. If the well is still in its steep early years, waiting for it to flatten can sometimes mean a different value picture. If it's already leveled off at a lower, steady rate, that's often a more predictable time to price a sale. We'll tell you honestly which situation your statement shows."
+    },
+    {
+      "question": "What does behind pipe mean and does it affect your interest?",
+      "answer": "It means a well has been drilled and permitted on your spacing unit but hasn't started producing yet, usually because the operator is waiting to bring it online with other wells on the pad. It represents future production that isn't in your current check but should factor into value."
+    },
+    {
+      "question": "Is McKenzie County mineral rights worth more than Divide County?",
+      "answer": "Generally, core-county acreage in McKenzie, Mountrail, or Williams carries more near-term development potential and denser well spacing than more outlying counties, though every tract depends on its specific well history."
+    },
+    {
+      "question": "Do force-pooled owners still retain their minerals?",
+      "answer": "Yes, forced pooling brings you into the spacing unit's production and royalty terms under state order, it doesn't take away your ownership. We review the pooling order to confirm the exact terms before making an offer."
+    },
+    {
+      "question": "Does a Three Forks well behind pipe on your unit add value beyond your current check?",
+      "answer": "It can. A permitted or drilled but not yet producing Three Forks well represents real future volume that isn't reflected in your statement today, and we factor that potential into any offer once we've confirmed it through state well records."
+    },
+    {
+      "question": "How do you find out which county your North Dakota mineral rights are in?",
+      "answer": "Your division order or the legal description on an old deed will usually show it. If you only have a family name or a general area, we can often trace the tract through county and Industrial Commission records from there."
+    }
+  ],
+  "status": "written",
+  "wordCount": 920,
+  "image": {
+    "src": "/images/locations/sell-mineral-rights-north-dakota.jpg",
+    "alt": "Replacement Minerals in North Dakota location",
+    "width": 1600,
+    "height": 1000
+  }
+}
