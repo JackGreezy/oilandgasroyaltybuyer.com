@@ -307,5 +307,13 @@
         "The owner considering {name} should understand what happens if the exchange proceeds, changes, or does not occur. The purchase agreement, deed, title schedule, settlement statement, revenue allocation, and buyer funding conditions still need to work as a mineral sale. A backup path should not be interpreted as tax advice, but it prevents unclear exchange assumptions from making the underlying conveyance vague."
       ]
     ]
+  },
+  "slug_ui": {
+    "related_kicker": "Royalty statement",
+    "related_heading": "Trace the next line behind the check",
+    "related_intro": "Carry the well, product, volume, price, deduction, tax, and decimal detail from {item} into these connected royalty reviews.",
+    "related_action": "Open the Royalty Statement Library",
+    "faq_kicker": "Bakken royalty file",
+    "faq_intro": "Each answer ties the deposited amount back to the title, lease, unit, well, price, and adjustment records that produced it."
   }
 }
