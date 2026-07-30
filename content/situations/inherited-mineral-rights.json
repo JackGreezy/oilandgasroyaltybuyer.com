@@ -1,77 +1,77 @@
 {
-  "slug": "inherited-mineral-rights",
-  "title": "Inherited Mineral Rights",
-  "type": "situation",
-  "note": "heirs deciding whether to keep or sell",
-  "status": "written",
-  "metaTitle": "What to Do When You Inherit Mineral Rights",
-  "metaDescription": "A royalty check shows up with your late relative's name on it, or a check register with no explanation at all. Here's how to make sense of what you inherited.",
-  "heroLead": "Most people who inherit mineral rights find out the hard way, either a check arrives made out to a parent who passed, or nothing arrives and they have to go find out what's even out there.",
-  "intro": [
-    "One early inherited-royalty file involved an owner whose father had passed two years earlier. The checks kept getting mailed to his address, which had a new owner living in it who'd been quietly cashing nothing but tossing the envelopes, unaware they even mattered. She lost two years of payments simply because nobody updated the operator's records. That's the most common failure point with inherited minerals: not the value of the asset, but the paperwork gap between generations.",
-    "If you've inherited an interest, producing or not, the first job is getting yourself on record as the legal owner. Everything else, whether to keep it, lease it, or sell it, comes after that."
-  ],
-  "sections": [
-    {
-      "heading": "Getting the interest into your name",
-      "paragraphs": [
-        "Operators pay whoever the county records show as the current owner, so if the deed or lease is still in a deceased relative's name, the checks either stop or go into suspense until someone proves ownership. Depending on your state, that proof is usually either a probated will, an affidavit of heirship, or a small estate affidavit for modest estates. This is where a probate attorney earns their fee, even on a small interest, because getting it wrong means resubmitting paperwork to every operator involved.",
-        "Once title is cleared, you'll file a new division order with each operator paying on the property. That's the document that sets your net revenue interest and gets checks flowing to you directly."
-      ]
-    },
-    {
-      "heading": "Figuring out what you actually own",
-      "paragraphs": [
-        "Start with whatever paper trail exists: old check stubs, a 1099, a lease document, or a deed referenced in the estate file. If there's nothing, the county clerk's office in the county where the land sits can pull the deed history, and most operators will tell you your decimal interest over the phone once you've established you're the legal owner. Don't assume a lack of recent checks means the interest is worthless; leases lapse and get renewed, and wells go through periods of low activity between workovers.",
-        "It's also worth checking whether the mineral rights were severed from any surface land your relative owned, since heirs sometimes inherit the surface and assume the minerals came with it when they didn't, or vice versa."
-      ]
-    },
-    {
-      "heading": "Keep, lease, or sell",
-      "paragraphs": [
-        "If the interest is producing steadily and you're comfortable with ongoing paperwork, K-1s or 1099s, and the uncertainty of decline, holding it can make sense, especially if there are multiple heirs who want to keep something in the family. If the interest is small, scattered among several siblings, or you'd rather have one number today than an unpredictable stream for years, selling converts it into something easier to divide and closes the estate cleanly.",
-        "There's no wrong answer here, but the math is worth doing honestly: add up what the checks have actually paid over the last two or three years, look at the trend, and weigh that against a lump sum offer before deciding either way. If multiple heirs inherited together, this conversation is worth having as a group early, since a sibling who wants to hold and a sibling who wants to sell can both get what they want if the interest is divided and sold in pieces rather than forced into one shared decision."
-      ]
-    },
-    {
-      "heading": "What check history tells you before you decide",
-      "paragraphs": [
-        "Before making a keep-or-sell decision, pull together whatever check stubs or 1099s exist and look at the pattern over time rather than any single month. A steady or slowly declining trend suggests a mature, well-understood well. Sharp swings often just reflect commodity price movement rather than anything wrong with the property itself.",
-        "If the well is relatively young, decline can still be steep in the early years before leveling off, which is normal and worth understanding before assuming a falling check means the asset is losing all its value."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "How do you find out if you inherited mineral rights you didn't know about?",
-      "answer": "Check the deceased's county property records in the county where they owned land, and look through their old tax returns for 1099-MISC or 1099-NEC forms from oil and gas operators, which is often the first sign a royalty interest exists."
-    },
-    {
-      "question": "Do you need a lawyer to transfer inherited mineral rights into your name?",
-      "answer": "In most states you'll need some form of probate document or affidavit of heirship to clear title, and an attorney familiar with mineral title in that state is worth the cost even on a modest interest, since a mistake can delay payments for months."
-    },
-    {
-      "question": "Can you sell mineral rights before the estate is fully settled?",
-      "answer": "Usually not until the executor or administrator has authority to transfer the asset, or until it's distributed to heirs individually, though the exact timing depends on your state's probate process."
-    },
-    {
-      "question": "What if several siblings inherited the interest together?",
-      "answer": "Each heir typically owns an undivided fractional share and can decide independently whether to keep or sell their portion, though many families find it simpler to make the decision together and close one combined transaction."
-    },
-    {
-      "question": "Is inherited mineral income taxed differently than other inherited assets?",
-      "answer": "Mineral interests generally get a stepped-up basis at inheritance, which affects any future sale, and ongoing royalty income is taxed as it's received. Talk to your CPA or attorney about how this applies to your specific estate before filing."
-    },
-    {
-      "question": "What if the checks stopped years before you even knew you would inherited anything?",
-      "answer": "Stopped checks usually mean the operator moved the payments into suspense once mail started bouncing, rather than the interest going dormant on its own. Once you're established as the legal owner with a current address, most operators will release suspended funds owed to you, sometimes going back several years, subject to their own escheatment timelines."
-    }
-  ],
-  "wordCount": 1025,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Inherited Mineral Rights mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "inherited-mineral-rights",
+ "title": "Inherited Mineral Rights",
+ "type": "situation",
+ "note": "heirs deciding whether to keep or sell",
+ "status": "written",
+ "metaTitle": "What to Do When You Inherit Mineral Rights",
+ "metaDescription": "A royalty check shows up with your late relative's name on it, or a check register with no explanation at all. Here's how to make sense of what you inherited.",
+ "heroLead": "Most people who inherit mineral rights find out the hard way, either a check arrives made out to a parent who passed, or nothing arrives and they have to go find out what's even out there.",
+ "intro": [
+  "One early inherited-royalty file involved an owner whose father had passed two years earlier. The checks kept getting mailed to his address, which had a new owner living in it who'd been quietly cashing nothing but tossing the envelopes, unaware they even mattered. She lost two years of payments simply because nobody updated the operator's records. That's the most common failure point with inherited minerals: not the value of the asset, but the paperwork gap between generations.",
+  "If you've inherited an interest, producing or not, the first job is getting yourself on record as the legal owner. Everything else, whether to keep it, lease it, or sell it, comes after that."
+ ],
+ "sections": [
+  {
+   "heading": "Getting the interest into your name",
+   "paragraphs": [
+    "Operators pay whoever the county records show as the current owner, so if the deed or lease is still in a deceased relative's name, the checks either stop or go into suspense until someone proves ownership. Depending on your state, that proof is usually either a probated will, an affidavit of heirship, or a small estate affidavit for modest estates. This is where a probate attorney earns their fee, even on a small interest, because getting it wrong means resubmitting paperwork to every operator involved.",
+    "Once title is cleared, you'll file a new division order with each operator paying on the property. That's the document that sets your net revenue interest and gets checks flowing to you directly."
+   ]
+  },
+  {
+   "heading": "Figuring out what you actually own",
+   "paragraphs": [
+    "Start with whatever paper trail exists: old check stubs, a 1099, a lease document, or a deed referenced in the estate file. If there's nothing, the county clerk's office in the county where the land sits can pull the deed history, and most operators will tell you your decimal interest over the phone once you've established you're the legal owner. Don't assume a lack of recent checks means the interest is worthless; leases lapse and get renewed, and wells go through periods of low activity between workovers.",
+    "It's also worth checking whether the mineral rights were severed from any surface land your relative owned, since heirs sometimes inherit the surface and assume the minerals came with it when they didn't, or vice versa."
+   ]
+  },
+  {
+   "heading": "Keep, lease, or sell",
+   "paragraphs": [
+    "If the interest is producing steadily and you're comfortable with ongoing paperwork, K-1s or 1099s, and the uncertainty of decline, holding it can make sense, especially if there are multiple heirs who want to keep something in the family. If the interest is small, scattered among several siblings, or you'd rather have one number today than an unpredictable stream for years, selling converts it into something easier to divide and closes the estate cleanly.",
+    "There's no wrong answer here, but the math is worth doing honestly: add up what the checks have actually paid over the last two or three years, look at the trend, and weigh that against a lump sum offer before deciding either way. If multiple heirs inherited together, this conversation is worth having as a group early, since a sibling who wants to hold and a sibling who wants to sell can both get what they want if the interest is divided and sold in pieces rather than forced into one shared decision."
+   ]
+  },
+  {
+   "heading": "What check history tells you before you decide",
+   "paragraphs": [
+    "Before making a keep-or-sell decision, pull together whatever check stubs or 1099s exist and look at the pattern over time rather than any single month. A steady or slowly declining trend suggests a mature, well-understood well. Sharp swings often just reflect commodity price movement rather than anything wrong with the property itself.",
+    "If the well is relatively young, decline can still be steep in the early years before leveling off, which is normal and worth understanding before assuming a falling check means the asset is losing all its value."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "How do you find out if you inherited mineral rights you didn't know about?",
+   "answer": "Check the deceased's county property records in the county where they owned land, and look through their old tax returns for 1099-MISC or 1099-NEC forms from oil and gas operators, which is often the first sign a royalty interest exists."
+  },
+  {
+   "question": "Do you need a lawyer to transfer inherited mineral rights into your name?",
+   "answer": "In most states you'll need some form of probate document or affidavit of heirship to clear title, and an attorney familiar with mineral title in that state is worth the cost even on a modest interest, since a mistake can delay payments for months."
+  },
+  {
+   "question": "Can you sell mineral rights before the estate is fully settled?",
+   "answer": "Usually not until the executor or administrator has authority to transfer the asset, or until it's distributed to heirs individually, though the exact timing depends on your state's probate process."
+  },
+  {
+   "question": "What if several siblings inherited the interest together?",
+   "answer": "Each heir typically owns an undivided fractional share and can decide independently whether to keep or sell their portion, though many families find it simpler to make the decision together and close one combined transaction."
+  },
+  {
+   "question": "Is inherited mineral income taxed differently than other inherited assets?",
+   "answer": "Mineral interests generally get a stepped-up basis at inheritance, which affects any future sale, and ongoing royalty income is taxed as it's received. Talk to your CPA or attorney about how this applies to your specific estate before filing."
+  },
+  {
+   "question": "What if the checks stopped years before you even knew you would inherited anything?",
+   "answer": "Stopped checks usually mean the operator moved the payments into suspense once mail started bouncing, rather than the interest going dormant on its own. Once you're established as the legal owner with a current address, most operators will release suspended funds owed to you, sometimes going back several years, subject to their own escheatment timelines."
+  }
+ ],
+ "wordCount": 1025,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-inherited-mineral-rights-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Inherited Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

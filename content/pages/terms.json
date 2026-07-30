@@ -1,90 +1,90 @@
 {
-  "slug": "terms",
-  "title": "Terms",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "Terms of Use - Oil & Gas Royalty Buyer",
-  "metaDescription": "The terms governing use of this site and the nature of any offer made on a royalty or mineral interest, in plain language.",
-  "heroLead": "Nothing on this site is a binding offer until it's in a signed purchase agreement, and this page explains what that actually means in practice.",
-  "intro": [
-    "These terms govern your use of this website and your interactions with us regarding oil and gas royalty and mineral interests. By using the site or contacting us, you're agreeing to the terms below. They're written in plain language on purpose, since most owners visiting this site aren't lawyers and shouldn't need to be to understand what they're agreeing to.",
-    "If anything here conflicts with a signed purchase agreement you've entered into with us, the purchase agreement controls for that transaction."
-  ],
-  "sections": [
-    {
-      "heading": "Nature of offers made on this site",
-      "paragraphs": [
-        "Any figure, estimate, or written offer we provide is preliminary and non-binding until both parties sign a formal purchase and sale agreement. Preliminary offers are based on the information available to us at the time - your statements, county records, and general market conditions - and can change if additional information (such as a title issue or updated production data) comes to light during due diligence.",
-        "We make no guarantee of a specific price, timeline, or outcome. Value talk on this site, including anything in our resource guides, is educational and describes typical ranges and methods, not a promise for your specific interest."
-      ]
-    },
-    {
-      "heading": "No professional advice",
-      "paragraphs": [
-        "We are a direct buyer of mineral and royalty interests. We are not licensed appraisers, attorneys, accountants, or financial advisors, and nothing on this site constitutes appraisal, legal, tax, or financial advice. Content here is general and educational; your specific situation may differ, and you should consult a qualified professional - a CPA for tax questions, an attorney for title or legal questions, a certified appraiser for a formal valuation - before making decisions based on anything you read here."
-      ]
-    },
-    {
-      "heading": "Accuracy of site content",
-      "paragraphs": [
-        "We make reasonable efforts to keep the information on this site accurate and current, including our resource guides on statements, valuation methods, and the sale process. Oil and gas markets, regulations, and industry practices change, and we don't guarantee that every detail remains current at the moment you're reading it. If something seems outdated or incorrect, we welcome you to raise it with us."
-      ]
-    },
-    {
-      "heading": "Your responsibilities",
-      "paragraphs": [
-        "Information you provide to us - about your ownership, your interest, or supporting documents - should be accurate to the best of your knowledge. Misrepresenting ownership or providing fraudulent documentation can affect or void any resulting agreement. You're also responsible for your own decision to sell, lease, or hold your interest; we provide information and offers, not decisions on your behalf."
-      ]
-    },
-    {
-      "heading": "Limitation of liability",
-      "paragraphs": [
-        "To the extent permitted by law, we aren't liable for decisions made based on general information provided on this site, outside of the specific terms of a signed purchase agreement for a completed transaction. Our liability in connection with any transaction is limited to the terms explicitly stated in that transaction's purchase agreement."
-      ]
-    },
-    {
-      "heading": "Changes to these terms",
-      "paragraphs": [
-        "We may update these terms from time to time to reflect changes in how the site or our process works. The version posted here at the time of your use governs that use; a signed purchase agreement for a specific transaction remains governed by the terms in effect when it was signed, regardless of later updates to this page.",
-        "We encourage you to review this page periodically, particularly before relying on general educational content here for a decision, since industry practices and our own process can evolve over time."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Is a written offer on this site legally binding?",
-      "answer": "No. It's a preliminary, non-binding estimate. A binding transaction only exists once both parties sign a formal purchase and sale agreement."
-    },
-    {
-      "question": "Can the offer change after you first receive it?",
-      "answer": "Yes, if new information comes to light during due diligence - a title issue, updated production data, or a discrepancy from what was initially provided. We'll explain any change clearly before asking you to sign anything."
-    },
-    {
-      "question": "Do these terms count as legal or tax advice?",
-      "answer": "No. Nothing on this site is legal, tax, or appraisal advice. For those matters, consult a licensed attorney, CPA, or certified appraiser familiar with your specific situation."
-    },
-    {
-      "question": "What if information you provided turns out to be inaccurate?",
-      "answer": "Let us know as soon as you're aware. Depending on the nature and timing, it may affect a pending offer or agreement, and we'll work through it directly with you rather than treating it as automatically disqualifying."
-    },
-    {
-      "question": "Do these terms apply to a specific purchase agreement you have signed?",
-      "answer": "These site terms are general. A signed purchase agreement for a specific transaction is a separate, more detailed document, and where the two conflict for that transaction, the purchase agreement controls."
-    },
-    {
-      "question": "Who do you contact with questions about these terms?",
-      "answer": "Use the contact page. We're glad to clarify anything here before you rely on it or sign a purchase agreement."
-    },
-    {
-      "question": "Does using this site create any obligation on your part?",
-      "answer": "No. Browsing the site, reading the resource guides, or requesting a preliminary offer creates no obligation. Obligations only arise once you sign a specific purchase agreement."
-    }
-  ],
-  "wordCount": 876,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-terms-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Terms mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "terms",
+ "title": "Terms",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Terms of Use - Oil & Gas Royalty Buyer",
+ "metaDescription": "The terms governing use of this site and the nature of any offer made on a royalty or mineral interest, in plain language.",
+ "heroLead": "Nothing on this site is a binding offer until it's in a signed purchase agreement, and this page explains what that actually means in practice.",
+ "intro": [
+  "These terms govern your use of this website and your interactions with us regarding oil and gas royalty and mineral interests. By using the site or contacting us, you're agreeing to the terms below. They're written in plain language on purpose, since most owners visiting this site aren't lawyers and shouldn't need to be to understand what they're agreeing to.",
+  "If anything here conflicts with a signed purchase agreement you've entered into with us, the purchase agreement controls for that transaction."
+ ],
+ "sections": [
+  {
+   "heading": "Nature of offers made on this site",
+   "paragraphs": [
+    "Any figure, estimate, or written offer we provide is preliminary and non-binding until both parties sign a formal purchase and sale agreement. Preliminary offers are based on the information available to us at the time - your statements, county records, and general market conditions - and can change if additional information (such as a title issue or updated production data) comes to light during due diligence.",
+    "We make no guarantee of a specific price, timeline, or outcome. Value talk on this site, including anything in our resource guides, is educational and describes typical ranges and methods, not a promise for your specific interest."
+   ]
+  },
+  {
+   "heading": "No professional advice",
+   "paragraphs": [
+    "We are a direct buyer of mineral and royalty interests. We are not licensed appraisers, attorneys, accountants, or financial advisors, and nothing on this site constitutes appraisal, legal, tax, or financial advice. Content here is general and educational; your specific situation may differ, and you should consult a qualified professional - a CPA for tax questions, an attorney for title or legal questions, a certified appraiser for a formal valuation - before making decisions based on anything you read here."
+   ]
+  },
+  {
+   "heading": "Accuracy of site content",
+   "paragraphs": [
+    "We make reasonable efforts to keep the information on this site accurate and current, including our resource guides on statements, valuation methods, and the sale process. Oil and gas markets, regulations, and industry practices change, and we don't guarantee that every detail remains current at the moment you're reading it. If something seems outdated or incorrect, we welcome you to raise it with us."
+   ]
+  },
+  {
+   "heading": "Your responsibilities",
+   "paragraphs": [
+    "Information you provide to us - about your ownership, your interest, or supporting documents - should be accurate to the best of your knowledge. Misrepresenting ownership or providing fraudulent documentation can affect or void any resulting agreement. You're also responsible for your own decision to sell, lease, or hold your interest; we provide information and offers, not decisions on your behalf."
+   ]
+  },
+  {
+   "heading": "Limitation of liability",
+   "paragraphs": [
+    "To the extent permitted by law, we aren't liable for decisions made based on general information provided on this site, outside of the specific terms of a signed purchase agreement for a completed transaction. Our liability in connection with any transaction is limited to the terms explicitly stated in that transaction's purchase agreement."
+   ]
+  },
+  {
+   "heading": "Changes to these terms",
+   "paragraphs": [
+    "We may update these terms from time to time to reflect changes in how the site or our process works. The version posted here at the time of your use governs that use; a signed purchase agreement for a specific transaction remains governed by the terms in effect when it was signed, regardless of later updates to this page.",
+    "We encourage you to review this page periodically, particularly before relying on general educational content here for a decision, since industry practices and our own process can evolve over time."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Is a written offer on this site legally binding?",
+   "answer": "No. It's a preliminary, non-binding estimate. A binding transaction only exists once both parties sign a formal purchase and sale agreement."
+  },
+  {
+   "question": "Can the offer change after you first receive it?",
+   "answer": "Yes, if new information comes to light during due diligence - a title issue, updated production data, or a discrepancy from what was initially provided. We'll explain any change clearly before asking you to sign anything."
+  },
+  {
+   "question": "Do these terms count as legal or tax advice?",
+   "answer": "No. Nothing on this site is legal, tax, or appraisal advice. For those matters, consult a licensed attorney, CPA, or certified appraiser familiar with your specific situation."
+  },
+  {
+   "question": "What if information you provided turns out to be inaccurate?",
+   "answer": "Let us know as soon as you're aware. Depending on the nature and timing, it may affect a pending offer or agreement, and we'll work through it directly with you rather than treating it as automatically disqualifying."
+  },
+  {
+   "question": "Do these terms apply to a specific purchase agreement you have signed?",
+   "answer": "These site terms are general. A signed purchase agreement for a specific transaction is a separate, more detailed document, and where the two conflict for that transaction, the purchase agreement controls."
+  },
+  {
+   "question": "Who do you contact with questions about these terms?",
+   "answer": "Use the contact page. We're glad to clarify anything here before you rely on it or sign a purchase agreement."
+  },
+  {
+   "question": "Does using this site create any obligation on your part?",
+   "answer": "No. Browsing the site, reading the resource guides, or requesting a preliminary offer creates no obligation. Obligations only arise once you sign a specific purchase agreement."
+  }
+ ],
+ "wordCount": 876,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-terms-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Terms mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

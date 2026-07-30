@@ -1,81 +1,81 @@
 {
-  "slug": "about",
-  "title": "About",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "About Oil & Gas Royalty Buyer",
-  "metaDescription": "Why this site exists, how we evaluate royalty interests, and what we're honest about not being - written by a former operations engineer.",
-  "heroLead": "This site exists because most royalty owners are handed a check stub full of numbers nobody ever explained to them.",
-  "intro": [
-    "Oil & Gas Royalty Buyer brings years of operating-side oil and gas experience - the side that builds the division orders, models the decline curves, and knows exactly why a check looks the way it does that month. Owners rarely get access to that view. They get a stub in the mail and a phone number to call if something looks wrong, and most people never call.",
-    "That gap - between what the operator knows and what the owner sees - is the reason this site is built the way it is. We'd rather explain the deduction line than hope you don't ask about it."
-  ],
-  "sections": [
-    {
-      "heading": "How we work",
-      "paragraphs": [
-        "We evaluate every interest against actual production data - your statements where you have them, county and permit records where you don't - rather than a flat regional number applied to everyone who reaches out. One person handles your file from first contact through closing, so you're not re-explaining your situation to a new voice every call.",
-        "We put our reasoning on the table. If you ask what an offer is based on, we'll tell you - the decimal interest, the decline assumption, what nearby activity we're seeing. A number you can't ask questions about isn't one you should trust, from us or anyone else."
-      ]
-    },
-    {
-      "heading": "What we believe about this market",
-      "paragraphs": [
-        "We think most owners are underinformed by design, not by accident. Statements are written for accounting systems, not for the person receiving them. Mass mailers are priced off averages, not your specific tract. The industry hasn't had much incentive to close that gap, and we think that's the actual problem worth solving here - buying interests fairly, and also making the numbers behind them legible to the person who owns them."
-      ]
-    },
-    {
-      "heading": "Where we work",
-      "paragraphs": [
-        "We evaluate interests across the major producing basins - the Permian Basin, the Bakken, the Eagle Ford, Appalachian gas country including the Marcellus and Utica, the Anadarko Basin, and the Ark-La-Tex region, among other established plays. Each of these behaves differently - decline curves, typical royalty fractions, common deduction practices, and even courthouse recording conventions all vary basin to basin, and we evaluate your interest against the specifics of where it actually sits, not a generic template."
-      ]
-    },
-    {
-      "heading": "When we'd tell you not to sell",
-      "paragraphs": [
-        "We're a buyer, so it would be easy for us to just say yes to every deal. We won't. If a well is early in its production life with strong offset activity nearby, or if the math suggests you'd likely do better holding the interest for a few more years, we'll say so plainly, even though it costs us the sale. A short-term deal that leaves an owner regretting it later isn't worth our reputation."
-      ]
-    },
-    {
-      "heading": "What we're not",
-      "paragraphs": [
-        "We're a direct buyer of mineral and royalty interests. We are not licensed appraisers, attorneys, or CPAs, and nothing on this site is appraisal, legal, or tax advice. For a certified valuation, a title dispute, or tax planning around a sale, those are the professionals to bring in - we'll tell you plainly when a question belongs to one of them rather than pretend to answer it ourselves."
-      ]
-    },
-    {
-      "heading": "The kind of buyer we are",
-      "paragraphs": [
-        "There are several kinds of buyers in this space, and it's worth understanding the difference before you sell to anyone. Some are flippers who intend to resell your interest quickly to another buyer at a markup. Some are aggregators building large regional positions for eventual resale to institutions. Some are family offices or funds holding for long-term income. We buy to hold, evaluated with the same statement-based discipline regardless of who ends up owning the interest down the line, and we'll tell you honestly which category we fall into if you ask, because that context is part of understanding any offer."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Are you a broker or a direct buyer?",
-      "answer": "We're a direct buyer. There's no broker commission taken from your proceeds, and no listing process where your interest gets shopped to third parties."
-    },
-    {
-      "question": "Who actually reviews your file?",
-      "answer": "One point of contact handles your evaluation and stays with your file through closing, so you're dealing with a consistent person who already knows your situation rather than a rotating call center."
-    },
-    {
-      "question": "Do you buy interests outside the basins you list?",
-      "answer": "Often yes - reach out with your county and legal description and we'll tell you honestly whether we're set up to evaluate it properly or point you elsewhere if we're not the right fit."
-    },
-    {
-      "question": "Why should you trust your number over a mailer you received?",
-      "answer": "You shouldn't trust either blindly. Ask both what the number is based on. We'll walk you through our reasoning; whether a mailer will is a fair test of how seriously to take it."
-    },
-    {
-      "question": "What experience actually informs your evaluations?",
-      "answer": "Time spent on the operating side of oil and gas - building division orders, working with production data, and seeing firsthand how deductions and decline actually behave on real wells, beyond a spreadsheet model built after the fact."
-    }
-  ],
-  "wordCount": 877,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-about-oilandgasroyaltybuyer-com.jpg",
-    "alt": "About mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "about",
+ "title": "About",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "About Oil & Gas Royalty Buyer",
+ "metaDescription": "Why this site exists, how we evaluate royalty interests, and what we're honest about not being - written by a former operations engineer.",
+ "heroLead": "This site exists because most royalty owners are handed a check stub full of numbers nobody ever explained to them.",
+ "intro": [
+  "Oil & Gas Royalty Buyer brings years of operating-side oil and gas experience - the side that builds the division orders, models the decline curves, and knows exactly why a check looks the way it does that month. Owners rarely get access to that view. They get a stub in the mail and a phone number to call if something looks wrong, and most people never call.",
+  "That gap - between what the operator knows and what the owner sees - is the reason this site is built the way it is. We'd rather explain the deduction line than hope you don't ask about it."
+ ],
+ "sections": [
+  {
+   "heading": "How we work",
+   "paragraphs": [
+    "We evaluate every interest against actual production data - your statements where you have them, county and permit records where you don't - rather than a flat regional number applied to everyone who reaches out. One person handles your file from first contact through closing, so you're not re-explaining your situation to a new voice every call.",
+    "We put our reasoning on the table. If you ask what an offer is based on, we'll tell you - the decimal interest, the decline assumption, what nearby activity we're seeing. A number you can't ask questions about isn't one you should trust, from us or anyone else."
+   ]
+  },
+  {
+   "heading": "What we believe about this market",
+   "paragraphs": [
+    "We think most owners are underinformed by design, not by accident. Statements are written for accounting systems, not for the person receiving them. Mass mailers are priced off averages, not your specific tract. The industry hasn't had much incentive to close that gap, and we think that's the actual problem worth solving here - buying interests fairly, and also making the numbers behind them legible to the person who owns them."
+   ]
+  },
+  {
+   "heading": "Where we work",
+   "paragraphs": [
+    "We evaluate interests across the major producing basins - the Permian Basin, the Bakken, the Eagle Ford, Appalachian gas country including the Marcellus and Utica, the Anadarko Basin, and the Ark-La-Tex region, among other established plays. Each of these behaves differently - decline curves, typical royalty fractions, common deduction practices, and even courthouse recording conventions all vary basin to basin, and we evaluate your interest against the specifics of where it actually sits, not a generic template."
+   ]
+  },
+  {
+   "heading": "When we'd tell you not to sell",
+   "paragraphs": [
+    "We're a buyer, so it would be easy for us to just say yes to every deal. We won't. If a well is early in its production life with strong offset activity nearby, or if the math suggests you'd likely do better holding the interest for a few more years, we'll say so plainly, even though it costs us the sale. A short-term deal that leaves an owner regretting it later isn't worth our reputation."
+   ]
+  },
+  {
+   "heading": "What we're not",
+   "paragraphs": [
+    "We're a direct buyer of mineral and royalty interests. We are not licensed appraisers, attorneys, or CPAs, and nothing on this site is appraisal, legal, or tax advice. For a certified valuation, a title dispute, or tax planning around a sale, those are the professionals to bring in - we'll tell you plainly when a question belongs to one of them rather than pretend to answer it ourselves."
+   ]
+  },
+  {
+   "heading": "The kind of buyer we are",
+   "paragraphs": [
+    "There are several kinds of buyers in this space, and it's worth understanding the difference before you sell to anyone. Some are flippers who intend to resell your interest quickly to another buyer at a markup. Some are aggregators building large regional positions for eventual resale to institutions. Some are family offices or funds holding for long-term income. We buy to hold, evaluated with the same statement-based discipline regardless of who ends up owning the interest down the line, and we'll tell you honestly which category we fall into if you ask, because that context is part of understanding any offer."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Are you a broker or a direct buyer?",
+   "answer": "We're a direct buyer. There's no broker commission taken from your proceeds, and no listing process where your interest gets shopped to third parties."
+  },
+  {
+   "question": "Who actually reviews your file?",
+   "answer": "One point of contact handles your evaluation and stays with your file through closing, so you're dealing with a consistent person who already knows your situation rather than a rotating call center."
+  },
+  {
+   "question": "Do you buy interests outside the basins you list?",
+   "answer": "Often yes - reach out with your county and legal description and we'll tell you honestly whether we're set up to evaluate it properly or point you elsewhere if we're not the right fit."
+  },
+  {
+   "question": "Why should you trust your number over a mailer you received?",
+   "answer": "You shouldn't trust either blindly. Ask both what the number is based on. We'll walk you through our reasoning; whether a mailer will is a fair test of how seriously to take it."
+  },
+  {
+   "question": "What experience actually informs your evaluations?",
+   "answer": "Time spent on the operating side of oil and gas - building division orders, working with production data, and seeing firsthand how deductions and decline actually behave on real wells, beyond a spreadsheet model built after the fact."
+  }
+ ],
+ "wordCount": 877,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-about-oilandgasroyaltybuyer-com.jpg",
+  "alt": "About mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

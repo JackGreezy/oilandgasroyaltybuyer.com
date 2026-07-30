@@ -1,78 +1,78 @@
 {
-  "slug": "mineral-deed-transfer",
-  "title": "Mineral Deeds & Title Transfer",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Mineral Deeds and Title Transfer Explained",
-  "metaDescription": "What a mineral deed does, how title transfers at closing, and the heirship issues that most often slow a sale down.",
-  "heroLead": "The mineral deed is the document that actually moves ownership - everything else in a sale is preparation for this one page.",
-  "intro": [
-    "A mineral deed does one job: it conveys a specific mineral or royalty interest from a grantor (you, the seller) to a grantee (the buyer), and once it's recorded at the county, the transfer is a matter of public record. Understanding what's in it, and what commonly holds it up, saves owners real time and confusion during closing.",
-    "This isn't legal advice, and for anything unusual in your title situation an attorney is worth the cost - but the mechanics below cover what happens in the ordinary case."
-  ],
-  "sections": [
-    {
-      "heading": "What's actually in the deed",
-      "paragraphs": [
-        "A mineral deed states the legal description of the tract, the interest being conveyed (all minerals, a fraction, or a specific depth or formation), any reservations the grantor is keeping, and the consideration paid. It's usually a short document, often two to four pages, though the legal description can run longer for tracts with a complicated history.",
-        "Read it against what you agreed to sell - all minerals versus specific depths, producing versus all formations - since these distinctions genuinely matter and a deed that's broader or narrower than your intent is a real problem to catch before signing, not after."
-      ]
-    },
-    {
-      "heading": "Title verification before closing",
-      "paragraphs": [
-        "Before a deed changes hands, a buyer typically confirms the seller's chain of title back through prior recorded instruments - deeds, wills, probate orders - to make sure the seller actually owns what they're selling and that no competing claim exists. For straightforward, previously recorded interests, this is quick. For interests that passed through inheritance without ever being formally recorded in the current owner's name, it takes longer.",
-        "This step is also where old problems surface: a deed recorded with a name misspelling, an heir who was never accounted for, or an interest that was split among siblings decades ago and never individually re-recorded. None of these are unusual, and none typically kill a deal - they just add a documentation step."
-      ]
-    },
-    {
-      "heading": "Heirship - the most common slowdown",
-      "paragraphs": [
-        "Mineral interests frequently pass down through generations without formal probate, especially in families where nobody realized the interest had real value until decades later. If that's your situation, most states allow an affidavit of heirship for straightforward cases, or require a probate proceeding for more complicated ones. Requirements vary meaningfully by state, so this is worth a call to a local probate attorney rather than a guess.",
-        "This is genuinely the single biggest reason mineral sales take longer than owners expect. It's not a reflection on your ownership being invalid - it just means the paper trail needs to catch up to reality before a deed can be recorded cleanly."
-      ]
-    },
-    {
-      "heading": "After recording",
-      "paragraphs": [
-        "Once the deed is signed, notarized, and recorded at the county clerk's office, the transfer is complete and part of the public record. The buyer typically handles notifying the operator's division order department with a copy of the recorded deed so future payments route correctly - worth confirming who's handling that step so no royalty checks go to the wrong address after closing."
-      ]
-    },
-    {
-      "heading": "The effective date - a detail worth understanding",
-      "paragraphs": [
-        "Deeds specify an effective date, which determines who is entitled to royalty income from that point forward. If the effective date falls mid-month, there can be a proration question for that month's check between buyer and seller, which the purchase agreement should address explicitly. It's a small detail, but it's the kind of thing worth asking about directly rather than assuming.",
-        "It's also common for a check already in transit at the time of closing to still belong to the seller, since it covers production from before the effective date. A clear purchase agreement spells this out so nobody is left guessing whether a check that arrives a month after closing is theirs to keep or the buyer's."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "What's the difference between a mineral deed and a lease?",
-      "answer": "A deed permanently conveys ownership of the mineral interest itself. A lease grants an operator the right to explore and produce in exchange for royalty, for a set term, while you retain ownership. Selling uses a deed; leasing does not transfer ownership at all."
-    },
-    {
-      "question": "Do you need an attorney to sign a mineral deed?",
-      "answer": "Not strictly required in most transactions, but a quick attorney review is reasonable, especially if your title situation involves inheritance, multiple heirs, or anything you're unsure how to describe precisely."
-    },
-    {
-      "question": "What is an affidavit of heirship?",
-      "answer": "A sworn statement, often supported by disinterested witnesses, identifying the heirs of someone who died without a will or without the estate being formally probated. Many states accept it as sufficient to clear title on straightforward inherited interests without a full probate proceeding."
-    },
-    {
-      "question": "How long does title work usually take?",
-      "answer": "For a clean, previously recorded title, often just a couple of weeks. For an interest requiring heirship documentation or probate, it can take considerably longer depending on your state's court timelines - ask your buyer for a realistic estimate based on your specific file."
-    },
-    {
-      "question": "What happens to a royalty check that arrives after closing?",
-      "answer": "It depends on the effective date in the deed. A well-drafted purchase agreement addresses this directly, so ask before closing rather than assuming - checks covering production before the effective date generally still belong to the seller."
-    }
-  ],
-  "wordCount": 917,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Mineral Deeds & Title Transfer mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "mineral-deed-transfer",
+ "title": "Mineral Deeds & Title Transfer",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Mineral Deeds and Title Transfer Explained",
+ "metaDescription": "What a mineral deed does, how title transfers at closing, and the heirship issues that most often slow a sale down.",
+ "heroLead": "The mineral deed is the document that actually moves ownership - everything else in a sale is preparation for this one page.",
+ "intro": [
+  "A mineral deed does one job: it conveys a specific mineral or royalty interest from a grantor (you, the seller) to a grantee (the buyer), and once it's recorded at the county, the transfer is a matter of public record. Understanding what's in it, and what commonly holds it up, saves owners real time and confusion during closing.",
+  "This isn't legal advice, and for anything unusual in your title situation an attorney is worth the cost - but the mechanics below cover what happens in the ordinary case."
+ ],
+ "sections": [
+  {
+   "heading": "What's actually in the deed",
+   "paragraphs": [
+    "A mineral deed states the legal description of the tract, the interest being conveyed (all minerals, a fraction, or a specific depth or formation), any reservations the grantor is keeping, and the consideration paid. It's usually a short document, often two to four pages, though the legal description can run longer for tracts with a complicated history.",
+    "Read it against what you agreed to sell - all minerals versus specific depths, producing versus all formations - since these distinctions genuinely matter and a deed that's broader or narrower than your intent is a real problem to catch before signing, not after."
+   ]
+  },
+  {
+   "heading": "Title verification before closing",
+   "paragraphs": [
+    "Before a deed changes hands, a buyer typically confirms the seller's chain of title back through prior recorded instruments - deeds, wills, probate orders - to make sure the seller actually owns what they're selling and that no competing claim exists. For straightforward, previously recorded interests, this is quick. For interests that passed through inheritance without ever being formally recorded in the current owner's name, it takes longer.",
+    "This step is also where old problems surface: a deed recorded with a name misspelling, an heir who was never accounted for, or an interest that was split among siblings decades ago and never individually re-recorded. None of these are unusual, and none typically kill a deal - they just add a documentation step."
+   ]
+  },
+  {
+   "heading": "Heirship - the most common slowdown",
+   "paragraphs": [
+    "Mineral interests frequently pass down through generations without formal probate, especially in families where nobody realized the interest had real value until decades later. If that's your situation, most states allow an affidavit of heirship for straightforward cases, or require a probate proceeding for more complicated ones. Requirements vary meaningfully by state, so this is worth a call to a local probate attorney rather than a guess.",
+    "This is genuinely the single biggest reason mineral sales take longer than owners expect. It's not a reflection on your ownership being invalid - it just means the paper trail needs to catch up to reality before a deed can be recorded cleanly."
+   ]
+  },
+  {
+   "heading": "After recording",
+   "paragraphs": [
+    "Once the deed is signed, notarized, and recorded at the county clerk's office, the transfer is complete and part of the public record. The buyer typically handles notifying the operator's division order department with a copy of the recorded deed so future payments route correctly - worth confirming who's handling that step so no royalty checks go to the wrong address after closing."
+   ]
+  },
+  {
+   "heading": "The effective date - a detail worth understanding",
+   "paragraphs": [
+    "Deeds specify an effective date, which determines who is entitled to royalty income from that point forward. If the effective date falls mid-month, there can be a proration question for that month's check between buyer and seller, which the purchase agreement should address explicitly. It's a small detail, but it's the kind of thing worth asking about directly rather than assuming.",
+    "It's also common for a check already in transit at the time of closing to still belong to the seller, since it covers production from before the effective date. A clear purchase agreement spells this out so nobody is left guessing whether a check that arrives a month after closing is theirs to keep or the buyer's."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "What's the difference between a mineral deed and a lease?",
+   "answer": "A deed permanently conveys ownership of the mineral interest itself. A lease grants an operator the right to explore and produce in exchange for royalty, for a set term, while you retain ownership. Selling uses a deed; leasing does not transfer ownership at all."
+  },
+  {
+   "question": "Do you need an attorney to sign a mineral deed?",
+   "answer": "Not strictly required in most transactions, but a quick attorney review is reasonable, especially if your title situation involves inheritance, multiple heirs, or anything you're unsure how to describe precisely."
+  },
+  {
+   "question": "What is an affidavit of heirship?",
+   "answer": "A sworn statement, often supported by disinterested witnesses, identifying the heirs of someone who died without a will or without the estate being formally probated. Many states accept it as sufficient to clear title on straightforward inherited interests without a full probate proceeding."
+  },
+  {
+   "question": "How long does title work usually take?",
+   "answer": "For a clean, previously recorded title, often just a couple of weeks. For an interest requiring heirship documentation or probate, it can take considerably longer depending on your state's court timelines - ask your buyer for a realistic estimate based on your specific file."
+  },
+  {
+   "question": "What happens to a royalty check that arrives after closing?",
+   "answer": "It depends on the effective date in the deed. A well-drafted purchase agreement addresses this directly, so ask before closing rather than assuming - checks covering production before the effective date generally still belong to the seller."
+  }
+ ],
+ "wordCount": 917,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-mineral-deed-transfer-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Mineral Deeds & Title Transfer mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

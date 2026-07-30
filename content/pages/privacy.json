@@ -1,87 +1,87 @@
 {
-  "slug": "privacy",
-  "title": "Privacy",
-  "type": "page",
-  "status": "written",
-  "metaTitle": "Privacy Policy - Oil & Gas Royalty Buyer",
-  "metaDescription": "How we handle the information you share with us, including royalty statements and title documents, when you contact us or request an offer.",
-  "heroLead": "The documents you send us to get an offer - statements, deeds, division orders - are sensitive, and we treat them that way.",
-  "intro": [
-    "This page explains, in plain language, what information we collect when you use this site or contact us about a royalty or mineral interest, how we use it, and the choices you have about it. It applies to this website and to communications you have with us through it.",
-    "We are a direct buyer of mineral and royalty interests, and much of what you share - statements, legal descriptions, deeds - is financial and personal in nature. We don't take that lightly."
-  ],
-  "sections": [
-    {
-      "heading": "What we collect",
-      "paragraphs": [
-        "When you contact us or request an offer, we collect what you provide directly: your name, contact information, and any documents you upload or describe, such as royalty statements, deeds, division orders, or legal descriptions of your interest. We may also collect basic technical information automatically when you visit the site, such as browser type and pages viewed, which helps us understand how the site is used and fix problems.",
-        "We do not require you to create an account or provide financial account numbers to request an offer, and we will never ask for information beyond what's reasonably needed to evaluate your interest and, if you choose to sell, complete a transaction."
-      ]
-    },
-    {
-      "heading": "How we use it",
-      "paragraphs": [
-        "We use the information you provide to evaluate your mineral or royalty interest, prepare and communicate an offer, and, if you choose to proceed, complete the purchase and closing process, including title work and payment. We may also use your contact information to respond to your questions or follow up on a request you've submitted.",
-        "We do not sell your personal information to third parties. We may share information with service providers who help us operate the site or process a transaction - such as title companies or closing agents, when you choose to proceed with a sale - and only to the extent necessary for that purpose."
-      ]
-    },
-    {
-      "heading": "How we protect and retain it",
-      "paragraphs": [
-        "We use reasonable administrative and technical safeguards to protect the information you share with us, including documents related to your title and production history. We retain records related to completed transactions as needed for legal, accounting, and title purposes, consistent with applicable recordkeeping requirements. Records related to inquiries that don't result in a transaction are retained only as long as reasonably necessary."
-      ]
-    },
-    {
-      "heading": "Your choices",
-      "paragraphs": [
-        "You can ask us at any time what information we hold about you, request that we correct inaccuracies, or ask that we delete information that isn't subject to a legal or contractual retention requirement (such as records tied to a completed closing). Reach out through the contact page with any request, and we'll respond promptly."
-      ]
-    },
-    {
-      "heading": "Cookies and site analytics",
-      "paragraphs": [
-        "This site may use basic analytics tools to understand general traffic patterns, such as which pages are visited most. This information is aggregated and not used to identify you individually. If our practices around cookies or analytics change materially, we'll update this page."
-      ]
-    },
-    {
-      "heading": "Third parties involved in a transaction",
-      "paragraphs": [
-        "If you choose to proceed with a sale, information necessarily flows to third parties involved in closing - a title company confirming ownership, the operator's division order department for payment routing, and any notary or closing agent needed to record the deed. We share only what's needed for each party to perform their specific role in your transaction, not your full file indiscriminately.",
-        "We don't share your information with unrelated marketers, data brokers, or other mineral buyers looking to solicit you. If you'd rather we not retain information after an inquiry that doesn't lead to a sale, tell us and we'll delete what we can consistent with any legal requirement."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Do you sell your information to other buyers or marketers?",
-      "answer": "No. We do not sell your personal information to third parties. Information is used to evaluate your interest and, if you proceed, to complete a transaction."
-    },
-    {
-      "question": "What happens to your documents if you don't end up selling?",
-      "answer": "We retain them only as long as reasonably necessary to respond to your inquiry. You can request deletion at any time through the contact page, and we'll honor that request unless a legal requirement says otherwise."
-    },
-    {
-      "question": "Who sees your royalty statements or deed?",
-      "answer": "Only the people directly involved in evaluating your interest or, if you choose to proceed, completing the transaction - such as a title company handling closing. We don't share these documents beyond what a specific step in the process requires."
-    },
-    {
-      "question": "Can you ask what information you have on file for you?",
-      "answer": "Yes. Contact us and we'll tell you what we hold and correct or delete it where appropriate, subject to any records we're required to retain for completed transactions."
-    },
-    {
-      "question": "Do you share your information with other mineral buyers?",
-      "answer": "No. We don't share your contact information or documents with other buyers, brokers, or marketers looking to solicit you separately."
-    },
-    {
-      "question": "How can you reach you about a privacy question?",
-      "answer": "Use the contact page. We'll respond directly to any question about what information we hold or how it's used."
-    }
-  ],
-  "wordCount": 877,
-  "image": {
-    "src": "/images/pages/mineral-rights-pages-privacy-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Privacy mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "privacy",
+ "title": "Privacy",
+ "type": "page",
+ "status": "written",
+ "metaTitle": "Privacy Policy - Oil & Gas Royalty Buyer",
+ "metaDescription": "How we handle the information you share with us, including royalty statements and title documents, when you contact us or request an offer.",
+ "heroLead": "The documents you send us to get an offer - statements, deeds, division orders - are sensitive, and we treat them that way.",
+ "intro": [
+  "This page explains, in plain language, what information we collect when you use this site or contact us about a royalty or mineral interest, how we use it, and the choices you have about it. It applies to this website and to communications you have with us through it.",
+  "We are a direct buyer of mineral and royalty interests, and much of what you share - statements, legal descriptions, deeds - is financial and personal in nature. We don't take that lightly."
+ ],
+ "sections": [
+  {
+   "heading": "What we collect",
+   "paragraphs": [
+    "When you contact us or request an offer, we collect what you provide directly: your name, contact information, and any documents you upload or describe, such as royalty statements, deeds, division orders, or legal descriptions of your interest. We may also collect basic technical information automatically when you visit the site, such as browser type and pages viewed, which helps us understand how the site is used and fix problems.",
+    "We do not require you to create an account or provide financial account numbers to request an offer, and we will never ask for information beyond what's reasonably needed to evaluate your interest and, if you choose to sell, complete a transaction."
+   ]
+  },
+  {
+   "heading": "How we use it",
+   "paragraphs": [
+    "We use the information you provide to evaluate your mineral or royalty interest, prepare and communicate an offer, and, if you choose to proceed, complete the purchase and closing process, including title work and payment. We may also use your contact information to respond to your questions or follow up on a request you've submitted.",
+    "We do not sell your personal information to third parties. We may share information with service providers who help us operate the site or process a transaction - such as title companies or closing agents, when you choose to proceed with a sale - and only to the extent necessary for that purpose."
+   ]
+  },
+  {
+   "heading": "How we protect and retain it",
+   "paragraphs": [
+    "We use reasonable administrative and technical safeguards to protect the information you share with us, including documents related to your title and production history. We retain records related to completed transactions as needed for legal, accounting, and title purposes, consistent with applicable recordkeeping requirements. Records related to inquiries that don't result in a transaction are retained only as long as reasonably necessary."
+   ]
+  },
+  {
+   "heading": "Your choices",
+   "paragraphs": [
+    "You can ask us at any time what information we hold about you, request that we correct inaccuracies, or ask that we delete information that isn't subject to a legal or contractual retention requirement (such as records tied to a completed closing). Reach out through the contact page with any request, and we'll respond promptly."
+   ]
+  },
+  {
+   "heading": "Cookies and site analytics",
+   "paragraphs": [
+    "This site may use basic analytics tools to understand general traffic patterns, such as which pages are visited most. This information is aggregated and not used to identify you individually. If our practices around cookies or analytics change materially, we'll update this page."
+   ]
+  },
+  {
+   "heading": "Third parties involved in a transaction",
+   "paragraphs": [
+    "If you choose to proceed with a sale, information necessarily flows to third parties involved in closing - a title company confirming ownership, the operator's division order department for payment routing, and any notary or closing agent needed to record the deed. We share only what's needed for each party to perform their specific role in your transaction, not your full file indiscriminately.",
+    "We don't share your information with unrelated marketers, data brokers, or other mineral buyers looking to solicit you. If you'd rather we not retain information after an inquiry that doesn't lead to a sale, tell us and we'll delete what we can consistent with any legal requirement."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Do you sell your information to other buyers or marketers?",
+   "answer": "No. We do not sell your personal information to third parties. Information is used to evaluate your interest and, if you proceed, to complete a transaction."
+  },
+  {
+   "question": "What happens to your documents if you don't end up selling?",
+   "answer": "We retain them only as long as reasonably necessary to respond to your inquiry. You can request deletion at any time through the contact page, and we'll honor that request unless a legal requirement says otherwise."
+  },
+  {
+   "question": "Who sees your royalty statements or deed?",
+   "answer": "Only the people directly involved in evaluating your interest or, if you choose to proceed, completing the transaction - such as a title company handling closing. We don't share these documents beyond what a specific step in the process requires."
+  },
+  {
+   "question": "Can you ask what information you have on file for you?",
+   "answer": "Yes. Contact us and we'll tell you what we hold and correct or delete it where appropriate, subject to any records we're required to retain for completed transactions."
+  },
+  {
+   "question": "Do you share your information with other mineral buyers?",
+   "answer": "No. We don't share your contact information or documents with other buyers, brokers, or marketers looking to solicit you separately."
+  },
+  {
+   "question": "How can you reach you about a privacy question?",
+   "answer": "Use the contact page. We'll respond directly to any question about what information we hold or how it's used."
+  }
+ ],
+ "wordCount": 877,
+ "image": {
+  "src": "/images/pages/mineral-rights-pages-privacy-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Privacy mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

@@ -1,77 +1,77 @@
 {
-  "slug": "non-producing-minerals",
-  "title": "Non-Producing Minerals",
-  "type": "situation",
-  "note": "acreage with no wells or expired leases",
-  "status": "written",
-  "metaTitle": "Selling Non-Producing Mineral Rights",
-  "metaDescription": "No wells, no lease, no checks. Non-producing minerals aren't worthless, but valuing them takes a different approach than pricing off a check history.",
-  "heroLead": "No check history doesn't mean no value, it just means the value has to be figured out a different way, from geology and neighboring activity instead of a stack of statements.",
-  "intro": [
-    "Most interests brought to the royalty desk has a check history to work from. Non-producing acreage doesn't, and that trips people up, because they assume no royalty income means nothing to sell. In reality a lot of mineral acreage across active basins has never been drilled and never been leased, or was leased once and the lease expired years ago with nothing happening in between. That acreage still sits in the middle of an active play, and its value is tied to what's happening around it, not to a payment history that doesn't exist yet.",
-    "The catch is that non-producing minerals are harder to price than producing ones, and that gap is where a lot of owners either get lowballed or assume there's nothing worth pursuing at all."
-  ],
-  "sections": [
-    {
-      "heading": "Why acreage stays undrilled or unleased",
-      "paragraphs": [
-        "Plenty of good mineral acreage simply hasn't come up in an operator's drilling queue yet. Operators lease and drill based on their own inventory, capital budgets, and where they've already built infrastructure like gathering lines and pad sites. A tract can sit on excellent rock and still wait years for a rig because the operator's priorities are elsewhere in the county.",
-        "Other tracts were leased once, the lease expired without drilling, and nobody's approached the owner again. That's more common than people expect, especially when commodity prices dropped during the lease term and operators pulled back on new drilling across entire basins."
-      ]
-    },
-    {
-      "heading": "What actually drives value without a check history",
-      "paragraphs": [
-        "Since there's no production to point to, value comes down to a handful of concrete factors: where the tract sits relative to the core of the play versus the flank, whether operators are actively permitting and drilling in the surrounding township, what nearby wells (even ones not on your acreage) are producing, and whether the acreage is currently under an active lease with bonus potential. A tract inside a well-defined, currently active core area is worth far more than similar acreage on the edge of a play that's gone quiet.",
-        "This is also where local knowledge matters. County-level activity data, spacing unit filings, and permit records tell a more accurate story than a generic statewide average ever will. Two tracts a few miles apart in the same county can carry very different value simply because one sits closer to an active pad and the other doesn't, which is the kind of detail a broad state-level estimate will never capture."
-      ]
-    },
-    {
-      "heading": "Checking activity around your specific tract",
-      "paragraphs": [
-        "Most state oil and gas regulatory agencies publish free, searchable permit and well databases online, organized by county, section, township, and range. Pulling up activity within a mile or two of your specific tract, rather than looking at county-wide totals, gives you a far more accurate read on whether development is actually moving toward your acreage or away from it.",
-        "It's also worth checking who holds nearby leases and how active that operator has been elsewhere in the basin recently. A large, actively drilling operator working nearby is a stronger signal than a small operator that hasn't drilled a well in the county in years."
-      ]
-    },
-    {
-      "heading": "Selling non-producing minerals",
-      "paragraphs": [
-        "Buyers who purchase non-producing acreage are essentially betting on future development, so any offer will reflect that uncertainty and typically come in as a range rather than a fixed number, weighted by the specific play and county activity. If you're holding acreage that's never produced and don't want to wait indefinitely on a drilling schedule you have no control over, selling converts an uncertain future into a known number today.",
-        "If you'd rather keep the upside and are comfortable with an open-ended timeline, holding is a legitimate choice too, particularly in a county with strong nearby permitting activity where drilling looks likely within the next few years."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Are non-producing mineral rights worth anything at all?",
-      "answer": "Often yes, particularly in active plays where nearby wells are producing and permitting activity suggests future drilling. Value is lower and less certain than producing minerals, but it isn't zero just because there's no current check."
-    },
-    {
-      "question": "How can you find out if your county has active drilling nearby?",
-      "answer": "Your state's oil and gas regulatory agency publishes permit and well records online, usually searchable by county or township, which lets you see recent activity near your specific tract without hiring anyone."
-    },
-    {
-      "question": "Your lease expired years ago with no well drilled. Do you still own the minerals outright?",
-      "answer": "Generally yes, once a lease expires without production, the mineral rights revert fully back to you as unleased, unencumbered minerals, free to lease again or sell."
-    },
-    {
-      "question": "Should you try to get your acreage leased before selling it?",
-      "answer": "It depends on activity in your area. If operators are actively leasing nearby, waiting for a new lease and bonus can add value before a sale. If leasing activity has gone quiet, waiting may just cost you time without changing the outcome."
-    },
-    {
-      "question": "How long can mineral rights stay non-producing before they're considered worthless?",
-      "answer": "There's no fixed timeline. Acreage can sit undrilled for decades and still hold real value if it's positioned in an active play, since ownership itself doesn't expire the way a lease does. Value simply stays speculative until either a lease or a well changes that."
-    },
-    {
-      "question": "What records should you keep for non-producing mineral rights?",
-      "answer": "Hold on to the deed showing your ownership, any prior lease documents even if expired, and note the legal description of the tract. That paperwork is exactly what a buyer or future operator will ask for first."
-    }
-  ],
-  "wordCount": 968,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-non-producing-minerals-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Non-Producing Minerals mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "non-producing-minerals",
+ "title": "Non-Producing Minerals",
+ "type": "situation",
+ "note": "acreage with no wells or expired leases",
+ "status": "written",
+ "metaTitle": "Selling Non-Producing Mineral Rights",
+ "metaDescription": "No wells, no lease, no checks. Non-producing minerals aren't worthless, but valuing them takes a different approach than pricing off a check history.",
+ "heroLead": "No check history doesn't mean no value, it just means the value has to be figured out a different way, from geology and neighboring activity instead of a stack of statements.",
+ "intro": [
+  "Most interests brought to the royalty desk has a check history to work from. Non-producing acreage doesn't, and that trips people up, because they assume no royalty income means nothing to sell. In reality a lot of mineral acreage across active basins has never been drilled and never been leased, or was leased once and the lease expired years ago with nothing happening in between. That acreage still sits in the middle of an active play, and its value is tied to what's happening around it, not to a payment history that doesn't exist yet.",
+  "The catch is that non-producing minerals are harder to price than producing ones, and that gap is where a lot of owners either get lowballed or assume there's nothing worth pursuing at all."
+ ],
+ "sections": [
+  {
+   "heading": "Why acreage stays undrilled or unleased",
+   "paragraphs": [
+    "Plenty of good mineral acreage simply hasn't come up in an operator's drilling queue yet. Operators lease and drill based on their own inventory, capital budgets, and where they've already built infrastructure like gathering lines and pad sites. A tract can sit on excellent rock and still wait years for a rig because the operator's priorities are elsewhere in the county.",
+    "Other tracts were leased once, the lease expired without drilling, and nobody's approached the owner again. That's more common than people expect, especially when commodity prices dropped during the lease term and operators pulled back on new drilling across entire basins."
+   ]
+  },
+  {
+   "heading": "What actually drives value without a check history",
+   "paragraphs": [
+    "Since there's no production to point to, value comes down to a handful of concrete factors: where the tract sits relative to the core of the play versus the flank, whether operators are actively permitting and drilling in the surrounding township, what nearby wells (even ones not on your acreage) are producing, and whether the acreage is currently under an active lease with bonus potential. A tract inside a well-defined, currently active core area is worth far more than similar acreage on the edge of a play that's gone quiet.",
+    "This is also where local knowledge matters. County-level activity data, spacing unit filings, and permit records tell a more accurate story than a generic statewide average ever will. Two tracts a few miles apart in the same county can carry very different value simply because one sits closer to an active pad and the other doesn't, which is the kind of detail a broad state-level estimate will never capture."
+   ]
+  },
+  {
+   "heading": "Checking activity around your specific tract",
+   "paragraphs": [
+    "Most state oil and gas regulatory agencies publish free, searchable permit and well databases online, organized by county, section, township, and range. Pulling up activity within a mile or two of your specific tract, rather than looking at county-wide totals, gives you a far more accurate read on whether development is actually moving toward your acreage or away from it.",
+    "It's also worth checking who holds nearby leases and how active that operator has been elsewhere in the basin recently. A large, actively drilling operator working nearby is a stronger signal than a small operator that hasn't drilled a well in the county in years."
+   ]
+  },
+  {
+   "heading": "Selling non-producing minerals",
+   "paragraphs": [
+    "Buyers who purchase non-producing acreage are essentially betting on future development, so any offer will reflect that uncertainty and typically come in as a range rather than a fixed number, weighted by the specific play and county activity. If you're holding acreage that's never produced and don't want to wait indefinitely on a drilling schedule you have no control over, selling converts an uncertain future into a known number today.",
+    "If you'd rather keep the upside and are comfortable with an open-ended timeline, holding is a legitimate choice too, particularly in a county with strong nearby permitting activity where drilling looks likely within the next few years."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Are non-producing mineral rights worth anything at all?",
+   "answer": "Often yes, particularly in active plays where nearby wells are producing and permitting activity suggests future drilling. Value is lower and less certain than producing minerals, but it isn't zero just because there's no current check."
+  },
+  {
+   "question": "How can you find out if your county has active drilling nearby?",
+   "answer": "Your state's oil and gas regulatory agency publishes permit and well records online, usually searchable by county or township, which lets you see recent activity near your specific tract without hiring anyone."
+  },
+  {
+   "question": "Your lease expired years ago with no well drilled. Do you still own the minerals outright?",
+   "answer": "Generally yes, once a lease expires without production, the mineral rights revert fully back to you as unleased, unencumbered minerals, free to lease again or sell."
+  },
+  {
+   "question": "Should you try to get your acreage leased before selling it?",
+   "answer": "It depends on activity in your area. If operators are actively leasing nearby, waiting for a new lease and bonus can add value before a sale. If leasing activity has gone quiet, waiting may just cost you time without changing the outcome."
+  },
+  {
+   "question": "How long can mineral rights stay non-producing before they're considered worthless?",
+   "answer": "There's no fixed timeline. Acreage can sit undrilled for decades and still hold real value if it's positioned in an active play, since ownership itself doesn't expire the way a lease does. Value simply stays speculative until either a lease or a well changes that."
+  },
+  {
+   "question": "What records should you keep for non-producing mineral rights?",
+   "answer": "Hold on to the deed showing your ownership, any prior lease documents even if expired, and note the legal description of the tract. That paperwork is exactly what a buyer or future operator will ask for first."
+  }
+ ],
+ "wordCount": 968,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-non-producing-minerals-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Non-Producing Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }
