@@ -1,93 +1,93 @@
 {
- "slug": "get-an-offer",
- "title": "Get An Offer",
- "type": "page",
- "status": "written",
- "metaTitle": "Get a Royalty Interest Offer - No Obligation",
- "metaDescription": "Request a written offer on your oil and gas royalty or mineral interest. No cost, no obligation, evaluated against your actual production data.",
- "heroLead": "Send what you have - a statement, a deed, or just a county - and we'll tell you honestly what we can offer and why.",
- "intro": [
-  "This isn't a form-letter mailer priced off a county average. We review your actual decimal interest, production trend where it exists, and nearby activity before we put a number in front of you, and we'll explain that reasoning if you ask. There's no cost and no obligation to accept.",
-  "If you're missing paperwork, send what you do have - we can often fill gaps from public county records ourselves rather than asking you to track down everything first."
- ],
- "sections": [
-  {
-   "heading": "What speeds this up",
-   "paragraphs": [
-    "Your most recent royalty statements are the single most useful thing you can send - they let us model your specific interest instead of a general estimate. A deed or legal description helps confirm the tract. A division order, if you have one, confirms your decimal directly from the operator's own records.",
-    "None of this is required to start a conversation. Even an owner with nothing but a family memory of 'minerals somewhere in this county' can get a preliminary read while we pull records to fill in the rest."
-   ]
-  },
-  {
-   "heading": "What happens after you send it",
-   "paragraphs": [
-    "We review the file, checking decimal interest, production behavior, deduction trends if statements are included, and drilling or leasing activity nearby. If the file is complete, we typically respond within a few business days with a written offer explaining what it's based on. If it's incomplete, we'll tell you what additional information, if any, would materially change the offer, and you can decide whether it's worth pursuing."
-   ]
-  },
-  {
-   "heading": "Producing, non-producing, whole or fractional",
-   "paragraphs": [
-    "We evaluate producing royalty interests, non-producing minerals, overriding royalty interests, net profits interests, and fractional or inherited shares of any size. A small percentage interest split among several heirs is still worth sending - fractional interests are routinely evaluated and purchased, not screened out for being small."
-   ]
-  },
-  {
-   "heading": "No pressure, no expiring deadline",
-   "paragraphs": [
-    "Review the offer on your own timeline. Ask us what it's based on. Compare it against another buyer or against the framework in our value guide if you want a second opinion - we won't discourage that, and we won't attach an artificial deadline to pressure a decision."
-   ]
-  },
-  {
-   "heading": "If your paperwork doesn't match what you remember",
-   "paragraphs": [
-    "It's common for an owner's memory of what they inherited to differ slightly from what's actually recorded - a larger or smaller fraction, a different depth restriction, or a tract that turns out to be split among more heirs than expected. None of this is unusual, and it doesn't derail the process. We'll walk through what the records actually show and explain any gap between that and your expectation before finalizing anything."
-   ]
-  },
-  {
-   "heading": "What we won't do",
-   "paragraphs": [
-    "We won't quote a number sight-unseen off a county average and call it a real offer. We won't pressure you with a countdown timer or a limited-time bonus. We won't tell you an offer is guaranteed before title work confirms your ownership. Those tactics are common in this space, and we think they're exactly why owners are skeptical of buyers in general - we'd rather earn a straight answer than manufacture urgency around a rushed one."
-   ]
+  "slug": "get-an-offer",
+  "title": "Get An Offer",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Get a Royalty Interest Offer - No Obligation",
+  "metaDescription": "Request a written offer on your oil and gas royalty or mineral interest. No cost, no obligation, evaluated against your actual production data.",
+  "heroLead": "Send what you have - a statement, a deed, or just a county - and we'll tell you honestly what we can offer and why.",
+  "intro": [
+    "This isn't a form-letter mailer priced off a county average. We review your actual decimal interest, production trend where it exists, and nearby activity before we put a number in front of you, and we'll explain that reasoning if you ask. There's no cost and no obligation to accept.",
+    "If you're missing paperwork, send what you do have - we can often fill gaps from public county records ourselves rather than asking you to track down everything first."
+  ],
+  "sections": [
+    {
+      "heading": "What speeds this up",
+      "paragraphs": [
+        "Your most recent royalty statements are the single most useful thing you can send - they let us model your specific interest instead of a general estimate. A deed or legal description helps confirm the tract. A division order, if you have one, confirms your decimal directly from the operator's own records.",
+        "None of this is required to start a conversation. Even an owner with nothing but a family memory of 'minerals somewhere in this county' can get a preliminary read while we pull records to fill in the rest."
+      ]
+    },
+    {
+      "heading": "What happens after you send it",
+      "paragraphs": [
+        "We review the file, checking decimal interest, production behavior, deduction trends if statements are included, and drilling or leasing activity nearby. If the file is complete, we typically respond within a few business days with a written offer explaining what it's based on. If it's incomplete, we'll tell you what additional information, if any, would materially change the offer, and you can decide whether it's worth pursuing."
+      ]
+    },
+    {
+      "heading": "Producing, non-producing, whole or fractional",
+      "paragraphs": [
+        "We evaluate producing royalty interests, non-producing minerals, overriding royalty interests, net profits interests, and fractional or inherited shares of any size. A small percentage interest split among several heirs is still worth sending - fractional interests are routinely evaluated and purchased, not screened out for being small."
+      ]
+    },
+    {
+      "heading": "No pressure, no expiring deadline",
+      "paragraphs": [
+        "Review the offer on your own timeline. Ask us what it's based on. Compare it against another buyer or against the framework in our value guide if you want a second opinion - we won't discourage that, and we won't attach an artificial deadline to pressure a decision."
+      ]
+    },
+    {
+      "heading": "If your paperwork doesn't match what you remember",
+      "paragraphs": [
+        "It's common for an owner's memory of what they inherited to differ slightly from what's actually recorded - a larger or smaller fraction, a different depth restriction, or a tract that turns out to be split among more heirs than expected. None of this is unusual, and it doesn't derail the process. We'll walk through what the records actually show and explain any gap between that and your expectation before finalizing anything."
+      ]
+    },
+    {
+      "heading": "What we won't do",
+      "paragraphs": [
+        "We won't quote a number sight-unseen off a county average and call it a real offer. We won't pressure you with a countdown timer or a limited-time bonus. We won't tell you an offer is guaranteed before title work confirms your ownership. Those tactics are common in this space, and we think they're exactly why owners are skeptical of buyers in general - we'd rather earn a straight answer than manufacture urgency around a rushed one."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is requesting an offer free?",
+      "answer": "Yes, entirely, with no obligation to accept it or to move forward at any point."
+    },
+    {
+      "question": "What if you don't have any paperwork?",
+      "answer": "Send what you know - the county, and a rough description or the operator's name if you have it. We can often pull public records to fill in the rest and give you a preliminary sense of where things stand."
+    },
+    {
+      "question": "How is the offer amount determined?",
+      "answer": "From your decimal interest, recent production and decline trend where statements are available, deduction patterns, and nearby drilling or leasing activity. Ask us directly and we'll walk through the reasoning."
+    },
+    {
+      "question": "Can you get an offer on just part of your interest?",
+      "answer": "Yes. Tell us what you'd like to sell - all of it, a percentage, or specific depths or formations - and the offer will reflect exactly that."
+    },
+    {
+      "question": "What if you decide the offer isn't right for you?",
+      "answer": "That's entirely fine. There's no obligation attached to requesting or receiving an offer, and plenty of owners request one simply to understand where they stand before deciding to hold, lease, or explore other buyers."
+    },
+    {
+      "question": "Will the offer change once you review your documents in detail?",
+      "answer": "It can, if the documents reveal something a preliminary review didn't capture - a different decimal interest, a title issue, or production data that changes the picture. We'll explain any adjustment clearly rather than leaving you to guess why a number moved."
+    },
+    {
+      "question": "Do you evaluate interests in every producing state?",
+      "answer": "We focus on the major producing basins and established plays. Send your county and description regardless - if it's outside what we can properly evaluate, we'll say so directly."
+    },
+    {
+      "question": "Will you contact you repeatedly after you request an offer?",
+      "answer": "No. We'll respond with your evaluation or offer and follow up reasonably if you're weighing a decision, but we won't pressure you with repeated unwanted contact."
+    }
+  ],
+  "wordCount": 877,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-get-an-offer-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Get An Offer mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is requesting an offer free?",
-   "answer": "Yes, entirely, with no obligation to accept it or to move forward at any point."
-  },
-  {
-   "question": "What if you don't have any paperwork?",
-   "answer": "Send what you know - the county, and a rough description or the operator's name if you have it. We can often pull public records to fill in the rest and give you a preliminary sense of where things stand."
-  },
-  {
-   "question": "How is the offer amount determined?",
-   "answer": "From your decimal interest, recent production and decline trend where statements are available, deduction patterns, and nearby drilling or leasing activity. Ask us directly and we'll walk through the reasoning."
-  },
-  {
-   "question": "Can you get an offer on just part of your interest?",
-   "answer": "Yes. Tell us what you'd like to sell - all of it, a percentage, or specific depths or formations - and the offer will reflect exactly that."
-  },
-  {
-   "question": "What if you decide the offer isn't right for you?",
-   "answer": "That's entirely fine. There's no obligation attached to requesting or receiving an offer, and plenty of owners request one simply to understand where they stand before deciding to hold, lease, or explore other buyers."
-  },
-  {
-   "question": "Will the offer change once you review your documents in detail?",
-   "answer": "It can, if the documents reveal something a preliminary review didn't capture - a different decimal interest, a title issue, or production data that changes the picture. We'll explain any adjustment clearly rather than leaving you to guess why a number moved."
-  },
-  {
-   "question": "Do you evaluate interests in every producing state?",
-   "answer": "We focus on the major producing basins and established plays. Send your county and description regardless - if it's outside what we can properly evaluate, we'll say so directly."
-  },
-  {
-   "question": "Will you contact you repeatedly after you request an offer?",
-   "answer": "No. We'll respond with your evaluation or offer and follow up reasonably if you're weighing a decision, but we won't pressure you with repeated unwanted contact."
-  }
- ],
- "wordCount": 877,
- "image": {
-  "src": "/images/pages/mineral-rights-pages-get-an-offer-oilandgasroyaltybuyer-com.jpg",
-  "alt": "Get An Offer mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

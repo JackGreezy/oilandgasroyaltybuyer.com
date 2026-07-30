@@ -1,71 +1,71 @@
 {
- "slug": "mineral-rights-value-guide",
- "title": "What Are Mineral Rights Worth?",
- "type": "resource",
- "status": "written",
- "metaTitle": "What Are Mineral Rights Worth? A Real Framework",
- "metaDescription": "How mineral and royalty interests actually get valued, in plain terms - the multiple-of-check method, discount rate, and what moves the number.",
- "heroLead": "There's no price list for mineral rights, and anyone who quotes you a number before seeing your decimal interest and check history is guessing.",
- "intro": [
-  "The royalty desk is asked 'what are mineral rights worth' more than any other question, and the reason is understandable - there's no MLS for this asset, no comps page, nothing that behaves like the real estate market people are used to. The honest answer is that value here is a function of future cash flow, discounted for risk and time, and that number moves with commodity prices, decline curves, and drilling activity in your specific unit.",
-  "This guide provides the actual framework buyers use, so you can understand what's driving any offer you receive and ask better questions instead of anchoring on a rumor from a neighbor's check."
- ],
- "sections": [
-  {
-   "heading": "Producing versus non-producing interests",
-   "paragraphs": [
-    "A producing interest has an actual cash flow history - your royalty statements - which is the single best data a buyer has. Non-producing minerals, meaning no well has ever been drilled on your tract, are valued almost entirely on speculation: how close is the nearest producing well, is the operator actively leasing in the area, and what has recently traded nearby, if anything has.",
-    "Producing interests generally command a stronger, more defensible number because there's a real curve to model. Non-producing interests trade on a much wider range depending on how active the play is around you, and any number offered there should come with an explanation of what's driving it - nearby permits, recent lease activity, or operator interest."
-   ]
-  },
-  {
-   "heading": "The multiple-of-check method",
-   "paragraphs": [
-    "For producing interests, the most common shorthand in the industry is a multiple of a recent monthly or annual royalty check, adjusted for the well's decline rate and remaining life. A well early in its production life with a shallow decline curve typically supports a higher multiple than a stripper well near the end of its economic life, because there's simply more cash flow left to buy.",
-    "This is a starting shorthand, not a formula you can apply blindly - two wells with identical current checks can be worth very different amounts depending on where each sits on its decline curve, what the operator's drilling plans look like for the rest of the unit, and current commodity prices. Treat any 'X times your check' number you hear as a rough anchor, never a quote."
-   ]
-  },
-  {
-   "heading": "What actually moves the number",
-   "paragraphs": [
-    "Beyond the check itself, a handful of factors consistently move value up or down: the size of your net mineral acreage and your decimal interest, whether the tract is held by production or open to new leasing, offset well permits and rig activity nearby, the operator's track record on drilling out its acreage, and commodity price trends for the specific product (oil, gas, or NGL-heavy) your wells produce.",
-    "Title condition matters too. A clean, unencumbered title with no heirship disputes closes faster and can support a better number than a fractional interest tangled in an old estate, simply because the buyer's risk and cost to close is lower."
-   ]
-  },
-  {
-   "heading": "Getting a real number instead of a guess",
-   "paragraphs": [
-    "The most reliable way to get a defensible figure for your specific interest is to have recent statements and a legal description reviewed against actual well data - permits, production history, and offset activity - rather than relying on a general rule of thumb pulled from a forum post. That's the review we do before putting a number in front of you, and it's why our offers vary as much as they do from one owner's tract to the next even in the same county."
-   ]
+  "slug": "mineral-rights-value-guide",
+  "title": "What Are Mineral Rights Worth?",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "What Are Mineral Rights Worth? A Real Framework",
+  "metaDescription": "How mineral and royalty interests actually get valued, in plain terms - the multiple-of-check method, discount rate, and what moves the number.",
+  "heroLead": "There's no price list for mineral rights, and anyone who quotes you a number before seeing your decimal interest and check history is guessing.",
+  "intro": [
+    "The royalty desk is asked 'what are mineral rights worth' more than any other question, and the reason is understandable - there's no MLS for this asset, no comps page, nothing that behaves like the real estate market people are used to. The honest answer is that value here is a function of future cash flow, discounted for risk and time, and that number moves with commodity prices, decline curves, and drilling activity in your specific unit.",
+    "This guide provides the actual framework buyers use, so you can understand what's driving any offer you receive and ask better questions instead of anchoring on a rumor from a neighbor's check."
+  ],
+  "sections": [
+    {
+      "heading": "Producing versus non-producing interests",
+      "paragraphs": [
+        "A producing interest has an actual cash flow history - your royalty statements - which is the single best data a buyer has. Non-producing minerals, meaning no well has ever been drilled on your tract, are valued almost entirely on speculation: how close is the nearest producing well, is the operator actively leasing in the area, and what has recently traded nearby, if anything has.",
+        "Producing interests generally command a stronger, more defensible number because there's a real curve to model. Non-producing interests trade on a much wider range depending on how active the play is around you, and any number offered there should come with an explanation of what's driving it - nearby permits, recent lease activity, or operator interest."
+      ]
+    },
+    {
+      "heading": "The multiple-of-check method",
+      "paragraphs": [
+        "For producing interests, the most common shorthand in the industry is a multiple of a recent monthly or annual royalty check, adjusted for the well's decline rate and remaining life. A well early in its production life with a shallow decline curve typically supports a higher multiple than a stripper well near the end of its economic life, because there's simply more cash flow left to buy.",
+        "This is a starting shorthand, not a formula you can apply blindly - two wells with identical current checks can be worth very different amounts depending on where each sits on its decline curve, what the operator's drilling plans look like for the rest of the unit, and current commodity prices. Treat any 'X times your check' number you hear as a rough anchor, never a quote."
+      ]
+    },
+    {
+      "heading": "What actually moves the number",
+      "paragraphs": [
+        "Beyond the check itself, a handful of factors consistently move value up or down: the size of your net mineral acreage and your decimal interest, whether the tract is held by production or open to new leasing, offset well permits and rig activity nearby, the operator's track record on drilling out its acreage, and commodity price trends for the specific product (oil, gas, or NGL-heavy) your wells produce.",
+        "Title condition matters too. A clean, unencumbered title with no heirship disputes closes faster and can support a better number than a fractional interest tangled in an old estate, simply because the buyer's risk and cost to close is lower."
+      ]
+    },
+    {
+      "heading": "Getting a real number instead of a guess",
+      "paragraphs": [
+        "The most reliable way to get a defensible figure for your specific interest is to have recent statements and a legal description reviewed against actual well data - permits, production history, and offset activity - rather than relying on a general rule of thumb pulled from a forum post. That's the review we do before putting a number in front of you, and it's why our offers vary as much as they do from one owner's tract to the next even in the same county."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there a standard price per acre for mineral rights?",
+      "answer": "No, and be skeptical of anyone who quotes one without seeing your specific tract. Per-acre value varies enormously by play, by how close the nearest producing well is, and by whether you're producing or non-producing - a flat county-wide number is, at best, a very rough starting point."
+    },
+    {
+      "question": "Are non-producing minerals worth anything?",
+      "answer": "Often yes, particularly in active plays where operators are leasing nearby or permits have been filed. The value is speculative rather than cash-flow-based, so it depends heavily on activity in your specific area rather than a formula."
+    },
+    {
+      "question": "Why did two buyers give you very different offers?",
+      "answer": "Buyers use different assumptions for decline rate, discount rate, and how much weight they give recent drilling activity. Ask each buyer what production data and decline assumptions they used - it's a fair question and a legitimate buyer will answer it."
+    },
+    {
+      "question": "Does selling now versus waiting change the value?",
+      "answer": "It can, in both directions. Waiting lets you collect more royalty checks but exposes you to commodity price swings and eventual decline; selling now locks in a number but ends future upside if a new well gets drilled in your unit. There's no universally right answer - it depends on your timeline and risk tolerance."
+    },
+    {
+      "question": "How much does commodity price affect the number?",
+      "answer": "Meaningfully, especially for gas-heavy interests. A valuation done during a price trough can look very different from one done during a rally, which is part of why serious evaluations use a price forecast or a normalized range rather than pinning everything to last month's exact price."
+    }
+  ],
+  "wordCount": 898,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-oilandgasroyaltybuyer-com.jpg",
+    "alt": "What Are Mineral Rights Worth? mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Is there a standard price per acre for mineral rights?",
-   "answer": "No, and be skeptical of anyone who quotes one without seeing your specific tract. Per-acre value varies enormously by play, by how close the nearest producing well is, and by whether you're producing or non-producing - a flat county-wide number is, at best, a very rough starting point."
-  },
-  {
-   "question": "Are non-producing minerals worth anything?",
-   "answer": "Often yes, particularly in active plays where operators are leasing nearby or permits have been filed. The value is speculative rather than cash-flow-based, so it depends heavily on activity in your specific area rather than a formula."
-  },
-  {
-   "question": "Why did two buyers give you very different offers?",
-   "answer": "Buyers use different assumptions for decline rate, discount rate, and how much weight they give recent drilling activity. Ask each buyer what production data and decline assumptions they used - it's a fair question and a legitimate buyer will answer it."
-  },
-  {
-   "question": "Does selling now versus waiting change the value?",
-   "answer": "It can, in both directions. Waiting lets you collect more royalty checks but exposes you to commodity price swings and eventual decline; selling now locks in a number but ends future upside if a new well gets drilled in your unit. There's no universally right answer - it depends on your timeline and risk tolerance."
-  },
-  {
-   "question": "How much does commodity price affect the number?",
-   "answer": "Meaningfully, especially for gas-heavy interests. A valuation done during a price trough can look very different from one done during a rally, which is part of why serious evaluations use a price forecast or a normalized range rather than pinning everything to last month's exact price."
-  }
- ],
- "wordCount": 898,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-mineral-rights-value-guide-oilandgasroyaltybuyer-com.jpg",
-  "alt": "What Are Mineral Rights Worth? mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

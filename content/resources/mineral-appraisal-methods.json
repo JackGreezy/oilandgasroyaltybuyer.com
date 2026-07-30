@@ -1,77 +1,77 @@
 {
- "slug": "mineral-appraisal-methods",
- "title": "How Minerals Are Appraised",
- "type": "resource",
- "status": "written",
- "metaTitle": "How Mineral Rights Are Appraised - Methods Explained",
- "metaDescription": "Discounted cash flow, comparable sales, and rule-of-thumb multiples - the actual methods used to appraise mineral and royalty interests.",
- "heroLead": "Appraising minerals is closer to appraising a small business than a house - it's built on future cash flow, not a comparable sale down the street.",
- "intro": [
-  "We are not licensed appraisers, and nothing here should be read as a formal appraisal - for estate, tax, or legal purposes where a certified appraisal is required, you'll want a qualified petroleum reservoir engineer or certified mineral appraiser. What follows is an explanation of the methods that industry, and buyers like us, actually use to arrive at a working number, so you understand what's behind an offer or a formal appraisal you receive.",
-  "Three methods dominate, and a serious valuation usually leans on more than one of them together rather than picking a single number and stopping."
- ],
- "sections": [
-  {
-   "heading": "Discounted cash flow",
-   "paragraphs": [
-    "This is the most rigorous method and the one a certified appraisal will lean on for a producing interest. It models expected future production month by month using the well's decline curve, applies a commodity price forecast, subtracts expected deductions, and discounts the whole future stream back to a present value using a discount rate that reflects the risk of that particular asset.",
-    "The two inputs that move this number the most are the decline rate assumption and the discount rate. A steeper assumed decline or a higher discount rate produces a lower valuation; a shallower decline or lower discount rate produces a higher one. Reasonable appraisers can land in different places depending on these assumptions, which is why two DCF-based numbers on the same well can still differ."
-   ]
-  },
-  {
-   "heading": "Comparable sales",
-   "paragraphs": [
-    "Similar to a real estate comp, this method looks at recent sales of mineral interests nearby, expressed as price per net mineral acre or as a multiple of trailing production, and applies that benchmark to your interest with adjustments for differences - depth, formation, well count, operator quality.",
-    "The catch is that mineral sales aren't publicly recorded with price the way home sales are in most states; comp data is harder to come by and often comes from private buyer networks rather than a public database. Treat any comp-based number with a question about where the comps actually came from."
-   ]
-  },
-  {
-   "heading": "Rule-of-thumb multiples",
-   "paragraphs": [
-    "The fastest, roughest method: a multiple applied directly to a recent monthly or annual royalty check, adjusted informally for how far along the well is in its decline. This is useful as a sanity check or a quick first estimate, but it's a shortcut for the discounted cash flow math above, not a replacement for it, and it can be misleading on wells with unusual decline behavior."
-   ]
-  },
-  {
-   "heading": "Which method matters for you",
-   "paragraphs": [
-    "For a straightforward sale, most buyers, us included, use a version of discounted cash flow built from your actual statements as the core method, cross-checked against comps and multiples where available. If you need a formal, certified appraisal - for an estate valuation or a legal proceeding - that requires a licensed appraiser or reservoir engineer, and we're glad to point you toward that distinction when it applies rather than blur the line ourselves."
-   ]
-  },
-  {
-   "heading": "Reserve reports and the engineering side",
-   "paragraphs": [
-    "For larger interests, or where a formal valuation is required, a petroleum engineer may prepare a full reserve report - a detailed technical estimate of remaining recoverable reserves, categorized by how confident the engineer is in the estimate (proved, probable, possible). This is the most rigorous version of the discounted cash flow approach, built from well-level engineering data rather than statement-level trends, and it's typically only cost-effective for larger, more complex interests.",
-    "For most individual owners with a modest fractional interest, a full reserve report costs more than it's worth relative to the size of the interest. A statement-based evaluation, cross-checked against public well data, is usually the more practical route for an ordinary sale."
-   ]
+  "slug": "mineral-appraisal-methods",
+  "title": "How Minerals Are Appraised",
+  "type": "resource",
+  "status": "written",
+  "metaTitle": "How Mineral Rights Are Appraised - Methods Explained",
+  "metaDescription": "Discounted cash flow, comparable sales, and rule-of-thumb multiples - the actual methods used to appraise mineral and royalty interests.",
+  "heroLead": "Appraising minerals is closer to appraising a small business than a house - it's built on future cash flow, not a comparable sale down the street.",
+  "intro": [
+    "We are not licensed appraisers, and nothing here should be read as a formal appraisal - for estate, tax, or legal purposes where a certified appraisal is required, you'll want a qualified petroleum reservoir engineer or certified mineral appraiser. What follows is an explanation of the methods that industry, and buyers like us, actually use to arrive at a working number, so you understand what's behind an offer or a formal appraisal you receive.",
+    "Three methods dominate, and a serious valuation usually leans on more than one of them together rather than picking a single number and stopping."
+  ],
+  "sections": [
+    {
+      "heading": "Discounted cash flow",
+      "paragraphs": [
+        "This is the most rigorous method and the one a certified appraisal will lean on for a producing interest. It models expected future production month by month using the well's decline curve, applies a commodity price forecast, subtracts expected deductions, and discounts the whole future stream back to a present value using a discount rate that reflects the risk of that particular asset.",
+        "The two inputs that move this number the most are the decline rate assumption and the discount rate. A steeper assumed decline or a higher discount rate produces a lower valuation; a shallower decline or lower discount rate produces a higher one. Reasonable appraisers can land in different places depending on these assumptions, which is why two DCF-based numbers on the same well can still differ."
+      ]
+    },
+    {
+      "heading": "Comparable sales",
+      "paragraphs": [
+        "Similar to a real estate comp, this method looks at recent sales of mineral interests nearby, expressed as price per net mineral acre or as a multiple of trailing production, and applies that benchmark to your interest with adjustments for differences - depth, formation, well count, operator quality.",
+        "The catch is that mineral sales aren't publicly recorded with price the way home sales are in most states; comp data is harder to come by and often comes from private buyer networks rather than a public database. Treat any comp-based number with a question about where the comps actually came from."
+      ]
+    },
+    {
+      "heading": "Rule-of-thumb multiples",
+      "paragraphs": [
+        "The fastest, roughest method: a multiple applied directly to a recent monthly or annual royalty check, adjusted informally for how far along the well is in its decline. This is useful as a sanity check or a quick first estimate, but it's a shortcut for the discounted cash flow math above, not a replacement for it, and it can be misleading on wells with unusual decline behavior."
+      ]
+    },
+    {
+      "heading": "Which method matters for you",
+      "paragraphs": [
+        "For a straightforward sale, most buyers, us included, use a version of discounted cash flow built from your actual statements as the core method, cross-checked against comps and multiples where available. If you need a formal, certified appraisal - for an estate valuation or a legal proceeding - that requires a licensed appraiser or reservoir engineer, and we're glad to point you toward that distinction when it applies rather than blur the line ourselves."
+      ]
+    },
+    {
+      "heading": "Reserve reports and the engineering side",
+      "paragraphs": [
+        "For larger interests, or where a formal valuation is required, a petroleum engineer may prepare a full reserve report - a detailed technical estimate of remaining recoverable reserves, categorized by how confident the engineer is in the estimate (proved, probable, possible). This is the most rigorous version of the discounted cash flow approach, built from well-level engineering data rather than statement-level trends, and it's typically only cost-effective for larger, more complex interests.",
+        "For most individual owners with a modest fractional interest, a full reserve report costs more than it's worth relative to the size of the interest. A statement-based evaluation, cross-checked against public well data, is usually the more practical route for an ordinary sale."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can you give you a formal appraisal?",
+      "answer": "No - we are a buyer, not a licensed appraiser, and we don't issue certified appraisals. For estate, tax, or legal purposes requiring one, you'll need a certified mineral appraiser or petroleum reservoir engineer."
+    },
+    {
+      "question": "Why do two appraisals of the same well give different numbers?",
+      "answer": "Usually because of different decline rate or discount rate assumptions, or different commodity price forecasts. Ask what assumptions were used - it's the fastest way to understand why two numbers differ."
+    },
+    {
+      "question": "Is a rule-of-thumb multiple good enough to sell on?",
+      "answer": "It's a reasonable starting sanity check, not something to rely on for a final decision. A proper evaluation using your actual statements and decline behavior will be more accurate than a flat multiple."
+    },
+    {
+      "question": "Do non-producing minerals get appraised the same way?",
+      "answer": "No. Without production history, discounted cash flow doesn't apply the same way, so non-producing interests lean more heavily on comparable sales and activity indicators like nearby permits and leasing, which makes the valuation inherently more speculative."
+    },
+    {
+      "question": "Is a reserve report always necessary to sell?",
+      "answer": "No. Most individual owner sales are handled with a statement-based evaluation rather than a formal reserve report, which is typically reserved for larger interests or situations requiring a certified valuation."
+    }
+  ],
+  "wordCount": 861,
+  "image": {
+    "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-oilandgasroyaltybuyer-com.jpg",
+    "alt": "How Minerals Are Appraised mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Can you give you a formal appraisal?",
-   "answer": "No - we are a buyer, not a licensed appraiser, and we don't issue certified appraisals. For estate, tax, or legal purposes requiring one, you'll need a certified mineral appraiser or petroleum reservoir engineer."
-  },
-  {
-   "question": "Why do two appraisals of the same well give different numbers?",
-   "answer": "Usually because of different decline rate or discount rate assumptions, or different commodity price forecasts. Ask what assumptions were used - it's the fastest way to understand why two numbers differ."
-  },
-  {
-   "question": "Is a rule-of-thumb multiple good enough to sell on?",
-   "answer": "It's a reasonable starting sanity check, not something to rely on for a final decision. A proper evaluation using your actual statements and decline behavior will be more accurate than a flat multiple."
-  },
-  {
-   "question": "Do non-producing minerals get appraised the same way?",
-   "answer": "No. Without production history, discounted cash flow doesn't apply the same way, so non-producing interests lean more heavily on comparable sales and activity indicators like nearby permits and leasing, which makes the valuation inherently more speculative."
-  },
-  {
-   "question": "Is a reserve report always necessary to sell?",
-   "answer": "No. Most individual owner sales are handled with a statement-based evaluation rather than a formal reserve report, which is typically reserved for larger interests or situations requiring a certified valuation."
-  }
- ],
- "wordCount": 861,
- "image": {
-  "src": "/images/resources/mineral-rights-resources-mineral-appraisal-methods-oilandgasroyaltybuyer-com.jpg",
-  "alt": "How Minerals Are Appraised mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
