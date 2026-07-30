@@ -1,72 +1,72 @@
 {
-  "slug": "lease-vs-sell",
-  "title": "Lease vs. Sell: Which Is Right?",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Lease vs. Sell Mineral Rights - How to Decide",
-  "metaDescription": "Leasing keeps future upside and future risk; selling locks in a number today. A clear-eyed comparison from a former operations engineer.",
-  "heroLead": "Leasing and selling solve different problems, and the right answer usually has more to do with your life than with the wells.",
-  "intro": [
-    "This question comes up constantly, and there is not a universally correct answer - the royalty desk has seen owners do well going either direction, and the royalty desk has seen owners regret both. This guide lays out honestly what each path actually gives you and takes away, because the marketing pitch on either side tends to leave out the downside.",
-    "If you already have production and a royalty interest, this is really a question about your existing minerals under an existing or expiring lease, or unleased minerals a landman has approached you about. The tradeoffs differ slightly depending on which situation you're in, but the core logic is the same."
-  ],
-  "sections": [
-    {
-      "heading": "What leasing (or keeping your royalty) gives you",
-      "paragraphs": [
-        "Leasing, or simply holding minerals you already lease, keeps your upside alive. If activity increases in your area - new permits, a new operator moving in, higher commodity prices - your royalty interest can become more valuable without you doing anything. You also keep optionality: you can still sell later if your situation changes.",
-        "The tradeoff is that you carry the risk too. Production declines over a well's life, commodity prices swing, and a lease that looks generous today can produce a shrinking check five years from now. You're also exposed to operator behavior - deductions, payment delays, suspense issues - for as long as you hold the interest."
-      ]
-    },
-    {
-      "heading": "What selling gives you",
-      "paragraphs": [
-        "Selling converts an uncertain, declining, multi-year income stream into a lump sum today. That certainty has real value - it removes commodity price risk, decline risk, and operator risk from your life entirely, and it puts capital in your hands that you can use for something concrete: paying off debt, funding a purchase, diversifying into other assets.",
-        "The tradeoff is the mirror image of leasing's tradeoff: you give up all future upside. If a new well gets drilled in your unit next year, or prices rise, that benefit goes to whoever bought your interest, not to you."
-      ]
-    },
-    {
-      "heading": "The questions that actually decide it",
-      "paragraphs": [
-        "How much of your net worth is tied up in this interest, and would a lump sum meaningfully change your financial position - paying off a mortgage, avoiding debt, funding something specific? How comfortable are you with an income stream that can be volatile and declines over time by nature? Is the interest a small fraction spread across many heirs, where the administrative hassle of tracking payments outweighs the income itself? Is there active drilling nearby that suggests real near-term upside, or is the area quiet with little reason to expect change?",
-        "None of these questions has a right answer in the abstract. An owner near retirement who wants predictability and a clean estate for their kids often leans toward selling. An owner decades from retirement who's comfortable with volatility and doesn't need the capital today often leans toward holding."
-      ]
-    },
-    {
-      "heading": "A middle path exists",
-      "paragraphs": [
-        "You don't have to choose all-or-nothing. Many owners sell a portion of their interest - locking in some certainty - while keeping the rest to participate in any future upside. If you're unsure, that's often a reasonable way to test the decision without committing entirely in either direction.",
-        "A partial sale can also be split by depth or formation rather than by percentage - selling the currently producing zone while retaining deeper, undeveloped rights, for instance. This is a more technical structure and worth discussing directly with a buyer rather than assuming it's automatically available, but it's a real option for owners who want to keep exposure to a specific future possibility."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Is selling always a worse deal than leasing?",
-      "answer": "No, it depends entirely on your circumstances. Selling is worse if a well gets drilled or prices rise after you sell; it's better if production declines faster than expected or you needed the capital sooner than the royalty stream would have delivered it. Neither path is objectively superior."
-    },
-    {
-      "question": "Can you sell just part of your interest?",
-      "answer": "Yes. Partial sales, where you sell a percentage of your minerals and keep the rest, are common and let you take some money off the table while retaining exposure to future activity."
-    },
-    {
-      "question": "What happens to your lease if you sell the minerals?",
-      "answer": "The existing lease and its terms transfer with the minerals - the buyer steps into your position as lessor and receives future royalty payments under that same lease. You're not breaking a lease by selling; you're transferring the right to future royalty income under it."
-    },
-    {
-      "question": "Should you wait for a well to be drilled before deciding?",
-      "answer": "That depends on how confident you are that drilling is actually coming and on your own timeline. Waiting can pay off if a well does get drilled, but it also means holding the risk and uncertainty in the meantime with no guarantee anything happens on a timeline that suits you."
-    },
-    {
-      "question": "Does a producing lease automatically end if you sell?",
-      "answer": "No. Selling your minerals transfers your position as lessor to the buyer; the lease itself continues on its existing terms until it expires or is otherwise terminated under its own language."
-    }
-  ],
-  "wordCount": 893,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-lease-vs-sell-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Lease vs. Sell: Which Is Right? mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "lease-vs-sell",
+ "title": "Lease vs. Sell: Which Is Right?",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Lease vs. Sell Mineral Rights - How to Decide",
+ "metaDescription": "Leasing keeps future upside and future risk; selling locks in a number today. A clear-eyed comparison from a former operations engineer.",
+ "heroLead": "Leasing and selling solve different problems, and the right answer usually has more to do with your life than with the wells.",
+ "intro": [
+  "This question comes up constantly, and there is not a universally correct answer - the royalty desk has seen owners do well going either direction, and the royalty desk has seen owners regret both. This guide lays out honestly what each path actually gives you and takes away, because the marketing pitch on either side tends to leave out the downside.",
+  "If you already have production and a royalty interest, this is really a question about your existing minerals under an existing or expiring lease, or unleased minerals a landman has approached you about. The tradeoffs differ slightly depending on which situation you're in, but the core logic is the same."
+ ],
+ "sections": [
+  {
+   "heading": "What leasing (or keeping your royalty) gives you",
+   "paragraphs": [
+    "Leasing, or simply holding minerals you already lease, keeps your upside alive. If activity increases in your area - new permits, a new operator moving in, higher commodity prices - your royalty interest can become more valuable without you doing anything. You also keep optionality: you can still sell later if your situation changes.",
+    "The tradeoff is that you carry the risk too. Production declines over a well's life, commodity prices swing, and a lease that looks generous today can produce a shrinking check five years from now. You're also exposed to operator behavior - deductions, payment delays, suspense issues - for as long as you hold the interest."
+   ]
+  },
+  {
+   "heading": "What selling gives you",
+   "paragraphs": [
+    "Selling converts an uncertain, declining, multi-year income stream into a lump sum today. That certainty has real value - it removes commodity price risk, decline risk, and operator risk from your life entirely, and it puts capital in your hands that you can use for something concrete: paying off debt, funding a purchase, diversifying into other assets.",
+    "The tradeoff is the mirror image of leasing's tradeoff: you give up all future upside. If a new well gets drilled in your unit next year, or prices rise, that benefit goes to whoever bought your interest, not to you."
+   ]
+  },
+  {
+   "heading": "The questions that actually decide it",
+   "paragraphs": [
+    "How much of your net worth is tied up in this interest, and would a lump sum meaningfully change your financial position - paying off a mortgage, avoiding debt, funding something specific? How comfortable are you with an income stream that can be volatile and declines over time by nature? Is the interest a small fraction spread across many heirs, where the administrative hassle of tracking payments outweighs the income itself? Is there active drilling nearby that suggests real near-term upside, or is the area quiet with little reason to expect change?",
+    "None of these questions has a right answer in the abstract. An owner near retirement who wants predictability and a clean estate for their kids often leans toward selling. An owner decades from retirement who's comfortable with volatility and doesn't need the capital today often leans toward holding."
+   ]
+  },
+  {
+   "heading": "A middle path exists",
+   "paragraphs": [
+    "You don't have to choose all-or-nothing. Many owners sell a portion of their interest - locking in some certainty - while keeping the rest to participate in any future upside. If you're unsure, that's often a reasonable way to test the decision without committing entirely in either direction.",
+    "A partial sale can also be split by depth or formation rather than by percentage - selling the currently producing zone while retaining deeper, undeveloped rights, for instance. This is a more technical structure and worth discussing directly with a buyer rather than assuming it's automatically available, but it's a real option for owners who want to keep exposure to a specific future possibility."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Is selling always a worse deal than leasing?",
+   "answer": "No, it depends entirely on your circumstances. Selling is worse if a well gets drilled or prices rise after you sell; it's better if production declines faster than expected or you needed the capital sooner than the royalty stream would have delivered it. Neither path is objectively superior."
+  },
+  {
+   "question": "Can you sell just part of your interest?",
+   "answer": "Yes. Partial sales, where you sell a percentage of your minerals and keep the rest, are common and let you take some money off the table while retaining exposure to future activity."
+  },
+  {
+   "question": "What happens to your lease if you sell the minerals?",
+   "answer": "The existing lease and its terms transfer with the minerals - the buyer steps into your position as lessor and receives future royalty payments under that same lease. You're not breaking a lease by selling; you're transferring the right to future royalty income under it."
+  },
+  {
+   "question": "Should you wait for a well to be drilled before deciding?",
+   "answer": "That depends on how confident you are that drilling is actually coming and on your own timeline. Waiting can pay off if a well does get drilled, but it also means holding the risk and uncertainty in the meantime with no guarantee anything happens on a timeline that suits you."
+  },
+  {
+   "question": "Does a producing lease automatically end if you sell?",
+   "answer": "No. Selling your minerals transfers your position as lessor to the buyer; the lease itself continues on its existing terms until it expires or is otherwise terminated under its own language."
+  }
+ ],
+ "wordCount": 893,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-lease-vs-sell-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Lease vs. Sell: Which Is Right? mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

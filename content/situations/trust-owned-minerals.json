@@ -1,77 +1,77 @@
 {
-  "slug": "trust-owned-minerals",
-  "title": "Trust-Owned Minerals",
-  "type": "situation",
-  "note": "trustee sale considerations",
-  "status": "written",
-  "metaTitle": "Selling Mineral Rights Held in a Trust",
-  "metaDescription": "Trustees managing mineral interests face fiduciary questions a normal owner never has to think about. Here's how a trustee evaluates keeping versus selling.",
-  "heroLead": "A trustee holding mineral rights carries a different burden than an individual owner, because the decision to keep or sell is a duty owed to beneficiaries who may not agree with each other, not a matter of personal preference.",
-  "intro": [
-    "Trusts end up holding mineral interests for a few common reasons: a grantor placed family land or mineral rights into a trust for estate planning purposes, or the trust inherited the interest through the grantor's own estate. Either way, the trustee is now managing an asset that behaves nothing like the cash and securities most trusts otherwise hold, with production that fluctuates, paperwork that shows up from operators nobody's heard of, and beneficiaries who may have very different opinions about whether it should be sold.",
-    "The trustee's job isn't to guess what beneficiaries want emotionally. It's to manage the trust's assets prudently, and that standard applies to mineral interests just as it does to any other holding."
-  ],
-  "sections": [
-    {
-      "heading": "The trustee's fiduciary duty with a mineral interest",
-      "paragraphs": [
-        "Most states hold trustees to a prudent investor standard, which generally requires diversification and an honest evaluation of risk versus the trust's needs, unless the trust document specifically directs otherwise. A single mineral interest, especially a concentrated one tied to a single well or lease, is about as undiversified as a holding gets. Production can decline sharply, a well can be shut in, and the trust's income from that asset can swing year to year in ways cash or a diversified portfolio simply doesn't.",
-        "That doesn't automatically mean a trustee must sell. If the trust document specifically instructs the trustee to retain family mineral interests, that instruction generally controls. But absent that kind of specific direction, a trustee evaluating whether to hold or sell needs to document that reasoning."
-      ]
-    },
-    {
-      "heading": "The diversification argument in practice",
-      "paragraphs": [
-        "Converting a mineral interest into cash that gets reinvested across a diversified portfolio is often the more defensible position for a trustee managing multiple beneficiaries, particularly younger beneficiaries who'll depend on the trust for decades and don't need concentrated exposure to one county's production decline curve. It also removes the ongoing administrative burden, division orders, 1099s, owner relations calls, that a mineral interest adds to trust administration every year.",
-        "This is a case-by-case judgment, not a rule. A trust with substantial other diversified assets may reasonably choose to hold a mineral interest as one small piece of an already-balanced portfolio."
-      ]
-    },
-    {
-      "heading": "Getting a sale done properly as trustee",
-      "paragraphs": [
-        "If the trust document requires beneficiary consent or notice before a sale of this kind, get that documented before you move forward, since a sale made without required consent can be challenged later even if the price was fair. A buyer will typically want to see the trust document or a certification of trust showing your authority to sell on the trust's behalf, along with recent check stubs or the division order for the interest.",
-        "Getting an independent market quote, and ideally more than one, also helps the trustee demonstrate the sale was made prudently and at fair value, which matters if the decision is ever questioned by a beneficiary down the road."
-      ]
-    },
-    {
-      "heading": "Records worth keeping in the trust file",
-      "paragraphs": [
-        "Once a decision is made, keep a paper trail: the market quotes obtained, the reasoning behind holding or selling, and any beneficiary communications sent along the way. That file becomes the trustee's evidence of prudent administration if it's ever questioned in an accounting or a dispute among beneficiaries years later.",
-        "This matters even when the trust document gives the trustee broad discretion. Broad authority reduces the risk of a successful challenge, but it doesn't eliminate the trustee's underlying duty to act reasonably, and a documented process is what demonstrates that duty was met."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Can a trustee sell mineral rights without beneficiary approval?",
-      "answer": "It depends on the trust document. Some trusts give the trustee full discretion to sell assets, while others require beneficiary notice or consent for certain transactions. Review the trust document or consult the trust's attorney before proceeding."
-    },
-    {
-      "question": "Is a trustee required to diversify away from a mineral interest?",
-      "answer": "Most states apply a prudent investor standard that generally favors diversification, unless the trust document specifically directs the trustee to retain the mineral interest. This is a legal question worth discussing with the trust's attorney."
-    },
-    {
-      "question": "What proof does a buyer need that you have authority to sell as trustee?",
-      "answer": "Typically a certification of trust or the relevant pages of the trust document showing your appointment and authority to sell trust assets, along with your own identification for the closing."
-    },
-    {
-      "question": "How does a trustee document that a mineral sale was made at fair value?",
-      "answer": "Getting more than one independent market quote based on recent production history, and keeping records of that comparison, is the standard way a trustee demonstrates the sale met a fiduciary standard of prudence."
-    },
-    {
-      "question": "What happens to the proceeds after a trustee sells mineral rights?",
-      "answer": "Proceeds are generally reinvested or distributed according to the trust's terms, the same as income or proceeds from any other trust asset would be handled."
-    },
-    {
-      "question": "Does it matter how many beneficiaries the trust has when deciding whether to sell?",
-      "answer": "Yes, a trust with several beneficiaries at different life stages often leans harder toward selling a concentrated mineral interest and reinvesting into diversified assets, since a decline in production affects younger and older beneficiaries very differently."
-    }
-  ],
-  "wordCount": 917,
-  "image": {
-    "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Trust-Owned Minerals mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "trust-owned-minerals",
+ "title": "Trust-Owned Minerals",
+ "type": "situation",
+ "note": "trustee sale considerations",
+ "status": "written",
+ "metaTitle": "Selling Mineral Rights Held in a Trust",
+ "metaDescription": "Trustees managing mineral interests face fiduciary questions a normal owner never has to think about. Here's how a trustee evaluates keeping versus selling.",
+ "heroLead": "A trustee holding mineral rights carries a different burden than an individual owner, because the decision to keep or sell is a duty owed to beneficiaries who may not agree with each other, not a matter of personal preference.",
+ "intro": [
+  "Trusts end up holding mineral interests for a few common reasons: a grantor placed family land or mineral rights into a trust for estate planning purposes, or the trust inherited the interest through the grantor's own estate. Either way, the trustee is now managing an asset that behaves nothing like the cash and securities most trusts otherwise hold, with production that fluctuates, paperwork that shows up from operators nobody's heard of, and beneficiaries who may have very different opinions about whether it should be sold.",
+  "The trustee's job isn't to guess what beneficiaries want emotionally. It's to manage the trust's assets prudently, and that standard applies to mineral interests just as it does to any other holding."
+ ],
+ "sections": [
+  {
+   "heading": "The trustee's fiduciary duty with a mineral interest",
+   "paragraphs": [
+    "Most states hold trustees to a prudent investor standard, which generally requires diversification and an honest evaluation of risk versus the trust's needs, unless the trust document specifically directs otherwise. A single mineral interest, especially a concentrated one tied to a single well or lease, is about as undiversified as a holding gets. Production can decline sharply, a well can be shut in, and the trust's income from that asset can swing year to year in ways cash or a diversified portfolio simply doesn't.",
+    "That doesn't automatically mean a trustee must sell. If the trust document specifically instructs the trustee to retain family mineral interests, that instruction generally controls. But absent that kind of specific direction, a trustee evaluating whether to hold or sell needs to document that reasoning."
+   ]
+  },
+  {
+   "heading": "The diversification argument in practice",
+   "paragraphs": [
+    "Converting a mineral interest into cash that gets reinvested across a diversified portfolio is often the more defensible position for a trustee managing multiple beneficiaries, particularly younger beneficiaries who'll depend on the trust for decades and don't need concentrated exposure to one county's production decline curve. It also removes the ongoing administrative burden, division orders, 1099s, owner relations calls, that a mineral interest adds to trust administration every year.",
+    "This is a case-by-case judgment, not a rule. A trust with substantial other diversified assets may reasonably choose to hold a mineral interest as one small piece of an already-balanced portfolio."
+   ]
+  },
+  {
+   "heading": "Getting a sale done properly as trustee",
+   "paragraphs": [
+    "If the trust document requires beneficiary consent or notice before a sale of this kind, get that documented before you move forward, since a sale made without required consent can be challenged later even if the price was fair. A buyer will typically want to see the trust document or a certification of trust showing your authority to sell on the trust's behalf, along with recent check stubs or the division order for the interest.",
+    "Getting an independent market quote, and ideally more than one, also helps the trustee demonstrate the sale was made prudently and at fair value, which matters if the decision is ever questioned by a beneficiary down the road."
+   ]
+  },
+  {
+   "heading": "Records worth keeping in the trust file",
+   "paragraphs": [
+    "Once a decision is made, keep a paper trail: the market quotes obtained, the reasoning behind holding or selling, and any beneficiary communications sent along the way. That file becomes the trustee's evidence of prudent administration if it's ever questioned in an accounting or a dispute among beneficiaries years later.",
+    "This matters even when the trust document gives the trustee broad discretion. Broad authority reduces the risk of a successful challenge, but it doesn't eliminate the trustee's underlying duty to act reasonably, and a documented process is what demonstrates that duty was met."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Can a trustee sell mineral rights without beneficiary approval?",
+   "answer": "It depends on the trust document. Some trusts give the trustee full discretion to sell assets, while others require beneficiary notice or consent for certain transactions. Review the trust document or consult the trust's attorney before proceeding."
+  },
+  {
+   "question": "Is a trustee required to diversify away from a mineral interest?",
+   "answer": "Most states apply a prudent investor standard that generally favors diversification, unless the trust document specifically directs the trustee to retain the mineral interest. This is a legal question worth discussing with the trust's attorney."
+  },
+  {
+   "question": "What proof does a buyer need that you have authority to sell as trustee?",
+   "answer": "Typically a certification of trust or the relevant pages of the trust document showing your appointment and authority to sell trust assets, along with your own identification for the closing."
+  },
+  {
+   "question": "How does a trustee document that a mineral sale was made at fair value?",
+   "answer": "Getting more than one independent market quote based on recent production history, and keeping records of that comparison, is the standard way a trustee demonstrates the sale met a fiduciary standard of prudence."
+  },
+  {
+   "question": "What happens to the proceeds after a trustee sells mineral rights?",
+   "answer": "Proceeds are generally reinvested or distributed according to the trust's terms, the same as income or proceeds from any other trust asset would be handled."
+  },
+  {
+   "question": "Does it matter how many beneficiaries the trust has when deciding whether to sell?",
+   "answer": "Yes, a trust with several beneficiaries at different life stages often leans harder toward selling a concentrated mineral interest and reinvesting into diversified assets, since a decline in production affects younger and older beneficiaries very differently."
+  }
+ ],
+ "wordCount": 917,
+ "image": {
+  "src": "/images/situations/mineral-rights-situations-trust-owned-minerals-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Trust-Owned Minerals mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }

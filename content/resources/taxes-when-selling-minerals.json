@@ -1,75 +1,75 @@
 {
-  "slug": "taxes-when-selling-minerals",
-  "title": "Taxes When You Sell Mineral Rights",
-  "type": "resource",
-  "status": "written",
-  "metaTitle": "Taxes When You Sell Mineral Rights - What to Expect",
-  "metaDescription": "How a mineral rights sale is generally taxed - capital gains, cost basis, depletion - and why your CPA needs to be part of this decision.",
-  "heroLead": "The tax treatment of a mineral sale surprises a lot of owners, mostly because the number that matters isn't the sale price - it's your basis.",
-  "intro": [
-    "Oil & Gas Royalty Buyer is not a CPA firm, and nothing here is tax advice - talk to your CPA or tax advisor about your specific situation before you sign anything, especially for larger sales. This guide explains the general shape of how these sales are typically treated, so the conversation with your accountant starts from an informed place instead of a blank one.",
-    "The short version: most mineral sales are treated as a sale of a capital asset, which usually means capital gains treatment rather than ordinary income - but the details depend heavily on how you acquired the interest and how long you've held it."
-  ],
-  "sections": [
-    {
-      "heading": "Cost basis - the number that actually decides your tax bill",
-      "paragraphs": [
-        "Your taxable gain is generally the sale price minus your cost basis, not the full sale price itself. If you inherited the interest, your basis is typically the fair market value on the date of the prior owner's death (a 'stepped-up basis' in most cases), which can make the taxable gain much smaller than the sale price - sometimes close to zero if the interest hasn't appreciated much since inheritance.",
-        "If you purchased the interest yourself, your basis is generally what you paid for it, adjusted for any depletion you've claimed over the years you held it. Depletion deductions taken during ownership typically reduce your basis, which can increase your taxable gain at sale - this is exactly the kind of detail your CPA needs to calculate correctly, not something to estimate yourself."
-      ]
-    },
-    {
-      "heading": "Long-term versus short-term treatment",
-      "paragraphs": [
-        "How long you've held the interest generally determines whether any gain qualifies for long-term capital gains rates, which are typically more favorable than short-term or ordinary income rates. For inherited interests, holding period rules can work in your favor regardless of how recently you actually inherited - another reason this is worth a real conversation with a tax professional rather than an assumption."
-      ]
-    },
-    {
-      "heading": "1031 exchanges and other deferral options",
-      "paragraphs": [
-        "Some owners explore a 1031 exchange to defer gain by rolling proceeds into replacement real property, since mineral interests can, in the right circumstances, qualify as real property for exchange purposes. This has strict timing rules - generally 45 days to identify replacement property and 180 days to close - and requires a qualified intermediary set up before the sale closes, not after. If this interests you, raise it with your tax advisor and a qualified intermediary well before you sign a purchase agreement, since the structure has to be in place ahead of the sale."
-      ]
-    },
-    {
-      "heading": "What we can and can't tell you",
-      "paragraphs": [
-        "We can tell you the sale price and provide the closing documents you'll need for your return. We can't tell you what you'll owe, calculate your basis, or advise on strategy - that's your CPA's job, and it's worth the fee for a sale of any real size. Bringing your accountant into the conversation before you sign, not after, is the single best piece of tax advice we can give without actually giving tax advice."
-      ]
-    },
-    {
-      "heading": "State-level considerations",
-      "paragraphs": [
-        "Beyond federal treatment, some producing states apply their own severance or income tax rules to oil and gas proceeds, and state capital gains treatment can differ from federal treatment as well. If your minerals sit in one state and you live in another, there can be filing obligations in both, which is another reason a CPA familiar with oil and gas transactions specifically, beyond a general preparer, is worth seeking out for a sale of meaningful size."
-      ]
-    }
-  ],
-  "faqs": [
-    {
-      "question": "Will you owe taxes on the full sale price?",
-      "answer": "Generally no - taxable gain is typically the sale price minus your cost basis, not the full proceeds. For inherited interests with a stepped-up basis, the taxable gain can be much smaller than the sale price. Confirm your specific basis with your CPA."
-    },
-    {
-      "question": "Do you need to do anything before closing to reduce taxes?",
-      "answer": "If you're considering a 1031 exchange, yes - a qualified intermediary needs to be arranged before the sale closes, not after. For standard sales, there's typically nothing required before closing, but it's still worth talking to your CPA ahead of time."
-    },
-    {
-      "question": "Is selling mineral rights taxed differently than regular royalty income?",
-      "answer": "Yes, generally. Ongoing royalty checks are typically taxed as ordinary income each year you receive them. A sale of the underlying mineral interest is typically treated as a capital transaction, taxed on the gain above your basis, often at capital gains rates."
-    },
-    {
-      "question": "Can you recommend a CPA?",
-      "answer": "We don't make referrals, but any CPA experienced with oil and gas or real property transactions can handle this. It's worth confirming they've dealt with mineral sales specifically, since the basis and depletion rules are a bit specialized."
-    },
-    {
-      "question": "Do you owe state taxes in addition to federal?",
-      "answer": "Possibly, depending on the state where the minerals are located and the state where you live. Rules vary, so confirm with your CPA whether a state filing is required in either or both."
-    }
-  ],
-  "wordCount": 883,
-  "image": {
-    "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-oilandgasroyaltybuyer-com.jpg",
-    "alt": "Taxes When You Sell Mineral Rights mineral rights",
-    "width": 1600,
-    "height": 1000
+ "slug": "taxes-when-selling-minerals",
+ "title": "Taxes When You Sell Mineral Rights",
+ "type": "resource",
+ "status": "written",
+ "metaTitle": "Taxes When You Sell Mineral Rights - What to Expect",
+ "metaDescription": "How a mineral rights sale is generally taxed - capital gains, cost basis, depletion - and why your CPA needs to be part of this decision.",
+ "heroLead": "The tax treatment of a mineral sale surprises a lot of owners, mostly because the number that matters isn't the sale price - it's your basis.",
+ "intro": [
+  "Oil & Gas Royalty Buyer is not a CPA firm, and nothing here is tax advice - talk to your CPA or tax advisor about your specific situation before you sign anything, especially for larger sales. This guide explains the general shape of how these sales are typically treated, so the conversation with your accountant starts from an informed place instead of a blank one.",
+  "The short version: most mineral sales are treated as a sale of a capital asset, which usually means capital gains treatment rather than ordinary income - but the details depend heavily on how you acquired the interest and how long you've held it."
+ ],
+ "sections": [
+  {
+   "heading": "Cost basis - the number that actually decides your tax bill",
+   "paragraphs": [
+    "Your taxable gain is generally the sale price minus your cost basis, not the full sale price itself. If you inherited the interest, your basis is typically the fair market value on the date of the prior owner's death (a 'stepped-up basis' in most cases), which can make the taxable gain much smaller than the sale price - sometimes close to zero if the interest hasn't appreciated much since inheritance.",
+    "If you purchased the interest yourself, your basis is generally what you paid for it, adjusted for any depletion you've claimed over the years you held it. Depletion deductions taken during ownership typically reduce your basis, which can increase your taxable gain at sale - this is exactly the kind of detail your CPA needs to calculate correctly, not something to estimate yourself."
+   ]
+  },
+  {
+   "heading": "Long-term versus short-term treatment",
+   "paragraphs": [
+    "How long you've held the interest generally determines whether any gain qualifies for long-term capital gains rates, which are typically more favorable than short-term or ordinary income rates. For inherited interests, holding period rules can work in your favor regardless of how recently you actually inherited - another reason this is worth a real conversation with a tax professional rather than an assumption."
+   ]
+  },
+  {
+   "heading": "1031 exchanges and other deferral options",
+   "paragraphs": [
+    "Some owners explore a 1031 exchange to defer gain by rolling proceeds into replacement real property, since mineral interests can, in the right circumstances, qualify as real property for exchange purposes. This has strict timing rules - generally 45 days to identify replacement property and 180 days to close - and requires a qualified intermediary set up before the sale closes, not after. If this interests you, raise it with your tax advisor and a qualified intermediary well before you sign a purchase agreement, since the structure has to be in place ahead of the sale."
+   ]
+  },
+  {
+   "heading": "What we can and can't tell you",
+   "paragraphs": [
+    "We can tell you the sale price and provide the closing documents you'll need for your return. We can't tell you what you'll owe, calculate your basis, or advise on strategy - that's your CPA's job, and it's worth the fee for a sale of any real size. Bringing your accountant into the conversation before you sign, not after, is the single best piece of tax advice we can give without actually giving tax advice."
+   ]
+  },
+  {
+   "heading": "State-level considerations",
+   "paragraphs": [
+    "Beyond federal treatment, some producing states apply their own severance or income tax rules to oil and gas proceeds, and state capital gains treatment can differ from federal treatment as well. If your minerals sit in one state and you live in another, there can be filing obligations in both, which is another reason a CPA familiar with oil and gas transactions specifically, beyond a general preparer, is worth seeking out for a sale of meaningful size."
+   ]
   }
+ ],
+ "faqs": [
+  {
+   "question": "Will you owe taxes on the full sale price?",
+   "answer": "Generally no - taxable gain is typically the sale price minus your cost basis, not the full proceeds. For inherited interests with a stepped-up basis, the taxable gain can be much smaller than the sale price. Confirm your specific basis with your CPA."
+  },
+  {
+   "question": "Do you need to do anything before closing to reduce taxes?",
+   "answer": "If you're considering a 1031 exchange, yes - a qualified intermediary needs to be arranged before the sale closes, not after. For standard sales, there's typically nothing required before closing, but it's still worth talking to your CPA ahead of time."
+  },
+  {
+   "question": "Is selling mineral rights taxed differently than regular royalty income?",
+   "answer": "Yes, generally. Ongoing royalty checks are typically taxed as ordinary income each year you receive them. A sale of the underlying mineral interest is typically treated as a capital transaction, taxed on the gain above your basis, often at capital gains rates."
+  },
+  {
+   "question": "Can you recommend a CPA?",
+   "answer": "We don't make referrals, but any CPA experienced with oil and gas or real property transactions can handle this. It's worth confirming they've dealt with mineral sales specifically, since the basis and depletion rules are a bit specialized."
+  },
+  {
+   "question": "Do you owe state taxes in addition to federal?",
+   "answer": "Possibly, depending on the state where the minerals are located and the state where you live. Rules vary, so confirm with your CPA whether a state filing is required in either or both."
+  }
+ ],
+ "wordCount": 883,
+ "image": {
+  "src": "/images/resources/mineral-rights-resources-taxes-when-selling-minerals-oilandgasroyaltybuyer-com.jpg",
+  "alt": "Taxes When You Sell Mineral Rights mineral rights",
+  "width": 1600,
+  "height": 1000
+ }
 }
