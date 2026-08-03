@@ -1,76 +1,76 @@
 {
- "slug": "royalty-interests",
- "title": "Royalty Interests",
- "type": "interest-type",
- "status": "written",
- "metaTitle": "Royalty Interests: How They Pay and What Sells",
- "metaDescription": "A royalty interest is the cleanest asset in the mineral world to read and to sell. Here's how it shows up on a statement and what actually drives its value.",
- "heroLead": "Among the interests the royalty desk has evaluated, a straightforward royalty interest is the easiest to read on paper and the easiest to explain to an owner who's never seen a division order before.",
- "intro": [
-  "A royalty interest is a share of production revenue attached to your mineral ownership, free of the costs of drilling and operating the well. You don't pay for the rig, the completion, the pipe, or the monthly operating costs. You get your percentage of the value produced, and the operator absorbs the rest. That's what makes royalty interests the most common thing owners hold and the most straightforward thing to sell, compared to working interests or the more specialized carve-outs like NPRI and ORRI.",
-  "If you've got a check stub with a decimal interest and a well name on it, and no deductions for operating costs, you're almost certainly holding a standard royalty interest."
- ],
- "sections": [
-  {
-   "heading": "What a royalty interest actually means",
-   "paragraphs": [
-    "When you own minerals and lease them to an operator, the lease specifies a royalty rate, historically around one-eighth but commonly a quarter or more in modern leases, and that's your share of production once a well starts producing. You didn't pay drilling costs to get there and you don't pay a share of ongoing lease operating expenses either, though certain post-production costs, gathering, transportation, processing, are sometimes deducted depending on how your specific lease is worded.",
-    "That last point is worth reading closely in your own lease. Some leases are written 'cost-free' at the wellhead for those post-production charges, others allow the operator to deduct a proportional share. It's a real difference in what actually lands in your check each month."
-   ]
-  },
-  {
-   "heading": "How royalty shows up on your statement",
-   "paragraphs": [
-    "A typical royalty statement lists the well or lease, your decimal interest, the volume produced and sold, the price received, and your calculated share, sometimes as gross proceeds and sometimes net of the deductions your lease allows. If you see your monthly amount moving around even when production volume looks steady, it's usually price, not volume, driving the swing, since oil and gas prices move constantly and your check moves with them.",
-    "Keep a few years of statements if you can. A pattern over time, not any single month, is what tells you and any future buyer whether the well is genuinely declining or just swinging with price."
-   ]
-  },
-  {
-   "heading": "Why royalty interests are the easiest to sell",
-   "paragraphs": [
-    "Because royalty interests are cost-free at the point of production, freely transferable, and come with a clean paper trail through your check history and division order, they're the simplest interest type for a buyer to evaluate and price. There's no working interest cost exposure to underwrite, no lease-expiration cliff the way an ORRI carries, and no dependence on someone else's leasing decisions the way an NPRI does.",
-    "Value comes down to production trend, remaining well life, and current activity in your area, expressed as a range against your trailing check history rather than a single fixed multiple."
-   ]
-  },
-  {
-   "heading": "What to gather before getting a royalty quote",
-   "paragraphs": [
-    "The single most useful thing you can hand a buyer is twelve to twenty-four months of check stubs or a 1099, along with your division order if you have it. That trailing record does more to establish a fair value range than a description of the property ever could on its own.",
-    "If you're missing statements, most operators can reprint recent history on request through their owner relations line, usually within a week or two of asking."
-   ]
+  "slug": "royalty-interests",
+  "title": "Royalty Interests",
+  "type": "interest-type",
+  "status": "written",
+  "metaTitle": "Royalty Interests: How They Pay and What Sells",
+  "metaDescription": "A royalty interest is the cleanest asset in the mineral world to read and to sell. Here's how it shows up on a statement and what actually drives its value.",
+  "heroLead": "Among the interests the royalty desk has evaluated, a straightforward royalty interest is the easiest to read on paper and the easiest to explain to an owner who's never seen a division order before.",
+  "intro": [
+    "A royalty interest is a share of production revenue attached to your mineral ownership, free of the costs of drilling and operating the well. You don't pay for the rig, the completion, the pipe, or the monthly operating costs. You get your percentage of the value produced, and the operator absorbs the rest. That's what makes royalty interests the most common thing owners hold and the most straightforward thing to sell, compared to working interests or the more specialized carve-outs like NPRI and ORRI.",
+    "If you've got a check stub with a decimal interest and a well name on it, and no deductions for operating costs, you're almost certainly holding a standard royalty interest."
+  ],
+  "sections": [
+    {
+      "heading": "What a royalty interest actually means",
+      "paragraphs": [
+        "When you own minerals and lease them to an operator, the lease specifies a royalty rate, historically around one-eighth but commonly a quarter or more in modern leases, and that's your share of production once a well starts producing. You didn't pay drilling costs to get there and you don't pay a share of ongoing lease operating expenses either, though certain post-production costs, gathering, transportation, processing, are sometimes deducted depending on how your specific lease is worded.",
+        "That last point is worth reading closely in your own lease. Some leases are written 'cost-free' at the wellhead for those post-production charges, others allow the operator to deduct a proportional share. It's a real difference in what actually lands in your check each month."
+      ]
+    },
+    {
+      "heading": "How royalty shows up on your statement",
+      "paragraphs": [
+        "A typical royalty statement lists the well or lease, your decimal interest, the volume produced and sold, the price received, and your calculated share, sometimes as gross proceeds and sometimes net of the deductions your lease allows. If you see your monthly amount moving around even when production volume looks steady, it's usually price, not volume, driving the swing, since oil and gas prices move constantly and your check moves with them.",
+        "Keep a few years of statements if you can. A pattern over time, not any single month, is what tells you and any future buyer whether the well is genuinely declining or just swinging with price."
+      ]
+    },
+    {
+      "heading": "Why royalty interests are the easiest to sell",
+      "paragraphs": [
+        "Because royalty interests are cost-free at the point of production, freely transferable, and come with a clean paper trail through your check history and division order, they're the simplest interest type for a buyer to evaluate and price. There's no working interest cost exposure to underwrite, no lease-expiration cliff the way an ORRI carries, and no dependence on someone else's leasing decisions the way an NPRI does.",
+        "Value comes down to production trend, remaining well life, and current activity in your area, expressed as a range against your trailing check history rather than a single fixed multiple."
+      ]
+    },
+    {
+      "heading": "What to gather before getting a royalty quote",
+      "paragraphs": [
+        "The single most useful thing you can hand a buyer is twelve to twenty-four months of check stubs or a 1099, along with your division order if you have it. That trailing record does more to establish a fair value range than a description of the property ever could on its own.",
+        "If you're missing statements, most operators can reprint recent history on request through their owner relations line, usually within a week or two of asking."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do you have to pay any costs out of your royalty interest?",
+      "answer": "Not for drilling or operating costs, that's the operator's responsibility. Some leases do allow deductions for post-production costs like gathering or processing, depending on how the lease is worded, so it's worth reading your specific lease terms."
+    },
+    {
+      "question": "Why does your royalty check amount change every month?",
+      "answer": "Both production volume and commodity price move month to month, and either one can drive a change in your check. Price swings are usually the bigger factor when volume looks otherwise steady."
+    },
+    {
+      "question": "How is a royalty interest different from owning working interest?",
+      "answer": "A royalty interest is free of drilling and operating costs, paying a share of gross or net revenue without cost exposure. A working interest owner pays a proportional share of all drilling and operating costs, which can produce a loss in some months."
+    },
+    {
+      "question": "What determines the value of a royalty interest when selling?",
+      "answer": "Trailing production history, the well's decline trend, and current drilling or leasing activity nearby all factor into a valuation range, rather than any single fixed multiple applied uniformly."
+    },
+    {
+      "question": "Can you sell only part of your royalty interest and keep the rest?",
+      "answer": "Yes, partial sales of a royalty interest are common, letting you convert a portion to cash now while continuing to receive checks on the remaining share."
+    },
+    {
+      "question": "What's a reasonable royalty rate to expect on a new lease?",
+      "answer": "Rates vary by state, play, and how competitive leasing activity is in your specific area at the time, and quoting a single expected number without those factors isn't reliable. Comparing your terms against recent leases actually signed nearby gives a far more accurate read than any general rule of thumb."
+    }
+  ],
+  "wordCount": 899,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Royalty Interests mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Do you have to pay any costs out of your royalty interest?",
-   "answer": "Not for drilling or operating costs, that's the operator's responsibility. Some leases do allow deductions for post-production costs like gathering or processing, depending on how the lease is worded, so it's worth reading your specific lease terms."
-  },
-  {
-   "question": "Why does your royalty check amount change every month?",
-   "answer": "Both production volume and commodity price move month to month, and either one can drive a change in your check. Price swings are usually the bigger factor when volume looks otherwise steady."
-  },
-  {
-   "question": "How is a royalty interest different from owning working interest?",
-   "answer": "A royalty interest is free of drilling and operating costs, paying a share of gross or net revenue without cost exposure. A working interest owner pays a proportional share of all drilling and operating costs, which can produce a loss in some months."
-  },
-  {
-   "question": "What determines the value of a royalty interest when selling?",
-   "answer": "Trailing production history, the well's decline trend, and current drilling or leasing activity nearby all factor into a valuation range, rather than any single fixed multiple applied uniformly."
-  },
-  {
-   "question": "Can you sell only part of your royalty interest and keep the rest?",
-   "answer": "Yes, partial sales of a royalty interest are common, letting you convert a portion to cash now while continuing to receive checks on the remaining share."
-  },
-  {
-   "question": "What's a reasonable royalty rate to expect on a new lease?",
-   "answer": "Rates vary by state, play, and how competitive leasing activity is in your specific area at the time, and quoting a single expected number without those factors isn't reliable. Comparing your terms against recent leases actually signed nearby gives a far more accurate read than any general rule of thumb."
-  }
- ],
- "wordCount": 899,
- "image": {
-  "src": "/images/interest-types/mineral-rights-interest-types-royalty-interests-oilandgasroyaltybuyer-com.jpg",
-  "alt": "Royalty Interests mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

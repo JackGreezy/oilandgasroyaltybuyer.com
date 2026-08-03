@@ -1,91 +1,91 @@
 {
- "slug": "contact",
- "title": "Contact",
- "type": "page",
- "status": "written",
- "metaTitle": "Contact Oil & Gas Royalty Buyer",
- "metaDescription": "Reach out about a royalty or mineral interest - questions about a statement, an offer request, or general questions about the process.",
- "heroLead": "Whether you have a full file of statements or just a question about a check stub that doesn't make sense, this is where to start.",
- "intro": [
-  "You don't need to have your situation figured out before you reach out. Some owners contact us with a complete file ready for an offer; others just have a question about a deduction line on a statement, or aren't sure whether their inherited interest is even worth pursuing. Both are fair reasons to get in touch.",
-  "One person will handle your file from first contact forward, so you're not repeating your situation to a different voice every time you call."
- ],
- "sections": [
-  {
-   "heading": "What to include if you're ready for an offer",
-   "paragraphs": [
-    "Recent royalty statements, a deed or legal description, and the county where the minerals sit are the most useful starting point. If you don't have all of that, send what you do have - we'll tell you plainly what else, if anything, we need before we can put together a meaningful evaluation."
-   ]
-  },
-  {
-   "heading": "If you just have a question",
-   "paragraphs": [
-    "Not every contact needs to be about selling. If a statement doesn't make sense, if you're trying to understand a division order, or if you're just weighing whether leasing or selling fits your situation better, that's a reasonable reason to reach out on its own - we'd rather answer a question honestly than let confusion sit unresolved."
-   ]
-  },
-  {
-   "heading": "What happens after you reach out",
-   "paragraphs": [
-    "We'll respond and either answer your question directly or, if you're pursuing an offer, walk through what we'd need to evaluate your interest properly. There's no cost and no obligation attached to a conversation, and we won't push you toward a decision before you're ready to make one."
-   ]
-  },
-  {
-   "heading": "If you're comparing buyers",
-   "paragraphs": [
-    "It's reasonable to reach out to more than one buyer, and we'd rather you make an informed decision than a rushed one. If you already have another offer in hand and want a second read on it, tell us that directly - we'll give you an honest comparison rather than simply trying to beat a number we haven't seen the reasoning behind.",
-    "If you're not sure whether selling makes sense at all yet, that's a fine place to start too. Some conversations end in an offer; others end in us pointing you toward the resources on this site or telling you plainly that holding looks like the better move for your situation right now."
-   ]
-  },
-  {
-   "heading": "For heirs and multiple owners",
-   "paragraphs": [
-    "If a mineral interest is shared among several family members, any one owner can typically reach out about their own fractional share without needing every co-owner involved from the start. We're happy to walk through how a shared interest with multiple heirs typically gets evaluated and, if it comes to that, sold, since the process differs slightly from a single-owner sale."
-   ]
+  "slug": "contact",
+  "title": "Contact",
+  "type": "page",
+  "status": "written",
+  "metaTitle": "Contact Oil & Gas Royalty Buyer",
+  "metaDescription": "Reach out about a royalty or mineral interest - questions about a statement, an offer request, or general questions about the process.",
+  "heroLead": "Whether you have a full file of statements or just a question about a check stub that doesn't make sense, this is where to start.",
+  "intro": [
+    "You don't need to have your situation figured out before you reach out. Some owners contact us with a complete file ready for an offer; others just have a question about a deduction line on a statement, or aren't sure whether their inherited interest is even worth pursuing. Both are fair reasons to get in touch.",
+    "One person will handle your file from first contact forward, so you're not repeating your situation to a different voice every time you call."
+  ],
+  "sections": [
+    {
+      "heading": "What to include if you're ready for an offer",
+      "paragraphs": [
+        "Recent royalty statements, a deed or legal description, and the county where the minerals sit are the most useful starting point. If you don't have all of that, send what you do have - we'll tell you plainly what else, if anything, we need before we can put together a meaningful evaluation."
+      ]
+    },
+    {
+      "heading": "If you just have a question",
+      "paragraphs": [
+        "Not every contact needs to be about selling. If a statement doesn't make sense, if you're trying to understand a division order, or if you're just weighing whether leasing or selling fits your situation better, that's a reasonable reason to reach out on its own - we'd rather answer a question honestly than let confusion sit unresolved."
+      ]
+    },
+    {
+      "heading": "What happens after you reach out",
+      "paragraphs": [
+        "We'll respond and either answer your question directly or, if you're pursuing an offer, walk through what we'd need to evaluate your interest properly. There's no cost and no obligation attached to a conversation, and we won't push you toward a decision before you're ready to make one."
+      ]
+    },
+    {
+      "heading": "If you're comparing buyers",
+      "paragraphs": [
+        "It's reasonable to reach out to more than one buyer, and we'd rather you make an informed decision than a rushed one. If you already have another offer in hand and want a second read on it, tell us that directly - we'll give you an honest comparison rather than simply trying to beat a number we haven't seen the reasoning behind.",
+        "If you're not sure whether selling makes sense at all yet, that's a fine place to start too. Some conversations end in an offer; others end in us pointing you toward the resources on this site or telling you plainly that holding looks like the better move for your situation right now."
+      ]
+    },
+    {
+      "heading": "For heirs and multiple owners",
+      "paragraphs": [
+        "If a mineral interest is shared among several family members, any one owner can typically reach out about their own fractional share without needing every co-owner involved from the start. We're happy to walk through how a shared interest with multiple heirs typically gets evaluated and, if it comes to that, sold, since the process differs slightly from a single-owner sale."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What's the best way to reach you?",
+      "answer": "Use the contact form on this site with as much detail as you're comfortable sharing - even a partial file or a general question is a fine place to start."
+    },
+    {
+      "question": "How quickly will you hear back?",
+      "answer": "Typically within a business day or two for an initial response. A full written offer, once we have enough documentation, usually follows within a few business days after that."
+    },
+    {
+      "question": "Do you need to know exactly what you own before contacting you?",
+      "answer": "No. If you're unsure of your exact interest or where the minerals sit, tell us what you do know and we can help work out the rest from county records."
+    },
+    {
+      "question": "Is there any obligation once you reach out?",
+      "answer": "None. Contacting us, asking questions, and even receiving a written offer carry no obligation to sell or to continue the conversation."
+    },
+    {
+      "question": "Can you reach out on behalf of an elderly relative or an estate?",
+      "answer": "Yes. If you're acting on behalf of a parent, another relative, or an estate, tell us that context up front - we'll walk through what documentation, such as power of attorney or an executor's authority, would be needed if it comes to a sale."
+    },
+    {
+      "question": "Not sure whether you own anything—can the royalty desk help confirm it?",
+      "answer": "Yes. Tell us what you know - a family name, a state, a rough time period - and we can often help you figure out whether a recorded interest exists before you spend money chasing it down yourself."
+    },
+    {
+      "question": "Do you handle interests outside the basins listed on this site?",
+      "answer": "Reach out with your county and legal description regardless. If we're not positioned to evaluate it properly, we'll tell you plainly rather than string the conversation along."
+    },
+    {
+      "question": "Can you call instead of using the form?",
+      "answer": "Use the contact page to get started - we'll follow up with you directly, by phone or otherwise, based on what you indicate you prefer when you reach out."
+    },
+    {
+      "question": "Is there a wrong way to reach out?",
+      "answer": "No. A vague question, a partial file, or a full evaluation request are all reasonable starting points - we'd rather hear from you early than have you sit on a question for months."
+    }
+  ],
+  "wordCount": 862,
+  "image": {
+    "src": "/images/pages/mineral-rights-pages-contact-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Contact mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "What's the best way to reach you?",
-   "answer": "Use the contact form on this site with as much detail as you're comfortable sharing - even a partial file or a general question is a fine place to start."
-  },
-  {
-   "question": "How quickly will you hear back?",
-   "answer": "Typically within a business day or two for an initial response. A full written offer, once we have enough documentation, usually follows within a few business days after that."
-  },
-  {
-   "question": "Do you need to know exactly what you own before contacting you?",
-   "answer": "No. If you're unsure of your exact interest or where the minerals sit, tell us what you do know and we can help work out the rest from county records."
-  },
-  {
-   "question": "Is there any obligation once you reach out?",
-   "answer": "None. Contacting us, asking questions, and even receiving a written offer carry no obligation to sell or to continue the conversation."
-  },
-  {
-   "question": "Can you reach out on behalf of an elderly relative or an estate?",
-   "answer": "Yes. If you're acting on behalf of a parent, another relative, or an estate, tell us that context up front - we'll walk through what documentation, such as power of attorney or an executor's authority, would be needed if it comes to a sale."
-  },
-  {
-   "question": "Not sure whether you own anything—can the royalty desk help confirm it?",
-   "answer": "Yes. Tell us what you know - a family name, a state, a rough time period - and we can often help you figure out whether a recorded interest exists before you spend money chasing it down yourself."
-  },
-  {
-   "question": "Do you handle interests outside the basins listed on this site?",
-   "answer": "Reach out with your county and legal description regardless. If we're not positioned to evaluate it properly, we'll tell you plainly rather than string the conversation along."
-  },
-  {
-   "question": "Can you call instead of using the form?",
-   "answer": "Use the contact page to get started - we'll follow up with you directly, by phone or otherwise, based on what you indicate you prefer when you reach out."
-  },
-  {
-   "question": "Is there a wrong way to reach out?",
-   "answer": "No. A vague question, a partial file, or a full evaluation request are all reasonable starting points - we'd rather hear from you early than have you sit on a question for months."
-  }
- ],
- "wordCount": 862,
- "image": {
-  "src": "/images/pages/mineral-rights-pages-contact-oilandgasroyaltybuyer-com.jpg",
-  "alt": "Contact mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

@@ -1,76 +1,76 @@
 {
- "slug": "overriding-royalty-interests",
- "title": "Overriding Royalty Interests (ORRI)",
- "type": "interest-type",
- "status": "written",
- "metaTitle": "ORRI Explained: Overriding Royalty Interests",
- "metaDescription": "An ORRI is carved from a lease, not the mineral estate, and it ends when that lease ends. Here's how ORRI pays, why it's different, and what selling looks like.",
- "heroLead": "An overriding royalty interest can pay just as well as a regular royalty check, right up until the lease it's tied to expires, and then it stops existing entirely, which catches a lot of owners off guard.",
- "intro": [
-  "An ORRI is carved out of the working interest under a specific lease, not out of the mineral estate itself. That's the core thing that separates it from a royalty interest or an NPRI. Landmen, geologists, or operators are often the ones who end up holding ORRIs, created as part of a deal, a finder's fee for putting a lease together, compensation instead of cash, or a piece kept when an operator sold or assigned a lease to someone else. Individual owners inherit or acquire them too, but the origin is almost always tied to a specific business transaction on a specific lease.",
-  "The distinction matters because an ORRI's lifespan is tied entirely to that one lease. It has nothing to do with the underlying minerals continuing to exist."
- ],
- "sections": [
-  {
-   "heading": "Where ORRI comes from and how it's different",
-   "paragraphs": [
-    "A regular royalty interest is attached to the mineral estate itself and continues regardless of who operates the lease or how many leases come and go over the years. An ORRI is attached to one specific lease. If that lease is assigned to a new operator, the ORRI typically survives the assignment. But if the lease expires or is terminated, whether from non-production, a plugged well, or simply reaching the end of its life, the ORRI expires right along with it, with nothing left behind.",
-    "This is the single most important thing to understand if you own or are considering buying an ORRI: it's a claim on one lease's production, not a permanent claim on the minerals underneath the ground."
-   ]
-  },
-  {
-   "heading": "How ORRI shows up on a check, and the risk baked in",
-   "paragraphs": [
-    "While the lease is active and producing, an ORRI check looks similar to a royalty check: your decimal interest, the well and lease name, and your share of proceeds, typically calculated free of production costs the same way a standard royalty is. What's different is the risk sitting behind that check. If the well is plugged, if the operator lets the lease lapse, or if production simply ends, your ORRI ends too, with no reversion to a broader mineral estate the way a royalty owner might still have.",
-    "This makes ORRI a shorter-duration asset than a comparable royalty interest on the same production numbers, and that difference should be reflected in how it's valued, not treated as identical to a royalty check paying the same amount today."
-   ]
-  },
-  {
-   "heading": "Selling an ORRI",
-   "paragraphs": [
-    "Because ORRI value depends heavily on how much productive life is left in the specific lease and well it's attached to, a buyer will want production history, the current decline trend, and ideally some sense of the well's remaining economic life before quoting a number. A newer well early in its production life with an ORRI attached is a very different asset than an ORRI on a lease that's been producing for two decades and is clearly in late-stage decline.",
-    "If you're holding an ORRI and considering a sale, gathering the lease's production history and any information about the operator's plans for the well gives a buyer what they need to price it accurately rather than guessing."
-   ]
-  },
-  {
-   "heading": "Reading the instrument that created your ORRI",
-   "paragraphs": [
-    "The document that created your ORRI, often an assignment of overriding royalty interest, spells out the exact fraction, whether it's calculated on gross or net proceeds, and any specific lease it's tied to. That document controls everything about how your interest behaves, more than any generic explanation of what an ORRI typically looks like.",
-    "If you don't have a copy, the county clerk's records in the county where the lease is located should have it on file, since ORRI assignments are typically recorded the same way any other real property interest is."
-   ]
+  "slug": "overriding-royalty-interests",
+  "title": "Overriding Royalty Interests (ORRI)",
+  "type": "interest-type",
+  "status": "written",
+  "metaTitle": "ORRI Explained: Overriding Royalty Interests",
+  "metaDescription": "An ORRI is carved from a lease, not the mineral estate, and it ends when that lease ends. Here's how ORRI pays, why it's different, and what selling looks like.",
+  "heroLead": "An overriding royalty interest can pay just as well as a regular royalty check, right up until the lease it's tied to expires, and then it stops existing entirely, which catches a lot of owners off guard.",
+  "intro": [
+    "An ORRI is carved out of the working interest under a specific lease, not out of the mineral estate itself. That's the core thing that separates it from a royalty interest or an NPRI. Landmen, geologists, or operators are often the ones who end up holding ORRIs, created as part of a deal, a finder's fee for putting a lease together, compensation instead of cash, or a piece kept when an operator sold or assigned a lease to someone else. Individual owners inherit or acquire them too, but the origin is almost always tied to a specific business transaction on a specific lease.",
+    "The distinction matters because an ORRI's lifespan is tied entirely to that one lease. It has nothing to do with the underlying minerals continuing to exist."
+  ],
+  "sections": [
+    {
+      "heading": "Where ORRI comes from and how it's different",
+      "paragraphs": [
+        "A regular royalty interest is attached to the mineral estate itself and continues regardless of who operates the lease or how many leases come and go over the years. An ORRI is attached to one specific lease. If that lease is assigned to a new operator, the ORRI typically survives the assignment. But if the lease expires or is terminated, whether from non-production, a plugged well, or simply reaching the end of its life, the ORRI expires right along with it, with nothing left behind.",
+        "This is the single most important thing to understand if you own or are considering buying an ORRI: it's a claim on one lease's production, not a permanent claim on the minerals underneath the ground."
+      ]
+    },
+    {
+      "heading": "How ORRI shows up on a check, and the risk baked in",
+      "paragraphs": [
+        "While the lease is active and producing, an ORRI check looks similar to a royalty check: your decimal interest, the well and lease name, and your share of proceeds, typically calculated free of production costs the same way a standard royalty is. What's different is the risk sitting behind that check. If the well is plugged, if the operator lets the lease lapse, or if production simply ends, your ORRI ends too, with no reversion to a broader mineral estate the way a royalty owner might still have.",
+        "This makes ORRI a shorter-duration asset than a comparable royalty interest on the same production numbers, and that difference should be reflected in how it's valued, not treated as identical to a royalty check paying the same amount today."
+      ]
+    },
+    {
+      "heading": "Selling an ORRI",
+      "paragraphs": [
+        "Because ORRI value depends heavily on how much productive life is left in the specific lease and well it's attached to, a buyer will want production history, the current decline trend, and ideally some sense of the well's remaining economic life before quoting a number. A newer well early in its production life with an ORRI attached is a very different asset than an ORRI on a lease that's been producing for two decades and is clearly in late-stage decline.",
+        "If you're holding an ORRI and considering a sale, gathering the lease's production history and any information about the operator's plans for the well gives a buyer what they need to price it accurately rather than guessing."
+      ]
+    },
+    {
+      "heading": "Reading the instrument that created your ORRI",
+      "paragraphs": [
+        "The document that created your ORRI, often an assignment of overriding royalty interest, spells out the exact fraction, whether it's calculated on gross or net proceeds, and any specific lease it's tied to. That document controls everything about how your interest behaves, more than any generic explanation of what an ORRI typically looks like.",
+        "If you don't have a copy, the county clerk's records in the county where the lease is located should have it on file, since ORRI assignments are typically recorded the same way any other real property interest is."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does an overriding royalty interest expire when the lease does?",
+      "answer": "Yes, an ORRI is carved from a specific lease and ends when that lease terminates, whether from non-production, plugging the well, or the lease simply expiring. It doesn't revert to a broader mineral estate the way other interests can."
+    },
+    {
+      "question": "How is an ORRI different from a regular royalty interest?",
+      "answer": "A royalty interest is attached to mineral ownership and continues across multiple leases over time. An ORRI is attached to one specific lease only and disappears entirely when that lease ends."
+    },
+    {
+      "question": "Is an ORRI worth less than a royalty interest paying the same amount?",
+      "answer": "Often yes, because the ORRI carries additional risk of ending when the specific lease terminates, while a comparable royalty interest may continue under a future lease on the same minerals."
+    },
+    {
+      "question": "Can an ORRI survive if the operator sells the lease to another company?",
+      "answer": "Generally yes, an ORRI typically survives an assignment of the lease to a new operator, since it's a burden on the lease itself rather than tied to a particular operator's identity."
+    },
+    {
+      "question": "What should you gather before selling your ORRI?",
+      "answer": "Production history for the specific well and lease, the original instrument creating your ORRI, and any information about the well's current decline trend or remaining economic life help a buyer price it accurately."
+    },
+    {
+      "question": "Can an ORRI be created on more than one well or lease?",
+      "answer": "It can, if the instrument creating it references multiple leases or a defined area, though most ORRIs are tied to a single lease. Read the original grant closely to confirm exactly what it covers before assuming it applies more broadly."
+    }
+  ],
+  "wordCount": 957,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Overriding Royalty Interests (ORRI) mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Does an overriding royalty interest expire when the lease does?",
-   "answer": "Yes, an ORRI is carved from a specific lease and ends when that lease terminates, whether from non-production, plugging the well, or the lease simply expiring. It doesn't revert to a broader mineral estate the way other interests can."
-  },
-  {
-   "question": "How is an ORRI different from a regular royalty interest?",
-   "answer": "A royalty interest is attached to mineral ownership and continues across multiple leases over time. An ORRI is attached to one specific lease only and disappears entirely when that lease ends."
-  },
-  {
-   "question": "Is an ORRI worth less than a royalty interest paying the same amount?",
-   "answer": "Often yes, because the ORRI carries additional risk of ending when the specific lease terminates, while a comparable royalty interest may continue under a future lease on the same minerals."
-  },
-  {
-   "question": "Can an ORRI survive if the operator sells the lease to another company?",
-   "answer": "Generally yes, an ORRI typically survives an assignment of the lease to a new operator, since it's a burden on the lease itself rather than tied to a particular operator's identity."
-  },
-  {
-   "question": "What should you gather before selling your ORRI?",
-   "answer": "Production history for the specific well and lease, the original instrument creating your ORRI, and any information about the well's current decline trend or remaining economic life help a buyer price it accurately."
-  },
-  {
-   "question": "Can an ORRI be created on more than one well or lease?",
-   "answer": "It can, if the instrument creating it references multiple leases or a defined area, though most ORRIs are tied to a single lease. Read the original grant closely to confirm exactly what it covers before assuming it applies more broadly."
-  }
- ],
- "wordCount": 957,
- "image": {
-  "src": "/images/interest-types/mineral-rights-interest-types-overriding-royalty-interests-oilandgasroyaltybuyer-com.jpg",
-  "alt": "Overriding Royalty Interests (ORRI) mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }

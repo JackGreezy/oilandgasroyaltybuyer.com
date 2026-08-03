@@ -1,69 +1,69 @@
 {
- "slug": "non-participating-royalty",
- "title": "Non-Participating Royalty (NPRI)",
- "type": "interest-type",
- "status": "written",
- "metaTitle": "NPRI Explained: Non-Participating Royalty Interests",
- "metaDescription": "An NPRI pays a royalty share but carries no say in leasing. Here's how NPRI shows up on a check, why it's structured that way, and what selling one involves.",
- "heroLead": "An NPRI owner gets a check every time production happens, but they never got a vote on the lease that made it happen, and that distinction confuses more owners than any other part of a division order.",
- "intro": [
-  "Non-participating royalty interest is one of those terms that sounds more complicated than what it actually is. It means you own a right to a share of production revenue, but you don't hold the executive right, meaning you can't negotiate or sign a lease, don't receive bonus payments, and don't get delay rentals if the property sits unleased. Someone else, the mineral owner who reserved or granted the NPRI, controls all of that. You just get paid your share once oil or gas actually flows.",
-  "NPRIs typically show up one of two ways: a mineral owner sold their surface and reserved a royalty interest without the executive right, or a landowner carved out and sold just a royalty share to someone else while keeping the rest of the mineral estate for themselves."
- ],
- "sections": [
-  {
-   "heading": "What NPRI does and doesn't include",
-   "paragraphs": [
-    "An NPRI owner is entitled to their fractional share of production revenue once a well is drilled and producing, calculated against the same gross proceeds the mineral owner's royalty is calculated against. What an NPRI owner does not get is any say in whether the tract gets leased, what the royalty rate or bonus terms are, which operator drills it, or bonus and delay rental payments, all of which go to whoever holds the executive right.",
-    "This means an NPRI owner is entirely dependent on someone else's decision to lease the property at all. If the executive rights holder never leases, the NPRI never produces a check, regardless of how good the underlying acreage might be."
-   ]
-  },
-  {
-   "heading": "How NPRI shows up on a royalty statement",
-   "paragraphs": [
-    "Once production starts, an NPRI check looks a lot like a standard royalty check: it lists your decimal interest, the well or lease name, and your share of net proceeds after allowable deductions, if any are specified in the original NPRI grant. The key thing to check is whether your NPRI is a fixed fraction (like a straight 1/16th) or a fraction of a specific royalty rate, since older NPRI grants were written both ways and it changes how your check is calculated if the underlying lease royalty rate ever changes.",
-    "Read the original instrument creating your NPRI carefully, or have someone who works with mineral title read it for you, since the exact language determines your calculation, more than the decimal number printed on your current check stub ever will on its own."
-   ]
-  },
-  {
-   "heading": "Why NPRIs are harder to value and sell",
-   "paragraphs": [
-    "Because NPRI owners have no control over leasing, an unleased NPRI is worth meaningfully less than an unleased full mineral interest, since there's no bonus potential and no way to force a lease to happen. A producing NPRI, on the other hand, values fairly similarly to a comparable royalty interest, since the check itself works the same way once production exists.",
-    "When selling an NPRI, buyers will want to see the original instrument that created it in addition to a recent check stub, since the exact terms of that grant affect how the interest is priced. Owners who only provide a check stub and skip the underlying instrument tend to get a wider, more cautious range from a buyer who can't confirm the calculation method."
-   ]
+  "slug": "non-participating-royalty",
+  "title": "Non-Participating Royalty (NPRI)",
+  "type": "interest-type",
+  "status": "written",
+  "metaTitle": "NPRI Explained: Non-Participating Royalty Interests",
+  "metaDescription": "An NPRI pays a royalty share but carries no say in leasing. Here's how NPRI shows up on a check, why it's structured that way, and what selling one involves.",
+  "heroLead": "An NPRI owner gets a check every time production happens, but they never got a vote on the lease that made it happen, and that distinction confuses more owners than any other part of a division order.",
+  "intro": [
+    "Non-participating royalty interest is one of those terms that sounds more complicated than what it actually is. It means you own a right to a share of production revenue, but you don't hold the executive right, meaning you can't negotiate or sign a lease, don't receive bonus payments, and don't get delay rentals if the property sits unleased. Someone else, the mineral owner who reserved or granted the NPRI, controls all of that. You just get paid your share once oil or gas actually flows.",
+    "NPRIs typically show up one of two ways: a mineral owner sold their surface and reserved a royalty interest without the executive right, or a landowner carved out and sold just a royalty share to someone else while keeping the rest of the mineral estate for themselves."
+  ],
+  "sections": [
+    {
+      "heading": "What NPRI does and doesn't include",
+      "paragraphs": [
+        "An NPRI owner is entitled to their fractional share of production revenue once a well is drilled and producing, calculated against the same gross proceeds the mineral owner's royalty is calculated against. What an NPRI owner does not get is any say in whether the tract gets leased, what the royalty rate or bonus terms are, which operator drills it, or bonus and delay rental payments, all of which go to whoever holds the executive right.",
+        "This means an NPRI owner is entirely dependent on someone else's decision to lease the property at all. If the executive rights holder never leases, the NPRI never produces a check, regardless of how good the underlying acreage might be."
+      ]
+    },
+    {
+      "heading": "How NPRI shows up on a royalty statement",
+      "paragraphs": [
+        "Once production starts, an NPRI check looks a lot like a standard royalty check: it lists your decimal interest, the well or lease name, and your share of net proceeds after allowable deductions, if any are specified in the original NPRI grant. The key thing to check is whether your NPRI is a fixed fraction (like a straight 1/16th) or a fraction of a specific royalty rate, since older NPRI grants were written both ways and it changes how your check is calculated if the underlying lease royalty rate ever changes.",
+        "Read the original instrument creating your NPRI carefully, or have someone who works with mineral title read it for you, since the exact language determines your calculation, more than the decimal number printed on your current check stub ever will on its own."
+      ]
+    },
+    {
+      "heading": "Why NPRIs are harder to value and sell",
+      "paragraphs": [
+        "Because NPRI owners have no control over leasing, an unleased NPRI is worth meaningfully less than an unleased full mineral interest, since there's no bonus potential and no way to force a lease to happen. A producing NPRI, on the other hand, values fairly similarly to a comparable royalty interest, since the check itself works the same way once production exists.",
+        "When selling an NPRI, buyers will want to see the original instrument that created it in addition to a recent check stub, since the exact terms of that grant affect how the interest is priced. Owners who only provide a check stub and skip the underlying instrument tend to get a wider, more cautious range from a buyer who can't confirm the calculation method."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can an NPRI owner force a lease to happen?",
+      "answer": "No, the right to negotiate and sign a lease belongs to whoever holds the executive right, not the NPRI owner. An NPRI owner has no legal ability to compel leasing activity."
+    },
+    {
+      "question": "Does an NPRI owner get bonus money when a lease is signed?",
+      "answer": "No, bonus and delay rental payments go to the executive rights holder. NPRI owners are only paid once actual production begins, not at the leasing stage."
+    },
+    {
+      "question": "How do you know if you own a full mineral interest or just an NPRI?",
+      "answer": "Check the deed or instrument that granted or reserved your interest. If it specifically limits your rights to royalty only, without leasing authority, it's an NPRI. A title search can confirm this if the paperwork is unclear."
+    },
+    {
+      "question": "Are NPRIs worth less than a regular royalty interest?",
+      "answer": "An unleased NPRI is typically worth less than an unleased full mineral interest, since it carries no bonus potential and no control over leasing. Once producing, NPRI and royalty interests value fairly similarly."
+    },
+    {
+      "question": "What paperwork does a buyer need to purchase your NPRI?",
+      "answer": "The original deed or instrument creating the NPRI, along with recent check stubs or a division order if it's currently producing, gives a buyer what they need to properly evaluate and price the interest."
+    },
+    {
+      "question": "Can an NPRI be inherited or sold like any other interest?",
+      "answer": "Yes, an NPRI is a real property interest and passes through inheritance or sale like any other mineral interest, subject to whatever terms the original creating instrument sets out for the royalty calculation itself."
+    }
+  ],
+  "wordCount": 862,
+  "image": {
+    "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-oilandgasroyaltybuyer-com.jpg",
+    "alt": "Non-Participating Royalty (NPRI) mineral rights",
+    "width": 1600,
+    "height": 1000
   }
- ],
- "faqs": [
-  {
-   "question": "Can an NPRI owner force a lease to happen?",
-   "answer": "No, the right to negotiate and sign a lease belongs to whoever holds the executive right, not the NPRI owner. An NPRI owner has no legal ability to compel leasing activity."
-  },
-  {
-   "question": "Does an NPRI owner get bonus money when a lease is signed?",
-   "answer": "No, bonus and delay rental payments go to the executive rights holder. NPRI owners are only paid once actual production begins, not at the leasing stage."
-  },
-  {
-   "question": "How do you know if you own a full mineral interest or just an NPRI?",
-   "answer": "Check the deed or instrument that granted or reserved your interest. If it specifically limits your rights to royalty only, without leasing authority, it's an NPRI. A title search can confirm this if the paperwork is unclear."
-  },
-  {
-   "question": "Are NPRIs worth less than a regular royalty interest?",
-   "answer": "An unleased NPRI is typically worth less than an unleased full mineral interest, since it carries no bonus potential and no control over leasing. Once producing, NPRI and royalty interests value fairly similarly."
-  },
-  {
-   "question": "What paperwork does a buyer need to purchase your NPRI?",
-   "answer": "The original deed or instrument creating the NPRI, along with recent check stubs or a division order if it's currently producing, gives a buyer what they need to properly evaluate and price the interest."
-  },
-  {
-   "question": "Can an NPRI be inherited or sold like any other interest?",
-   "answer": "Yes, an NPRI is a real property interest and passes through inheritance or sale like any other mineral interest, subject to whatever terms the original creating instrument sets out for the royalty calculation itself."
-  }
- ],
- "wordCount": 862,
- "image": {
-  "src": "/images/interest-types/mineral-rights-interest-types-non-participating-royalty-oilandgasroyaltybuyer-com.jpg",
-  "alt": "Non-Participating Royalty (NPRI) mineral rights",
-  "width": 1600,
-  "height": 1000
- }
 }
