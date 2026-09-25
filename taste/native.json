@@ -1,0 +1,27 @@
+{
+  "classes": {
+    "#contact-form button[type=submit]": "ng-button"
+  },
+  "remove": {
+    "all": [
+      "ng-breadcrumb + ng-editorial:not(:has(#contact-form))",
+      "ng-editorial:has(#contact-form) .p-tag > div > p",
+      "ng-editorial-with-media:has(a.ng-button[href='/contact']) .block-layout__column--media"
+    ],
+    "slug": [
+      "section.has-parallax:not(.rr-taste-hero):not(:has(.rr-taste-hero))"
+    ]
+  },
+  "slug_order": ["faq", "related", "cta"],
+  "slug_mounts": {
+    "related": "main#layout-main",
+    "cta": "main#layout-main"
+  },
+  "templates": {
+    "faq": "<div class=\"statement-block-wrapper is-light\"><div class=\"statement-block-content\"><div class=\"statement-block-title\"><p class=\"item-market\">{kicker}</p><h2>{heading}</h2></div><div class=\"statement-block-subcontent\"><p class=\"p-tag\">{intro}</p></div><div class=\"card__layout\">{items}</div></div></div>",
+    "faq_item": "<div class=\"p-tag\"><h3>{q}</h3><div>{a}</div></div>",
+    "related": "<ng-card-grid class=\"wp-block-northrop-grumman-card-grid is-style-navy\"><div class=\"block-align__wrapper\"><div class=\"header__wrapper\"><p class=\"item-market\">{kicker}</p><h2>{heading}</h2><div class=\"p-tag\"><p>{intro}</p></div></div><div class=\"card__layout\"><div class=\"card-block-list__layout\">{items}</div></div><ng-button-row class=\"wp-block-northrop-grumman-button-row\"><a class=\"wp-block-northrop-grumman-button ng-button\" href=\"{all_href}\">{all_label}</a></ng-button-row></div></ng-card-grid>",
+    "related_item": "<ng-card-linkable class=\"wp-block-northrop-grumman-card-linkable card-default\"><a class=\"overlay-link\" href=\"{href}\"><span class=\"card__media-icon-default plus-icon\"></span><div class=\"card__body card__body-default\"><div class=\"card__body-title card__body-title-default\"><h4>{name}</h4></div><div class=\"card__body-text card__body-text-default\">{teaser}</div></div></a></ng-card-linkable>",
+    "cta": "<div class=\"module-banner\"><div class=\"text-content\"><p class=\"item-market\">{kicker}</p><h2>{title}</h2><p>{intro}</p><ng-button-row class=\"wp-block-northrop-grumman-button-row\"><a class=\"wp-block-northrop-grumman-button ng-button\" href=\"{contact_href}\">{label}</a><a class=\"right-arrow-icon-text\" href=\"{tel_href}\">Call {phone}</a></ng-button-row></div></div>"
+  }
+}
