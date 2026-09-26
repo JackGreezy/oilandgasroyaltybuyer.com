@@ -6,13 +6,20 @@
     "all": [
       "ng-breadcrumb + ng-editorial:not(:has(#contact-form))",
       "ng-editorial:has(#contact-form) .p-tag > div > p",
-      "ng-editorial-with-media:has(a.ng-button[href='/contact']) .block-layout__column--media"
+      "main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column--media",
+      "main#layout-main > ng-editorial-with-media:not(:last-child) .ThreeBtnRow__BtnRow-sc-116ndbh-0:has(a.ng-button[href='/contact'])",
+      "footer .footer-sub-menu > li:not(:has(a))",
+      "main#layout-main:not(:has(> ng-breadcrumb)) > section:first-child:has(~ ng-editorial-with-media) .editorial-container p"
     ],
     "slug": [
       "section.has-parallax:not(.rr-taste-hero):not(:has(.rr-taste-hero))"
     ]
   },
-  "slug_order": ["faq", "related", "cta"],
+  "slug_order": [
+    "faq",
+    "related",
+    "cta"
+  ],
   "slug_mounts": {
     "related": "main#layout-main",
     "cta": "main#layout-main"

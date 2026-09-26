@@ -44,13 +44,13 @@ html body .module-banner a.text-content{color:#fff!important;text-decoration:non
 
 /* ---------- About: text-only editorial rows alternate white / navy ---------- */
 html body #layout-main>section.FpaStyles__FpaContainer-sc-5033g6-0:not(.rr-taste-hero) .editorial-container{background:rgba(0,0,0,.74)!important;-webkit-backdrop-filter:none!important;backdrop-filter:none!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__wrapper,html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column,html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column-content{height:auto!important;min-height:0!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column-inner{height:auto!important;min-height:0!important;padding:64px 0!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column-inner,html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column-content,html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) ng-editorial-block-list{box-sizing:border-box!important;width:100%!important;max-width:none!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__wrapper{display:block!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column--editorial{box-sizing:border-box!important;width:min(900px,100%)!important;max-width:none!important;flex:none!important;margin:0 auto!important;padding:24px 20px!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) h2{font:700 clamp(28px,3vw,38px)/1.18 futura-pt,Arial,sans-serif!important;letter-spacing:0!important}
-html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .p-tag p{font:400 18px/1.65 futura-pt,Arial,sans-serif!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__wrapper,html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column,html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column-content{height:auto!important;min-height:0!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column-inner{height:auto!important;min-height:0!important;padding:64px 0!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column-inner,html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column-content,html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media ng-editorial-block-list{box-sizing:border-box!important;width:100%!important;max-width:none!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__wrapper{display:block!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column--editorial{box-sizing:border-box!important;width:min(900px,100%)!important;max-width:none!important;flex:none!important;margin:0 auto!important;padding:24px 20px!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media h2{font:700 clamp(28px,3vw,38px)/1.18 futura-pt,Arial,sans-serif!important;letter-spacing:0!important}
+html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .p-tag p{font:400 18px/1.65 futura-pt,Arial,sans-serif!important}
 
 /* ---------- Slug: the donor capability page ---------- */
 html body .rr-taste-prose-shell:has([data-rr-taste-faq]){padding-bottom:0!important}
@@ -151,6 +151,10 @@ html body footer .rr-footer-map iframe{display:block!important;width:100%!import
   html body .rr-contact-map{height:260px!important}
   html body footer .rr-footer-map{width:calc(100% - 40px)!important;height:200px!important;min-height:200px!important}
   html body .statement-block-wrapper .statement-block-subcontent .statement-block-subtitle{font-size:17px!important}
-  html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column-inner{padding:24px 0!important}
-  html body ng-editorial-with-media:has(a.ng-button[href="/contact"]) .block-layout__column--editorial{padding:16px 20px!important}
+  html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column-inner{padding:24px 0!important}
+  html body main#layout-main:not(:has(> ng-breadcrumb)) > ng-editorial-with-media .block-layout__column--editorial{padding:16px 20px!important}
+}
+@media (min-width:768px){
+  html body main#layout-main:has(> ng-breadcrumb) > ng-editorial-with-media:nth-of-type(odd) .block-layout__wrapper{flex-direction:row!important}
+  html body main#layout-main:has(> ng-breadcrumb) > ng-editorial-with-media:nth-of-type(even) .block-layout__wrapper{flex-direction:row-reverse!important}
 }

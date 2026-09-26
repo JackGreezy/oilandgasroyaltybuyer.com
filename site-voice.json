@@ -15,8 +15,8 @@
       "owner inquiry"
     ],
     [
-      "\\bguarantee(d|s)?\\b",
-      "document"
+      "\\b[Gg]uaranteed(?= (offer|price|payout|sale|closing|value|cash)\\b)",
+      "documented"
     ],
     [
       "\\bhighest offer\\b",
@@ -63,7 +63,7 @@
       "production"
     ],
     [
-      "mission",
+      "\\bmission\\b",
       "review"
     ],
     [
@@ -311,8 +311,17 @@
   "slug_ui": {
     "related_kicker": "Related royalty reviews",
     "related_heading": "Trace the next line behind the check",
-    "related_intro": "The same statement detail that matters for {item} also decides value in these reviews.",
+    "related_intro": "Each of these reviews turns on the same statement detail: the owner decimal, the wells behind it, the deductions, and the payor trail.",
     "faq_kicker": "Owner questions",
     "faq_intro": "Each answer ties the deposited amount back to the title, lease, unit, well, price, and adjustment records that produced it."
+  },
+  "taxonomy_intros": {
+    "situations": "Inheritance, probate, a trust, a divorce, or an unsolicited letter each changes the royalty file in a different way. Start with the event, then the document that proves it.",
+    "locations": "State rules frame the paperwork, but the county record, the unit, and the payor account decide what is actually being sold. Pick your state to see how we read the file there.",
+    "basins": "Basin activity sets the context for drilling, takeaway, and differentials. The value still comes from the wells, decimal, and title tied to your tract.",
+    "interest-types": "Fee minerals, royalties, NPRIs, overrides, and working interests carry different rights and burdens. Name the interest before anyone prices it.",
+    "resources": "Plain guides to reading check detail, division orders, deeds, deductions, and offer terms, written so owners can check a buyer's math.",
+    "investing": "How a royalty buyer builds the producing case, models decline, separates future development, and discounts the result, with every assumption left in view.",
+    "exchange-1031": "When sale proceeds may move into a 1031 exchange, the mineral closing and the exchange calendar have to agree. These guides keep the royalty facts straight while your advisers handle the tax side."
   }
 }
