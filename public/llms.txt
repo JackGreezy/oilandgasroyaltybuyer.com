@@ -1,6 +1,6 @@
 # Oil & Gas Royalty Buyer
 
-> A Williston oil and gas royalty buyer explaining check detail, owner decimals, decline, operator history, basin activity, title review, offer terms, and closing in plain language.
+> An oil and gas royalty buyer explaining check detail, owner decimals, decline, operator history, basin activity, title review, offer terms, and closing in plain language.
 
 ## Royalty Buying by State
 - https://oilandgasroyaltybuyer.com/locations/north-dakota
