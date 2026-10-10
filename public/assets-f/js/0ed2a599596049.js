@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002F404","\u002F[[...path]]","\u002Fcategory\u002F[[...category]]","\u002Fsuppliers-document-search\u002F[[...suppliers-document-search]]","\u002Ftag\u002F[[...tag]]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

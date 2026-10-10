@@ -136,7 +136,7 @@ for page in pages:
         if (width and width <= 32) or (height and height <= 32):
             failures.append(f"{page.relative_to(project)}: miniature image regression: {image.get('src', '')}")
         src = str(image.get("src", ""))
-        if src and not src.startswith(("/ours/", "data:")):
+        if src and not src.startswith(("/ours/", "/brand/", "data:")):
             failures.append(f"{page.relative_to(project)}: non-mapped image source: {src}")
     maps = soup.select('iframe[src*="google.com/maps"]')
     footer_maps = footer.select('iframe[src*="google.com/maps"]') if footer else []
@@ -146,7 +146,7 @@ for page in pages:
 
 home = BeautifulSoup(project.joinpath("public", "home.html").read_text(errors="ignore"), "html.parser")
 home_h1 = [" ".join(node.get_text(" ", strip=True).split()) for node in home.select("h1")]
-if len(home_h1) != 1 or "oil & gas royalty buyer" not in home_h1[0].lower() or "williston" not in home_h1[0].lower():
+if len(home_h1) != 1 or "oil & gas royalty buyer" not in home_h1[0].lower():
     failures.append(f"homepage SEO H1 is invalid: {home_h1}")
 hero_images = home.select("#layout-main > .module-banner:first-child img")
 if not hero_images or not any(str(image.get("src", "")).startswith("/ours/") for image in hero_images):

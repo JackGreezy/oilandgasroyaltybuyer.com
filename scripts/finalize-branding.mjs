@@ -14,10 +14,26 @@ const css=config.brand_repair_css_append||'';
 if(!css.includes('.rr-mobile-call'))throw Error('Missing approved mobile call styling');
 const script=`<script id="rr-brand-visibility" src="${runtime}" defer data-logo-variant="${escape(config.brand_logo_variant||'')}" data-phone="${escape(config.phone)}" data-business="${escape(config.biz)}"></script>`;
 const block='<!-- rr-logo-call-start --><style id="rr-logo-call">'+css+'</style>'+script+'<!-- rr-logo-call-end -->';
+const layoutFile=path.join(pub,'brand/hero-layout.js');
+const layout=fs.existsSync(layoutFile)?'<script id="rr-hero-layout" defer src="/brand/hero-layout.js?v='+crypto.createHash('sha256').update(fs.readFileSync(layoutFile)).digest('hex').slice(0,12)+'"></script>':'';
 function walk(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(entry=>entry.isDirectory()?walk(path.join(dir,entry.name)):[path.join(dir,entry.name)]);}
 let checked=0,changed=0;
 for(const file of walk(pub).filter(file=>file.endsWith('.html'))){
  let html=fs.readFileSync(file,'utf8');
+ const route='/'+path.relative(pub,file).replace(/\\/g,'/').replace(/\.html$/,'').replace(/\/index$/,'');
+ const local=config.location_hero_images?.[route];
+ if(local){
+  if(!fs.existsSync(path.join(pub,local.src)))throw Error('Missing mapped location photo: '+route);
+  html=html.replace(/<img\b[^>]*>/gi,tag=>{
+   if(!/\bclass=["'][^"']*\brr-taste-hero-media\b/.test(tag))return tag;
+   return tag.replace(/\s(?:srcset|data-srcset|data-src|data-lazy-src)=["'][^"']*["']/gi,'').replace(/\bsrc=["'][^"']*["']/i,'src="'+escape(local.src)+'"').replace(/\balt=["'][^"']*["']/i,'alt="'+escape(local.alt||'')+'"').replace(/\saria-hidden=["'][^"']*["']/i,'');
+  }).replace(/--rr-hero-image\s*:\s*url\([^)]*\)/g,"--rr-hero-image:url('"+local.src+"')");
+  if(local.credit){
+   html=html.replace(/<p\b[^>]*id=["']rr-location-photo-credit["'][^>]*>[\s\S]*?<\/p>/gi,'');
+   const credit='<p id="rr-location-photo-credit" style="max-width:1180px;margin:12px auto;padding:0 24px;font-size:12px;line-height:1.5">'+local.credit+'</p>';
+   html=html.replace(/(<img\b[^>]*\bclass=["'][^"']*\brr-taste-hero-media\b[^"']*["'][^>]*>[\s\S]*?<\/section>)/i,'$1'+credit);
+  }
+ }
  if(!/<html\b/i.test(html)||!/<\/body>/i.test(html)||!/<\/html>/i.test(html))throw Error('Incomplete generated page: '+path.relative(root,file));
  if(/tel:\+?1?\d{3}555\d{4}\b|\b\d{3}[-. ]555[-. ]\d{4}\b/.test(html))throw Error('Fictional business phone found: '+path.relative(root,file));
  for(const [before,after] of Object.entries(config.brand_media_replacements||{})){
@@ -27,6 +43,7 @@ for(const file of walk(pub).filter(file=>file.endsWith('.html'))){
  }
  // Only replace our exact owned marker blocks; leave the donor page DOM intact.
  html=html.replace(/<!-- rr-logo-call-start -->[\s\S]*?<!-- rr-logo-call-end -->/g,'').replace(/<script\b[^>]*\bid=["']rr-brand-visibility["'][^>]*>[\s\S]*?<\/script>/gi,'');
+ html=html.replace(/<script\b[^>]*\bid=["']rr-hero-layout["'][^>]*>[\s\S]*?<\/script>/gi,'');
  html=html.replace(/<img\b[^>]*>/gi,tag=>{
   if(!/\bclass=["'][^"']*\b(?:rr-approved-logo|rr-brand-logo)\b/.test(tag))return tag;
   let logo=tag.replace(/\s(?:srcset|data-srcset|data-src|data-lazy-src)=["'][^"']*["']/gi,'').replace(/\bsrc=["'][^"']*["']/i,'src="/brand/logo.png"');
@@ -42,7 +59,7 @@ for(const file of walk(pub).filter(file=>file.endsWith('.html'))){
  });
  const position=html.toLowerCase().lastIndexOf('</body>');
  const analytics=html.includes('/_vercel/insights/script.js')?'':'<script data-rr-vercel-analytics="init">window.va=window.va||function(){(window.vaq=window.vaq||[]).push(arguments);};</script><script data-rr-vercel-analytics="loader" defer src="/_vercel/insights/script.js"></script>';
- html=html.slice(0,position)+analytics+block+html.slice(position);
+ html=html.slice(0,position)+analytics+block+layout+html.slice(position);
  for(const asset of html.matchAll(/\/(?:ours|brand)\/[^\s"'<>\)]+?\.(?:jpe?g|png|webp|avif|svg|ico)/gi)){
   if(!fs.existsSync(path.join(pub,decodeURIComponent(asset[0]))))throw Error('Missing published image: '+asset[0]);
  }
