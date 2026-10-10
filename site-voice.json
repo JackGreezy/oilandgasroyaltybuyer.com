@@ -1,5 +1,5 @@
 {
-  "_": "This voice belongs only to oilandgasroyaltybuyer.com in Williston. It is an institutional royalty-desk voice informed by retired Williston Basin production-engineering experience with check detail, division orders, decimal changes, workovers, downtime, deductions, price differentials, and operator transitions. It explains the buyer's underwriting side plainly without pretending that a rule of thumb is a valuation. It never uses singular first-person blog voice. Never copy this voice into another domain, a shared pack, or a reusable template.",
+  "_": "This voice belongs only to oilandgasroyaltybuyer.com, a royalty desk for owners in every producing state. It is an institutional royalty-desk voice informed by retired production-engineering experience across the major basins with check detail, division orders, decimal changes, workovers, downtime, deductions, price differentials, and operator transitions. It explains the buyer's underwriting side plainly without pretending that a rule of thumb is a valuation. It never uses singular first-person blog voice. Never copy this voice into another domain, a shared pack, or a reusable template.",
   "taxonomy_titles": {
     "situations": "Royalty Owner Situations",
     "locations": "Royalty Buying by State",
@@ -77,7 +77,7 @@
   ],
   "heroes": [
     [
-      "Oil & Gas Royalty Buyer for Williston and the Bakken",
+      "Oil & Gas Royalty Buyer for Every Producing Basin",
       "Start with the check detail, division order, lease, county, and operator. Those records show more than a royalty multiple ever will."
     ],
     [
@@ -89,7 +89,7 @@
       "A buyer should show which value comes from producing wells and which comes from permits, spacing, offsets, inventory, timing, and decline assumptions."
     ],
     [
-      "Stress-Test the Decimal, Not Just the Commodity Price",
+      "Stress-Test the Decimal as Well as the Commodity Price",
       "Title fractions, unit allocation, royalty burdens, post-production costs, downtime, and ownership changes can move value before oil or gas prices do."
     ],
     [
@@ -98,9 +98,9 @@
     ]
   ],
   "copy": {
-    "home_title": "Oil & Gas Royalty Buyer in Williston, ND",
-    "home_meta": "A Williston oil and gas royalty buyer explaining check detail, owner decimals, decline, operator history, basin activity, title review, offer terms, and closing in plain language.",
-    "home_hero_title": "Oil & Gas Royalty Buyer for Williston and the Bakken",
+    "home_title": "Oil & Gas Royalty Buyer for Royalty Owners in Every Producing State",
+    "home_meta": "An oil and gas royalty buyer explaining check detail, owner decimals, decline, operator history, basin activity, title review, offer terms, and closing in plain language.",
+    "home_hero_title": "Oil & Gas Royalty Buyer for Every Producing Basin",
     "home_intro_title": "Start With the Check Detail, Not a Rule of Thumb",
     "home_intro": "A royalty check is the end of a long chain: title, lease burden, unit allocation, well performance, sales volume, realized pricing, taxes, deductions, and adjustments. We begin with that chain before discussing a cash offer.",
     "home_situations_title": "What Changed in the Ownership File?",
@@ -112,7 +112,7 @@
     "home_interests": "Fee minerals, royalty interests, NPRIs, overrides, and working interests do not carry the same rights, burdens, or liabilities. The deed, lease, division order, and statement should agree on the interest before a buyer prices it.",
     "home_locations_title": "County Records and Operator Data Belong Together",
     "home_locations": "A state label is only the beginning. The useful file ties recorded title to the legal description, unit, wells, payor account, regulator records, lease burdens, and the owner's current statement.",
-    "home_locations_line1": "Bakken Check Detail",
+    "home_locations_line1": "Basin-by-Basin Check Detail",
     "home_locations_line2": "Belongs in the Valuation.",
     "home_basins_title": "Read the Well.",
     "home_basins_tail": "Then Read the Basin.",
@@ -128,12 +128,12 @@
     "detail_cta_title": "Want a statement-led review of this royalty interest?",
     "faq_heading": "Questions a Royalty Owner Should Ask",
     "about_title": "How We Read an Oil and Gas Royalty File",
-    "about_p1": "Oil & Gas Royalty Buyer is built around the way an operator reads a revenue problem: identify the tract and interest, trace the decimal, reconcile the statement, locate the wells and units, separate existing production from future development, label every assumption, and carry the same interest through title and closing.",
+    "about_p1": "Oil & Gas Royalty Buyer follows the way an operator reads a revenue problem: identify the tract and interest, trace the decimal, reconcile the statement, locate the wells and units, separate existing production from future development, label every assumption, and carry the same interest through title and closing.",
     "about_p2": "The objective is not to make uncertainty disappear. It is to show where the current cash flow comes from, which facts support a buyer's model, what remains unresolved, and how offer terms can change the amount that finally closes.",
     "contact_title": "Request a Royalty Review",
     "contact_intro": "Send the county and state, operator or payor, owner decimal, recent check detail, well or unit names, lease or division order if available, and the question that prompted the review. We will start with the evidence already in hand.",
     "contact_section_title": "Bring the Statement and the Question",
-    "footer_tagline": "A Williston royalty desk for owners who want the check detail, decimal, wells, basin assumptions, offer terms, title schedule, and closing math explained together.",
+    "footer_tagline": "A royalty desk for owners in every producing state who want the check detail, decimal, wells, basin assumptions, offer terms, title schedule, and closing math explained together.",
     "privacy": "Oil & Gas Royalty Buyer uses submitted contact, ownership, property, production, statement, lease, title, operator, payor, well, unit, offer, and timing information only to answer an inquiry and evaluate a potential royalty transaction. We do not sell submitted personal information. Do not submit bank credentials, government identification numbers, or original documents through this website.",
     "terms": "This website provides general educational and transaction information, not legal, title, tax, accounting, investment, engineering, reserve, appraisal, or exchange advice. Production histories, decline cases, development assumptions, commodity prices, ownership decimals, deductions, title findings, offers, and closing amounts can change. Consult your own qualified professionals before signing a mineral or royalty conveyance.",
     "nf_title": "That Royalty File Is Not in This Index",
@@ -323,5 +323,6 @@
     "resources": "Plain guides to reading check detail, division orders, deeds, deductions, and offer terms, written so owners can check a buyer's math.",
     "investing": "How a royalty buyer builds the producing case, models decline, separates future development, and discounts the result, with every assumption left in view.",
     "exchange-1031": "When sale proceeds may move into a 1031 exchange, the mineral closing and the exchange calendar have to agree. These guides keep the royalty facts straight while your advisers handle the tax side."
-  }
+  },
+  "hero_city_suffix": false
 }

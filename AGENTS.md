@@ -3,7 +3,7 @@
 - This project is a faithful, multi-page relabel of `northropgrumman.com`. Preserve the donor DOM, component geometry, full-bleed media, alternating editorial cadence, typography, navigation behavior, and page-family distinctions.
 - Every homepage hero must contain one visible, nonempty, SEO-driven H1 that names the core service and its primary market. A blank-image hero is a release-blocking defect.
 - This is a business website, not a personal blog. Singular first-person editorial voice (`I`, `me`, `my`, `mine`, `myself`) is forbidden in authored and rendered copy. Use the institutional royalty-desk voice; owner FAQ questions should use direct second person.
-- The writing belongs only to `oilandgasroyaltybuyer.com`: an institutional royalty-desk voice informed by retired Williston Basin operating experience explains royalty statements and buyer underwriting candidly. Never copy this voice into another site, a shared pack, or a reusable template.
+- The writing belongs only to `oilandgasroyaltybuyer.com`: an institutional royalty-desk voice informed by retired operating experience across producing basins, serving royalty owners in every state, explains royalty statements and buyer underwriting candidly. Never copy this voice into another site, a shared pack, or a reusable template.
 - Use only the mapped local image inventory in `images/` and its staged `public/ours/` copy. No donor photos, remote content images, placeholders, blank media frames, or unrelated stock photos.
 - Do not render miniature decorative pictures anywhere. Footer media must be exactly zero: no `img`, `picture`, `svg`, `video`, `canvas`, `iframe`, or `source`.
 - The street address may exist only in metadata and the single Google Maps embed on the contact page. It must never appear as visible text.
@@ -15,6 +15,6 @@
 - Preserve this project’s own donor theme and the unique business voice already declared above. Never copy another mineral-rights site’s CTA copy or voice.
 - Every taxonomy slug page may render exactly one image: its mapped `/ours/` hero. It must use a centered desktop reading measure, donor-colored related navigation, and a strong final contact plus phone CTA.
 - Every public contact form has exactly four visitor fields in this order: Name, Email, Phone, Message. Field names are `name`, `email`, `phone`, and `message`.
-- Every desktop header shows 701-555-1014 and a clear CTA that lands on `/contact#contact-form`. Consolidate secondary links before allowing overlap; dropdowns must open on hover/focus and keep the trigger-to-menu gap selectable.
+- Every desktop header shows 701-575-7461 and a clear CTA that lands on `/contact#contact-form`. Consolidate secondary links before allowing overlap; dropdowns must open on hover/focus and keep the trigger-to-menu gap selectable.
 - Every page-level footer contains one Google Maps embed and no other footer media. Contact also contains one unlabeled body map. The street address remains metadata/map-query only and never appears as visible page copy.
 - Slug-page heroes, FAQ treatments, related navigation, carousel controls, and closing CTAs must use this donor's own homepage typography and composition. Never substitute the shared look of another fleet site or a recolored universal block.
